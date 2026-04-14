@@ -8,7 +8,7 @@ mutable struct Measurement
 end
 
 function loadData()
-  return readlines("./data/measurements.txt")
+  return readlines("./data/measurements_10m.txt")
 end
 
 function processData(data)

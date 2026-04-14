@@ -23,6 +23,27 @@ function efficientSplit(line::String, delim::Char)
   end
 end
 
+function processData(data)
+  dataPoints = Dict{String, Measurement}()
+  sizehint!(dataPoints, 10_000) # The challange said that there could at max be 10_000 stations
+
+  @inbounds for point in data
+    station, value = efficientSplit(point, ';')
+
+    if haskey(dataPoints, station)
+      existingPoint = dataPoints[station]
+      @atomic min(existingPoint.min, value)
+      @atomic max(existingPoint.max, value)
+      @atomic existingPoint.sum += value
+      @atomic existingPoint.amountOfPoints += 1
+    else
+      push!(dataPoints, station => Measurement(value, value, value, 1))
+    end
+  end
+
+  return dataPoints
+end
+
 function sortData(dataPoints)
   # Copy the keys ourselves into a vector, to prevent having to grow the vector
   # If we would have just called collect, it would have had to grow the vector
@@ -57,27 +78,6 @@ function printData(dataPoints)
   print("}")
 end
 
-function processData(data)
-  dataPoints = Dict{String, Measurement}()
-  sizehint!(dataPoints, 10_000) # The challange said that there could at max be 10_000 stations
-
-  @inbounds for point in data
-    station, value = efficientSplit(point, ';')
-
-    if haskey(dataPoints, station)
-      existingPoint = dataPoints[station]
-      @atomic min(existingPoint.min, value)
-      @atomic max(existingPoint.max, value)
-      @atomic existingPoint.sum += value
-      @atomic existingPoint.amountOfPoints += 1
-    else
-      push!(dataPoints, station => Measurement(value, value, value, 1))
-    end
-  end
-
-  return dataPoints
-end
-
 function mergeResults(fullResult::Dict{String, Measurement}, partialResults::Dict{String, Measurement})
   global testLock
 
@@ -86,7 +86,6 @@ function mergeResults(fullResult::Dict{String, Measurement}, partialResults::Dic
     if haskey(fullResult, partialMeasurement.first)
       existingPoint = fullResult[partialMeasurement.first]
       unlock(testLock)
-
       @atomic min(existingPoint.min, partialMeasurement.second.min)
       @atomic max(existingPoint.max, partialMeasurement.second.max)
       @atomic existingPoint.sum += partialMeasurement.second.sum

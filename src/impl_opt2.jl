@@ -6,8 +6,8 @@ mutable struct Measurement
 end
 
 function loadData()
-  lines = Vector{String}(undef, 10_000_000)
-  open("./data/measurements.txt") do io
+  lines = Vector{String}(undef, 100_000_000)
+  open("./data/measurements_100m.txt") do io
     i = 1
     for line in eachline(io)
       lines[i] = line
