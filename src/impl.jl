@@ -1,4 +1,5 @@
 using Base.Threads
+using CSV, DataFrames
 
 const amountOfLines = 100_000_000
 testLock = ReentrantLock()
@@ -62,7 +63,7 @@ function processData(data)
   sizehint!(dataPoints, 10_000) # The challange said that there could at max be 10_000 stations
 
   @inbounds for point in data
-    station, value = efficientSplit(point, ';')
+    station, value = point
 
     if haskey(dataPoints, station)
       existingPoint = dataPoints[station]
@@ -96,6 +97,40 @@ function mergeResults(fullResult::Dict{String, Measurement}, partialResults::Dic
       unlock(testLock)
     end
   end
+end
+
+function __init2__()
+  GC.enable(false) # Disable GC, as we run for a short period of time anyways, and there is no point in dealing with the overhead
+
+  csvData = CSV.read("./data/measurements_100m.txt", DataFrame; header=false)
+
+  mergedResults = Dict{String, Measurement}()
+  sizehint!(mergedResults, 10_000) # The challange said that there could at max be 10_000 stations
+
+  amountOfThreads = nthreads()
+  chunkSize = fld(amountOfLines, amountOfThreads)
+
+  # data = Mmap.mmap(open("./data/measurements_100m.txt"))
+  i = 1
+  lines = Vector{Tuple{String, Float64}}(undef, amountOfLines)
+  @sync for line in eachrow(csvData)
+    lines[i] = (line[1], line[2])
+    i += 1
+
+    if i % chunkSize == 0
+      t = fld(i, chunkSize)
+      lo = (t - 1) * chunkSize + 1
+      hi = t == amountOfThreads ? amountOfLines : t * chunkSize
+
+      dataView = @view lines[lo:hi]
+      @spawn begin 
+        dataPoints = processData(dataView)
+        mergeResults(mergedResults, dataPoints)
+      end
+    end
+  end
+
+  # printData(mergedResults)
 end
 
 function __init__()
@@ -133,5 +168,5 @@ function __init__()
   # printData(mergedResults)
 end
 
-__init__()
+__init2__()
 sleep(1)
