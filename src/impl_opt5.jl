@@ -157,7 +157,7 @@ function solve()
     end
   end
 
-  # printData(mergedResults)
+  printData(mergedResults)
 end
 
 end

@@ -1,4 +1,12 @@
-name = "_1brc"
+name = "julia_1brc"
 uuid = "9dc82700-4a85-4034-a8ad-a08ac4ce43d9"
 version = "0.1.0"
 authors = ["Joost Godschalk <jcgodschalk@gmail.com>"]
+
+[deps]
+Mmap = "a63ad114-7e13-5084-954f-fe012c677804"
+Parsers = "69de0a69-1ddd-5017-9359-2bf0b02dc9f0"
+
+[compat]
+Mmap = "1.11.0"
+Parsers = "2.8.3"

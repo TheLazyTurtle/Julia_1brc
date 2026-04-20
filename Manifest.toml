@@ -2,11 +2,15 @@
 
 julia_version = "1.12.4"
 manifest_format = "2.0"
-project_hash = "26a61e58a68169ba0edb89d83d39af5c5d2a4ab1"
+project_hash = "5ca4d49a3ce09430b1384b4a9183c49a28849590"
 
 [[deps.Dates]]
 deps = ["Printf"]
 uuid = "ade2ca70-3891-5945-98fb-dc099432e06a"
+version = "1.11.0"
+
+[[deps.Mmap]]
+uuid = "a63ad114-7e13-5084-954f-fe012c677804"
 version = "1.11.0"
 
 [[deps.Parsers]]

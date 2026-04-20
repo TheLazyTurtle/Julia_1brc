@@ -1,5 +1,6 @@
-module _1brc
+module julia_1brc
+include("impl.jl")
+using .Solution
 
-greet() = print("Hello World!")
 
 end # module _1brc

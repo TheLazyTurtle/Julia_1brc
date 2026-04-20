@@ -1,0 +1,10000 @@
+Dabouziya;-69.7
+Erumāpālaiyam;-5.2
+Osvaldo Cruz;-82.9
+Vaals;77.5
+Busko-Zdrój;-37.9
+Merrill;98.0
+Gemona del Friuli;59.9
+Orito;-19.3
+Sagunto;-72.7
+Cuyahoga Falls;-28.2
+Jocotepec;-86.7
+San Tomas;-88.7
+Managua;-26.6
+Vitomarci;84.2
+Gubkin;-18.5
+Catchiungo;-83.2
+Pensilvania;91.3
+Āgiripalle;-48.4
+Nueva Toltén;-20.6
+Wednesfield;88.2
+Akhty;-90.4
+Warud;0.1
+Belvidere;-35.6
+Deogarh;47.8
+El Viejo;0.6
+Ondo;66.4
+Wolverton;11.2
+Erquelinnes;-43.7
+Santa María Tonameca;74.0
+Rāmpur Jalālpur;24.6
+Sīlaiyampatti;-83.4
+Thames Centre;-22.4
+Pongnam;-48.4
+Birni;-42.7
+Kolumalapalle;-17.8
+Sharm ash Shaykh;-29.0
+Davutlar;64.5
+Lieksa;-63.6
+Peabiru;36.2
+Narlıca;-49.7
+Antipolo;-32.9
+Adelphi;49.5
+Medinīpur;86.5
+Pesaro;-8.2
+Mandaguari;-77.5
+Winona;-32.7
+Ciudadela;38.9
+Burntwood;62.9
+Floriano;51.8
+Zungeru;52.8
+Natividad;-25.8
+Sederot;-3.2
+Recklinghausen;29.3
+Andriivka;-99.0
+Vernon Hills;-27.9
+Genemuiden;15.7
+Ammon;49.6
+Wieluń;-96.6
+Stavropol;-15.2
+Azuqueca de Henares;-82.2
+Batuco;41.8
+Cêrro Azul;79.0
+Marlborough;-90.1
+Leonding;-63.5
+Mallawī;-87.9
+Balaoan;-55.9
+Shorewood;16.8
+Prostějov;60.9
+Krosno Odrzańskie;83.1
+Qorashina;33.5
+Sāram;-32.6
+Villach;73.4
+Upper Saucon;30.1
+Ambalarondra;99.4
+Barwādih;-51.9
+Gogogogo;-62.7
+Ecclesall;-54.7
+Kurort Steinbach-Hallenberg;80.3
+Pervomaysk;-38.3
+Piru;-77.7
+Lumberton;10.0
+Palmeiras de Goiás;-91.4
+Zacapa;-23.7
+Villa María;41.1
+Balsas;-23.3
+Debre Birhan;-75.2
+Mukdahan;50.2
+Qaqortoq;-66.3
+Orito;62.0
+Ialysós;-40.2
+Rettanai;84.0
+Oklahoma City;59.4
+Saguday;-92.5
+Padiāla;-28.3
+Aketi;30.2
+Teleneşti;-58.1
+Tucson Mountains;-73.4
+Guttenberg;-47.9
+Mahwah;-57.0
+Toppenish;-86.4
+Or ‘Aqiva;55.9
+Sanga;-99.0
+Tres Valles;-42.6
+Balud;-84.8
+Quimbaya;16.6
+Jaraguá do Sul;-86.2
+Gədəbəy;-4.3
+Owerri;-9.3
+Gavirate;18.2
+Ban Yang Hom;-28.1
+Biougra;81.8
+Albania;-90.4
+Jagodina;-41.0
+Thuân An;-81.7
+Pastos Bons;44.1
+Lavezares;-12.7
+Barwon Heads;-39.0
+Limburg;-25.4
+Karlstad;-61.7
+Park Forest;-11.6
+Ambatondrazaka;-39.8
+Beltsville;51.4
+Allāhdurg;77.9
+Barnāon;49.4
+Brahmānandapuram;-23.9
+Paarl;60.6
+Thogapalle;14.3
+Muthābana;55.5
+Maruim;33.0
+Jānakammapeta;97.8
+Cherniakhiv;19.9
+Noyon;-39.4
+Kondakindi Agrahāram;50.6
+Kaithwār;95.1
+Patera;-99.6
+Caracol;-39.6
+Goyty;42.1
+Câmpina;-43.3
+Beohāri;59.2
+Minzhu;10.8
+Galimuyod;-98.8
+Şabrātah;59.8
+Belém de Maria;-34.3
+Chatou;-86.7
+Zangāreddigūdem;-85.9
+Yenakiieve;33.9
+Stavropol;-31.1
+Eraurā;35.0
+Xianxi;0.1
+Manacor;73.7
+Ati;4.8
+Gualdo Tadino;55.5
+La Puebla de Cazalla;-50.6
+Grevesmühlen;-16.4
+Montegranaro;-81.8
+Los Reyes de Salgado;90.0
+Maţraḩ;-36.3
+Fatehpur Sīkri;-89.0
+Vänersborg;-36.4
+Gorantla;-49.6
+Villa María;66.7
+Villeneuve-lès-Maguelone;18.7
+Velikiy Ustyug;-54.0
+Padinska Skela;-2.9
+Treviso;86.9
+Pouso Redondo;-3.9
+São João Batista;19.9
+West Lampeter;39.1
+Kolding;21.8
+Jitotol;-85.7
+Nanao;-44.6
+Ishigaki;27.4
+Kleinblittersdorf;77.6
+Carouge;-89.9
+Pittsburg;92.3
+Analamary;48.5
+Serramanna;-28.7
+Khairpur Mir’s;-35.1
+Zumpango del Río;-46.6
+San Valentino Torio;39.8
+Juprelle;-17.1
+Commune Sidi Youssef Ben Ahmed;-88.0
+Ang Thong;-25.9
+Ben N’Choud;27.1
+Sterling;80.8
+El Bagre;-10.8
+Puerto Quijarro;-9.6
+Pfaffenhofen;-51.3
+Chassieu;75.7
+Langedijk;37.3
+Sīāhkal;-72.8
+Moldova Nouă;28.3
+Al Wajh;68.4
+Jalolquduq;-5.5
+Nallamadu;62.7
+Fishers;-1.8
+Solânea;-72.0
+Shijiazhuang;-85.6
+Ervália;25.9
+Bayabas;35.9
+Haddonfield;-12.0
+Jhakhra;-71.6
+Guidel;6.6
+Campiglia Marittima;-37.1
+Novgorodskoye;-33.3
+Borgo San Lorenzo;-82.7
+Shenjiabang;-97.5
+Hamminkeln;29.1
+Hollister;-80.5
+Huehuetán;33.9
+Tequisquiapan;-84.9
+Agui;-59.5
+Palukudoddi;-73.0
+Changwon;-7.1
+Aubergenville;57.3
+Jagodina;19.1
+Chaplynka;-17.3
+Birigui;-37.6
+Bignay;-88.6
+Koidu;26.1
+Axixá;39.3
+Rheinberg;-11.0
+Terra Roxa d’Oeste;16.6
+Gədəbəy;-20.6
+Kanchika;23.6
+Manta;29.7
+Stony Plain;66.8
+Alzano Lombardo;-58.6
+Ladson;93.8
+Halfeti;-55.8
+Glazoué;-12.8
+The Village;-42.4
+Gig Harbor;-70.0
+Albury;-39.3
+Dewsbury;-62.8
+Mobara;-96.1
+Shamgarh;97.4
+Norīa;-58.3
+Sikonge;3.7
+Manor;-96.4
+Aubergenville;59.0
+Bình Hòa;-79.2
+Svrljig;33.7
+Tiztoutine;57.2
+Alzano Lombardo;-58.0
+Semuto;94.6
+Casa Grande;76.3
+Romans-sur-Isère;20.3
+Airmadidi;-40.3
+Pintadas;84.1
+Queensferry;-94.9
+Hacienda Heights;49.0
+Fuxin;10.6
+Kāshmar;-71.4
+Pullalacheruvu;12.7
+Bugho;-3.2
+Arpaçay;-54.9
+La Mata;-63.9
+North Reading;79.6
+Sibiti;30.8
+Suthālia;94.0
+Parsuram;-49.9
+Konnūr;42.1
+San Martin Texmelucan de Labastida;45.7
+Ulipuram;-7.9
+Tirumala;1.8
+Rantau Prapat;50.4
+Funza;37.9
+Beringovskiy;23.2
+Linda;95.5
+Baymak;34.5
+Yerbas Buenas;24.8
+Gundelfingen;-91.8
+Gamprin;80.4
+Bistriţa;-96.8
+Gardner;-45.5
+Tipasa;84.5
+Ban Phe;-77.1
+Kastav;-32.5
+Androka;-65.0
+Gonohe;20.9
+Spanish Fort;-69.8
+Pipra Dewās;-85.8
+Olympia Heights;52.7
+Várzea do Poço;22.2
+Oviedo;-50.2
+Thogapalle;-19.0
+Airway Heights;-94.8
+Severínia;61.4
+Upper Bicutan;-12.3
+Maidstone;-87.6
+Shibata;99.9
+Bajiao;-27.2
+Reutov;52.1
+Terre Neuve;26.7
+Kenduadīh;-63.1
+Fada;36.9
+Vittoriosa;-48.7
+Rillieux-la-Pape;32.5
+Khairpur Mir’s;-71.0
+Bad Lauchstädt;-90.1
+Banjul;49.5
+Aomori;27.4
+Mikumi;-75.7
+Tandubas;-9.9
+Kottaiyūr;-59.4
+Chibia;53.4
+Ortaklar;-17.4
+Bergen;87.6
+Shimomura;44.9
+Uppidamangalam;52.8
+Camalaniugan;17.3
+Madrid;90.5
+Kuala Terengganu;-61.3
+Sovicille;56.3
+Tân Sơn;74.8
+Būdili;-66.6
+Khirhar;81.7
+Conakry;-93.6
+Xinshi;91.7
+San Policarpo;23.1
+Kengarai;91.8
+Franeker;-63.2
+Judenburg;53.1
+Myślenice;99.6
+Harare;-30.0
+Atkarsk;-81.6
+Sanjiaocheng;29.5
+Rio dos Cedros;60.6
+Chennayyanakote;-29.2
+Yicheng;50.6
+Livadeiá;39.8
+Ambohimangakely;-98.9
+Cordisburgo;15.9
+Bethany;-13.4
+Koppāka;-26.5
+Cabucgayan;-21.3
+Tipton;6.6
+Harqalah;85.0
+Speedway;27.4
+Le Mée-sur-Seine;-2.2
+Nawāda;-72.4
+Ixtapaluca;38.2
+Nadisāl;-49.9
+Hœnheim;65.6
+Bom Repouso;92.9
+Antanimora Atsinanana;15.2
+Karlstad;60.7
+Saint-Chamas;87.3
+Dengtangcun;-63.8
+Doncaster;-40.2
+Balayan;52.0
+Inta;-90.4
+Griffin;51.1
+Tinley Park;-95.8
+Alquízar;71.2
+Kabuga;43.4
+Pensacola;79.1
+Penza;21.2
+Zangāreddigūdem;-12.7
+Kırıkkale;-85.0
+Ersekë;-26.0
+Pardés H̱anna Karkur;-61.3
+Ciudad Valles;73.8
+Hōki;-9.5
+Schwarzenbruck;-9.2
+Vwawa;-60.0
+Manucan;-84.0
+Cloverleaf;-80.1
+San Vito dei Normanni;90.9
+Burnham-on-Sea;93.2
+Kholmsk;-70.9
+Český Krumlov;64.6
+Bonita;-68.8
+Orestiáda;-77.2
+Mendoza;65.2
+Nizhniy Tagil;-92.2
+Boulsa;15.6
+Challans;-0.4
+Mableton;20.4
+Nakūr;-14.5
+Gamharia;57.1
+Chākdaha;74.0
+Osterwieck;56.4
+Sítio do Quinto;93.7
+Jhenida;-37.3
+Broadwater;-82.0
+Farkhor;73.1
+Odaiyakulam;-88.6
+Linxi;4.5
+Dodola;-92.5
+Baena;-10.7
+Nehbandān;-36.0
+Higashiura;-16.8
+Tzintzuntzán;14.7
+Vich;-31.1
+Dahi;64.0
+Newcastle;-68.9
+Oppegård;62.3
+Moengo;75.4
+Cascais;34.0
+Hacienda Heights;-57.3
+Palagonia;-77.4
+Piriyāpatna;90.9
+Tapaktuan;-95.7
+Huludao;-34.1
+Mariscal José Félix Estigarribia;-30.7
+Ad Dujayl;-56.0
+Orly;3.1
+Jānpur;-1.3
+Birigui;88.3
+Kyōto;-15.8
+Colle Salvetti;-66.4
+Nagano;4.8
+Dalyoni Bolo;18.4
+Mugumu;36.0
+Ulukışla;26.4
+Upper Bicutan;-23.7
+Kibichūō;-11.9
+Pitangui;25.5
+Ban Pa Sak;89.1
+Lugoj;-58.5
+Moralzarzal;77.5
+Stretford;-47.9
+Raychikhinsk;74.3
+Aţ Ţūr;-47.8
+Schleiz;-47.6
+Saint-Sébastien-sur-Loire;11.7
+Tequisquiapan;83.5
+Buriti Bravo;4.6
+Strada;-25.8
+Vittoriosa;-3.6
+Clorinda;60.4
+Obninsk;-97.8
+Echelon;52.6
+Bemarivo;87.7
+Eqbālīyeh;-66.0
+Veppattūr;-1.8
+Tornio;-50.7
+Bara Malehra;18.1
+Ouinhri;-70.6
+Ciudad de Ceuta;-43.8
+Tāmganj;-88.7
+La Nucía;61.2
+Garlasco;-27.0
+Seekonk;-52.9
+Santa Maria do Pará;36.8
+Castellaneta;-31.7
+Kocaeli;73.5
+Rita;7.7
+Seguin;-52.7
+Ban Nong Kula;16.4
+Venezuela;-66.8
+Senmanat;-40.2
+Agar;-85.7
+Kiwoko;65.2
+Pesaro;69.5
+Dishāshah;-55.5
+Twinsburg;-7.7
+San Agustín Chahal;-78.8
+Poiana Mare;-63.1
+Kocaeli;-0.0
+Ash Shūnah ash Shamālīyah;-52.0
+Las Charcas;70.5
+Vénissieux;51.6
+Namegata;-21.3
+Pastavy;-90.8
+Sidi Boushab;-16.6
+Amparo;-89.0
+El Dovio;-37.9
+Mölnlycke;-75.2
+Kutaisi;84.3
+Ryazhsk;-70.7
+Jhenida;-55.3
+Arzgir;-17.8
+Foligno;73.7
+Unnāo;26.8
+El Marsa;-57.6
+Fiorano Modenese;47.7
+Kangān;-86.1
+Al Ghāţ;-89.3
+Jacaraci;-66.1
+Koori;83.7
+Koppal;-10.5
+Port Coquitlam;58.0
+Grammichele;63.1
+Massalubrense;-26.5
+Analapatsy;-93.8
+Palamós;31.4
+Massa Lombarda;-42.8
+Borre;-28.6
+Okotoks;24.9
+Rio Branco do Sul;74.7
+Wallasey;7.2
+Antarvedipālem;-23.8
+Dandkhora;67.0
+Muroran;2.8
+Eastern Goleta Valley;38.5
+Pālepalli;-21.3
+Kangān;12.9
+Pilão Arcado;-85.3
+Sidi Lahsene;-91.3
+Deogarh;-55.4
+Ignalina;-53.7
+Tivoli;39.2
+Mirdoddi;98.8
+Kalinkavichy;87.6
+Kurovskoye;-64.3
+Ust’-Ordynskiy;-43.3
+Holsbeek;26.7
+Cadiz;-83.3
+Goianinha;31.9
+Termiz;49.1
+Tabira;-83.7
+La Laguna;49.4
+Ŭrtaowul;-51.9
+Assomada;53.6
+Žagubica;-22.6
+Bisaria;51.6
+Currumbin;-52.0
+Osa;-94.6
+Vera;-23.1
+Podalakūr;10.8
+Itacurubí de la Cordillera;-47.4
+Takua Pa;-34.9
+Haaksbergen;73.4
+Domkonda;95.9
+Mâcon;-92.6
+Oneşti;-64.8
+Agoncillo;46.7
+Sant’Egidio alla Vibrata;-85.5
+Xiangping;-55.8
+Kālipatnam;15.2
+Parasurāmpūr;-11.4
+Ōji;51.1
+Filiaşi;-33.9
+Nandaime;11.8
+Buddayyakota;59.8
+Porto Real do Colégio;35.2
+Rehti;-32.4
+Borja;73.6
+Argelia;9.7
+Calumpang;18.2
+Singhāna;15.2
+Arma;45.3
+Flossmoor;-59.4
+Sherkot;-65.1
+West Carson;78.9
+Kibichūō;-15.8
+Carpenedolo;-56.8
+Baco;-89.6
+Grammichele;41.1
+Deruta;-45.5
+Siur;-56.6
+Guaratinga;-47.4
+Ordubad;-97.7
+Blackpool;98.8
+San Pédro Jocopilas;-20.8
+Namsan;-48.1
+Qiutouzhen;-71.0
+Las Nieves;-70.3
+Clearview;93.8
+Ross;-83.7
+Petropavlovsk-Kamchatskiy;-45.7
+Zapolyarnyy;-78.0
+Belvidere;0.3
+Shijiazhuang;-34.3
+Battambang;-47.4
+Yanqi;-56.0
+New Bern;-35.5
+West Plains;-4.7
+Nailsea;10.7
+Afonso Cláudio;17.2
+Pedro Brand;-58.1
+Emba;-86.4
+Rosario de Lerma;-67.4
+Koidu;44.9
+Strelka;1.6
+Ouando;-93.6
+Mastic;27.5
+Pārvatipuram;-23.7
+Ūttukkottai;-44.3
+Horgen;-81.3
+Bhāndāria;-33.2
+Haddon;-47.2
+Rong Kwang;-41.3
+Longshan;18.4
+San Policarpo;-9.9
+Detmold;72.2
+El Paso de Robles;51.9
+Sanmu;96.1
+Papraur;88.1
+Schaafheim;25.9
+Aschheim;-13.1
+Tuticorin;78.3
+Western Bicutan;2.6
+Rāni Shakarpura;-95.3
+Winona;59.1
+Phetchaburi;4.5
+Penal;-74.0
+Qibray;-72.6
+Oroszlány;-7.6
+Torri di Quartesolo;-3.6
+Shibirghān;17.5
+Komló;-33.9
+Whitley Bay;-21.0
+Dubăsari;-48.1
+Palestine;-38.1
+Ban Wat Lak Hok;78.2
+Podalakūr;67.8
+Warrenville;30.1
+‘Alīābād-e Katūl;-41.1
+Gorham;-50.6
+Kurāwar;9.7
+Ivrea;64.1
+Manappārai;-98.0
+Ich’ŏn;-54.8
+Dumaran;8.1
+Chōfugaoka;-40.4
+Carlos Barbosa;-77.2
+Mali Iđoš;-87.0
+Udipi;89.7
+San Antonio Ilotenango;44.6
+Chumphon;35.6
+San Andrés de Sotavento;-48.4
+Lantana;65.5
+Sacaba;-68.2
+Dereli;40.0
+Havre de Grace;-50.8
+Midori;-56.6
+Konakondla;-98.6
+Ban Tha Pha;-65.5
+Diamou;43.7
+Nenjiang;-68.6
+Rejiche;-14.4
+Chākia;82.6
+Almolonga;48.1
+Estavayer-le-Lac;-2.8
+Kārkala;-12.7
+Montpellier;-41.7
+Bohmte;-83.7
+Waldfeucht;23.7
+Vetlanda;51.2
+Red Hook;57.7
+Kosum Phisai;53.6
+Zeist;84.2
+Upata;86.5
+Pop;-75.6
+Fengyicun;-12.9
+Pederneiras;-32.2
+San José Villanueva;-29.7
+Schmallenberg;25.7
+Bebra;-17.3
+Nueva Italia de Ruiz;84.5
+Sant Sadurní d’Anoia;61.1
+Nijgaon Parānpur;-17.8
+Solânea;84.8
+Hettstedt;44.1
+Sint-Niklaas;-74.0
+Chimbarongo;-78.1
+Marabut;-39.5
+Libacao;-73.9
+L’Asile;-34.0
+Guinayangan;-70.3
+Igaratinga;38.3
+Bijai;-22.2
+Beaverton;-30.9
+Zongdi;-63.2
+Vieux-Condé;-72.9
+Conneaut;-32.6
+Mulanje;82.9
+Yby Yaú;-33.9
+Villupuram;-63.1
+Corinth;-19.2
+Dodji-Bata;63.6
+Englefield Green;41.7
+El Milia;35.9
+Aleg;53.5
+Antony;10.8
+Ayapango;-13.9
+Greeneville;45.4
+Villajoyosa;-66.3
+Rhede;-18.8
+South Hadley;86.3
+Tangalla;-2.3
+Volterra;-2.7
+Montesson;37.9
+Bartica;-83.5
+Wolfsburg;68.5
+Glyká Nerá;11.1
+Shijiazhuangnan;56.8
+Livingston;-71.9
+Fulin;-81.2
+Zlatograd;-88.0
+Sarstedt;76.6
+Krynica;51.9
+Pittsfield;-56.8
+Saymayl;65.4
+Betania;-33.0
+Ouinhri;-71.1
+Adams;5.1
+Bhojpur Kadīm;-30.8
+Tnine Lgharbia;-39.5
+Tây Ninh;31.3
+Blace;15.8
+Hexiang;-35.3
+Serra Branca;46.4
+Maroua;-66.8
+Deruta;-34.7
+Lakkampatti;80.1
+Chongzuo;57.9
+Hizan;-98.9
+Kilmarnock;74.1
+Coldwater;-31.7
+El Refugio;60.4
+Ishikari;-47.7
+Minamiaso;-64.1
+Guia Lopes da Laguna;90.6
+Kalugumalai;19.1
+İpsala;83.0
+Yacuiba;-54.5
+Richmond Hill;-57.2
+Hazebrouck;54.2
+West New York;26.0
+Konstantinovsk;-62.6
+Plasnica;-10.6
+Los Minas;47.1
+Hazel Dell;-79.9
+Venado Tuerto;-54.5
+Koriyama;20.6
+Quilāndi;-84.0
+Tomé;38.4
+Chandwā;-23.2
+Monterotondo;15.4
+Winder;37.4
+Kőszeg;-95.8
+L’Asile;32.4
+Dores de Campos;-50.0
+Ludza;44.9
+Grass Valley;87.0
+Starodub;-51.6
+Sultandağı;78.4
+Pelhřimov;-45.3
+Madhupur;-39.2
+Alor Setar;-25.3
+Kiwoko;23.2
+Aurillac;-1.8
+Kirovsk;-49.3
+Vallentuna;-0.4
+Farādonbeh;95.8
+Chellaston;19.5
+Puttūr;-37.2
+Birnin Konni;80.6
+Titara;8.9
+Mahābād;-88.6
+Garmisch-Partenkirchen;2.2
+Salaga;-24.2
+Calape;-71.4
+Christiansburg;-76.7
+Oulad Amrane el Mekki;29.8
+Isaka-Ivondro;-45.7
+Aurahi;-49.2
+Guadarrama;-28.9
+Beaverton;9.3
+Criciúma;-11.4
+Central Signal Village;-30.3
+Dhāmnagar;-8.3
+Ambohimiadana;-25.2
+Ejura;-49.9
+Timmendorfer Strand;30.8
+Ţanţā;-62.3
+Bombinhas;-79.7
+Pepillo Salcedo;13.7
+Liantang;24.0
+Shidong;-98.8
+Mijas;92.9
+Casa Branca;9.7
+Savage;-43.4
+Sonqor;64.4
+Montegranaro;35.2
+G‘azalkent;-98.9
+Sandakan;55.0
+Tiruvāduturai;-49.8
+Al Qaryatayn;27.0
+Cagnes-sur-Mer;-14.0
+Nakhon Sawan;94.0
+Obninsk;76.2
+Riobamba;72.5
+Sorel-Tracy;-18.8
+Bhakkar;12.7
+Sibi;-43.1
+Raxaul;11.3
+Busesa;-12.6
+Erongarícuaro;-98.7
+Anosibe-Ifanja;32.3
+Baliuag;-62.9
+Monett;-38.8
+Camaligan;54.5
+Sacavém;14.6
+Quilengues;-45.0
+Antipolo;87.7
+Gangania;17.2
+Cihuatlán;1.6
+Grand Junction;-23.5
+Daxincun;16.0
+Manicoré;45.5
+Ashikita;-28.1
+Zumpango;-86.2
+Stange;-19.0
+Dieburg;-93.9
+Vallūr;-36.3
+Nālūt;-56.4
+Trenton;1.6
+Zhongzai;39.8
+El Menzel;-41.9
+Penalva;-43.4
+Pechora;-74.6
+Cláudio;-77.0
+Kiruna;89.8
+Rāe Bareli;58.3
+Mbandaka;-26.0
+Desaguadero;-70.4
+Roxana;55.9
+Bittou;3.4
+Villa de Zaachila;-88.9
+Tulbagh;-2.4
+Mississauga;-29.9
+Bisaul;-11.5
+Victor;38.4
+Godhra;-70.0
+Fukui;-0.1
+Dunn;-88.3
+Paola;30.0
+Parnarama;-89.8
+Primero de Enero;-49.3
+Ituango;41.5
+Bhāngar;-12.2
+Salāya;70.9
+Mudki;25.9
+Galatone;25.6
+Konya;17.5
+Myrhorod;22.8
+Bissorã;-46.1
+Tiel;-25.3
+Ruza;72.2
+Nentón;65.5
+Bhāndāria;-54.2
+Wallasey;65.0
+Horquetas;45.3
+Telica;99.6
+Jaltenco;5.1
+Quinapundan;-59.3
+Çal;23.9
+Ichinoseki;-85.2
+Sfântu-Gheorghe;49.5
+Maduraivayal;-25.3
+San Antonio Ilotenango;86.5
+Onoto;92.7
+Hampton;89.4
+Puurs;63.0
+Paithān Kawai;-59.9
+Rhede;-67.2
+Aurahi;89.3
+Villa Tapia;92.9
+Quilengues;-71.9
+Norīa;-39.3
+Rüti;-88.1
+Catape;-96.0
+Nagaoki;-67.0
+Delhi Cantonment;-79.4
+San Juan del Cesar;59.0
+Santos;-37.9
+Chumphon;66.3
+Mansa;-69.4
+Citlaltépec;-76.6
+Itapetim;-90.2
+Dülmen;90.3
+Fukuyama;96.1
+Dharamshāla;-99.5
+Quesnel;-43.6
+Sainte-Julie;-84.1
+Union Park;41.2
+Mānvi;2.1
+Borča;84.3
+Yuzhno-Sukhokumsk;-21.3
+Pukekohe East;-68.0
+Mirdoddi;-77.0
+Dandenong;25.8
+Roanne;42.2
+Pondūru;-30.3
+Ta‘izz;89.6
+Aglipay;13.6
+Alhandra;-71.5
+Herk-de-Stad;-65.6
+Sande;57.3
+San Pedro Sacatepéquez;94.6
+Los Minas;-67.3
+Cihuatlán;78.9
+Lokhvytsya;-47.9
+Indi;84.2
+Debagrām;-30.9
+Antequera;-13.0
+Tounfit;-0.4
+Borås;60.7
+Shibancun;91.3
+Santa Comba;51.9
+Lidzbark;49.5
+Woolwich;74.3
+Wānkāner;-59.7
+Rustampur;48.8
+Sīrjān;63.3
+Bari;-19.4
+Capodrise;95.2
+Lüchow;77.5
+Terrebonne;-45.2
+Legazpi City;15.7
+Kalugumalai;-79.7
+Fastiv;65.7
+Iapu;-78.4
+Fonte Boa;-54.0
+Seabrook;10.2
+Fu’an;-59.8
+Playa Vicente;-50.1
+Linxia Chengguanzhen;-55.5
+Saint-Martin-Boulogne;49.9
+Piedmont;87.1
+Doboj;-14.1
+Río de Oro;15.7
+Mānāmadurai;-23.1
+Stolin;32.5
+Lodwar;-56.1
+Seia;40.7
+San Fructuoso de Bagés;-40.9
+Bellefontaine Neighbors;-73.8
+Calera de Tango;41.3
+Sahatsiho-Ambohimanjaka;-99.3
+Port Alberni;61.6
+Jandiāla;-54.2
+Niederkrüchten;99.2
+Los Hidalgos;-98.9
+Warrenville;-13.0
+Petite Rivière de l’Artibonite;88.9
+Balaoan;91.2
+Golāghāt;1.3
+Shangchuankou;-53.8
+Airmadidi;-23.4
+Tādepallegūdem;69.4
+Zhdanivka;22.0
+St. Michael;96.9
+Vila Nova de Cerveira;-86.2
+Araputanga;33.7
+Pereyaslav-Khmel’nyts’kyy;0.4
+Joniškis;-96.7
+Três Rios;76.2
+Monastir;53.2
+Ciudadela;-57.3
+East St. Paul;-82.4
+Fatehpur Sīkri;-92.3
+Indramayu;-49.4
+San Francisco;-51.0
+Vlasotince;39.5
+İskenderun;-65.4
+Flensburg;-19.2
+Ban Mangkon;-76.0
+Tyumen;-97.9
+Bhamo;34.1
+El Bâzoûrîyé;-5.8
+Umm Qaşr;-8.6
+Qarqan;82.2
+White Meadow Lake;14.0
+Kuchai Kot;-80.7
+Jönköping;56.3
+Santa Cecília;-63.0
+Treviso;-67.7
+Andraitx;-14.0
+Gulām;-0.9
+Marlow;25.9
+Rupenaguntla;54.9
+Mogi Guaçu;28.1
+Guatajiagua;-18.5
+Forest Hill;10.1
+Douar Hammadi;-9.7
+Zhangcun;2.6
+Simri Bakhriārpur;-7.7
+Bissorã;7.9
+Sidi Lahsene;87.4
+Xianxi;54.0
+Escalante;17.3
+Omutninsk;22.9
+Tonami;-34.7
+Limpio;-90.6
+Omaha;82.0
+Comodoro Rivadavia;-52.0
+San Benito;-25.0
+Yihezhuang;37.3
+Manglaur;-83.5
+Kaluvāya;-27.7
+Monte Sião;-7.9
+Sidi Lmokhtar;71.4
+Formosa;-71.6
+Pápa;-63.3
+Inungūr;84.5
+Inzá;53.5
+Barharia;54.5
+Vāniyambādi;-32.3
+Parit Buntar;-74.9
+Kesbewa;19.2
+Alotau;-88.8
+Padaivedu;-61.5
+Timbó;9.8
+Potukonda;42.6
+Ambato;31.9
+Elbeuf;1.1
+Nova Odessa;74.9
+Cumaru;-23.2
+Santos;-62.2
+Agogo;-25.9
+Carlos Barbosa;62.7
+Huité;-24.4
+Soyaló;-51.0
+Carlosama;-28.6
+Taloda;-77.6
+Čadca;15.7
+Sidlice;70.2
+Bariariyā;67.9
+Yoshioka;89.9
+Mbanza-Ngungu;-20.1
+Horad Zhodzina;71.2
+Companiganj;28.2
+Ginosa;-68.9
+Majalengka;-59.8
+Salihorsk;-14.4
+Tehata;63.4
+El Factor;-41.9
+Hedongcun;-93.0
+Chandanais;85.8
+Gudlūru;-70.6
+Imito;-31.0
+Chengxiang;56.0
+Pöytyä;-18.3
+Chōfugaoka;-10.2
+Khaira;-56.9
+Chirpan;43.9
+Ampasimanolotra;-91.7
+Riobamba;20.7
+Gonder;-2.3
+Lençóis;-52.8
+Maigh Nuad;76.3
+Akora;16.1
+Ludza;90.0
+Ervália;83.4
+Tokatippa;-41.8
+Taylorville;77.2
+North Tonawanda;16.0
+Hampton;-77.9
+Pola de Lena;-50.8
+Ingeniero White;-3.7
+Cheadle;-6.0
+Bojnūrd;-19.7
+Ban Wiang Ka Long;-86.0
+Sveta Ana;-52.6
+Westmount;-88.3
+Leutkirch im Allgäu;-79.1
+Shāl;-3.2
+Fonte Boa;49.8
+Trebaseleghe;-32.4
+Stony Plain;26.1
+Almagro;14.0
+Boljevac;-59.8
+Hazebrouck;-47.7
+Goianinha;-7.9
+Goumori;80.4
+Garuva;-65.4
+Hlinsko;66.3
+Cherasco;95.2
+Anloga;-56.4
+Oakham;19.9
+Nakło nad Notecią;-52.5
+La Victoria de Acentejo;3.0
+Khargāpur;3.3
+Garðabær;-13.5
+Daltonganj;-20.8
+Medfield;-71.5
+Wädenswil;-78.7
+Ţanţā;-25.0
+Sueca;19.2
+Xinlong;79.6
+Martín Coronado;16.7
+Cardona;0.3
+Paide;-12.4
+San Carlos de Guaroa;-52.5
+Zākhū;-72.6
+Capua;62.6
+Hajdúsámson;6.3
+Banjul;13.2
+Thornbury;-36.3
+Butare;-44.5
+Debagrām;97.8
+Fancheng;-1.1
+Qazax;-64.0
+Senapparetti;-71.8
+Puerto Ayacucho;-92.2
+Nova Brasilândia d’Oeste;-51.0
+Amos;-80.3
+Keolāri;-53.1
+Santiago Papasquiaro;92.4
+São José dos Pinhais;-60.5
+Sankt Pölten;5.4
+Huishi;-83.9
+Al ‘Amārah;74.6
+Rong Kwang;-78.8
+Sekondi;-13.7
+Police;-30.2
+Teignmouth;-15.3
+Hemer;-78.3
+West Springfield;16.8
+Redruth;-72.4
+Bellefontaine Neighbors;-95.6
+Tecpán Guatemala;11.4
+Chengxiang;-36.5
+Bni Drar;25.3
+Doria Sonāpur;88.1
+Tekanpur;-43.9
+Denison;-95.1
+Khānda;67.7
+Chantal;31.9
+Niutuo;71.4
+Dammartin-en-Goële;-55.4
+Albignasego;53.0
+Albemarle;11.9
+Xingyi;9.9
+Shenyang;72.7
+Teno;58.7
+Epazoyucan;-86.1
+Raffadali;31.7
+Derbent;49.8
+Sicasica;73.3
+Baena;-77.0
+Ban Tat;68.0
+Dospat;-55.8
+Villa Cañás;39.7
+Eden Prairie;13.5
+Veinticinco de Mayo;-50.1
+Skikda;6.3
+Sāmba;41.7
+Bad Driburg;-99.8
+Tolland;-77.9
+Borj el Qoblé;-46.6
+Cattolica;32.0
+Bhadrāchalam;-49.7
+Vista Alegre do Alto;14.5
+Upper Makefield;-5.1
+Horizontina;-71.8
+Guéné;22.8
+Parempuyre;-34.1
+Arbon;93.9
+Belvidere;-61.8
+‘Alīābād-e Katūl;87.7
+Megion;-38.4
+Narmeta;7.1
+Shenfield;-27.2
+Lavezares;89.4
+Raunds;16.3
+Taliwang;15.1
+Villeneuve-Loubet;17.5
+Kilkunda;75.7
+Kayunga;27.6
+Telpaneca;-51.3
+Prestatyn;-21.7
+Aubière;97.8
+Nacozari de García;89.4
+Divinópolis;44.6
+Soccorro;29.5
+Fagundes;-10.6
+Siswa;-16.5
+Rowley Regis;-12.0
+Shafter;62.5
+Prudentópolis;80.5
+Ouadhia;-66.4
+Sonepur;-29.4
+Ica;-1.0
+Surin;-2.0
+Hempfield;-99.8
+Fuente de Oro;44.5
+Bangaon;-65.2
+Mayahaura;29.5
+Andrews;-58.2
+Bessemer;81.6
+Darling;40.6
+Mirinzal;-95.2
+Nevyansk;-17.5
+Hitachiomiya;1.8
+Cibinong;89.1
+Chécy;-6.1
+Schkeuditz;42.7
+La Máquina;20.7
+Foligno;-24.7
+Valsequillo de Gran Canaria;70.2
+Požarevac;3.2
+Cadolzburg;38.1
+Woodinville;-58.4
+Narsīpatnam;47.6
+Nazilli;50.2
+Śrem;-34.8
+Bron;0.9
+Sêrro;-16.9
+Cedar Hill;11.5
+Salāya;-84.6
+Amarwāra;-75.4
+Wadowice;-52.5
+Fukushima;-53.3
+Terrace Heights;95.8
+San Juan del Cesar;80.0
+Barrie;0.0
+Kānhangād;65.5
+Virginia;-67.3
+Onchan;-87.8
+Kāmavarapukota;20.1
+Groningen;4.3
+San José Ojetenam;32.5
+Mandaguari;-27.0
+Yingkou;36.5
+Souq Sebt Says;-71.3
+Ridge;47.8
+Bocşa;29.5
+Marton;86.2
+Słubice;45.1
+Orenburg;-33.1
+Beloeil;96.4
+Lake Arbor;92.8
+Dunaharaszti;20.1
+Plymouth;-71.0
+Várzea do Poço;38.9
+Bobonong;-41.9
+Esperalvillo;58.5
+Tocoa;79.6
+Liangyi;91.3
+Vodiriana;57.5
+San Angelo;-68.4
+Merksplas;13.4
+Shawangunk;-8.9
+Mai’Adua;-37.2
+Ascensión;20.0
+Aravan;-52.5
+Rubtsovsk;-7.1
+Hajdúnánás;38.2
+Zara;-26.5
+Purulhá;-93.1
+Aspen Hill;-58.3
+Belley;-92.9
+Van Buren;0.9
+Porta Westfalica;74.9
+Yŏngju;-59.9
+Del Aire;-26.7
+Monkayo;37.4
+Banstead;-31.2
+Khat Azakane;-70.0
+Wavre;-23.2
+Cataguases;-51.1
+Gudūr;96.9
+Prudhoe;-73.6
+Grave;-85.8
+Pailitas;-42.1
+Comăneşti;-75.4
+Sande;66.4
+Fiorano Modenese;29.6
+Le Mée-sur-Seine;-50.3
+Gersthofen;-18.6
+Raxaul;-89.8
+Pirapetinga;-63.3
+Tlanalapa;-16.9
+Wijk bij Duurstede;-52.7
+Stung Treng;17.2
+Palmira;4.1
+Sai Kung Tuk;59.0
+Sāmalāpuram;-85.4
+Rosario de Lerma;94.6
+Ra’s al Khaymah;-53.7
+Waipahu;55.0
+Porto Real do Colégio;-52.4
+Vinanivao;-35.1
+Mantes-la-Ville;97.4
+Svrljig;60.7
+Campos do Jordão;-46.7
+Şalālah;72.7
+Andahuaylas;-41.4
+Aketi;16.1
+Barinas;11.1
+Zhuangyuan;-15.9
+Nochistlán de Mejía;-40.3
+Maynard;-43.0
+Courrières;-93.9
+Itatiaiuçu;-53.6
+Hérouville-Saint-Clair;-39.3
+Rustampur;-32.8
+Formosa;-40.5
+Kānke;-60.2
+Bishnupur;3.0
+Periyapōdu;81.7
+Hornchurch;-8.2
+Alpedrete;58.3
+Wunsiedel;22.6
+Iwanai;43.1
+Tonk Khurd;68.3
+Musāpur;-84.2
+Voorschoten;43.5
+Pahou;-22.9
+Can-Avid;15.4
+Jiangjiafan;-81.6
+Naguilian;-20.6
+Dardoq;78.1
+Kaišiadorys;-9.9
+Degollado;72.6
+Rocha;8.4
+Saguday;32.1
+San Juan del Cesar;1.1
+Adakplamé;12.7
+Merkānam;-88.3
+Pemberton;95.9
+Ludza;88.9
+Kunkalagunta;41.6
+Katrīdih;-23.8
+Kakuma;-73.5
+Ust’-Ordynskiy;12.1
+Yaese;13.5
+M’diq;43.8
+Benidorm;10.8
+Robbinsville;-30.0
+Cockeysville;34.4
+Sidi Jaber;-29.0
+Khunti Dhanaili;62.6
+Haidarnagar;85.9
+Aheqi;97.7
+Täby;-70.5
+Agen;27.5
+São José de Piranhas;-67.4
+Sopište;29.3
+Naini Tal;-4.2
+Mundargi;-39.0
+Tapaktuan;35.0
+Erdőkertes;-92.0
+Kakumiro;-92.2
+Shenyang;61.3
+Sīlaiyampatti;-97.0
+Beharona;9.4
+Čadca;-47.7
+Tuensang;43.3
+Ozamiz City;-1.1
+Guazacapán;63.9
+Emden;-74.5
+Phú Yên;60.2
+Damulog;-52.5
+Xapuri;-16.5
+Ho;-1.4
+Miguelturra;61.0
+Douar Olad. Salem;20.8
+Cariacica;3.7
+Říčany;4.0
+Sakai;-87.1
+Kalyān;-32.9
+Tíogollo;-58.6
+Gaspar Hernández;45.3
+Gotse Delchev;-98.7
+Castrop-Rauxel;-48.3
+Hōdatsushimizu;8.6
+La Huacana;-6.0
+Robāţ Karīm;71.9
+Horwich;-12.2
+Ghogardīha;-51.6
+Lubin;-63.0
+Ventspils;-62.1
+Jacinto City;-3.3
+Balud;-95.1
+Stillwater;34.6
+Guaramirim;43.5
+Arriaga;29.2
+Maracaibo;84.2
+Vendas Novas;81.8
+Aschheim;66.5
+Tanga;43.7
+Corinto;13.0
+Hopkins;-8.9
+Carpenedolo;39.0
+Almusafes;-64.4
+Hünenberg;-89.4
+Slavonski Brod;37.2
+Inza;12.1
+Pushpattūr;2.2
+Aix-en-Provence;20.0
+Lumbatan;35.7
+Arbeláez;-47.7
+Colonia del Sol;-26.8
+Gangārāmpur;89.7
+Cimerak;98.8
+Andújar;-73.2
+Mirbāţ;44.2
+Tirumangalakkudi;77.3
+Nuremberg;-20.4
+Heidenau;86.7
+Redan;-41.5
+Dhuliān;-97.8
+Mawkanin;69.0
+Suoluntun;-50.3
+Peddannavāripalle;-3.0
+Jocotepec;-14.5
+Groslay;-72.4
+Maidenhead;90.1
+Ban Pong;-4.0
+Islāmābād;-27.0
+Feuchtwangen;50.4
+Bela Vista de Goiás;-91.6
+Agaram;1.6
+Dāmal;86.6
+Pābna;-92.4
+Batu Pahat;-5.7
+Pforzheim;49.0
+Cleethorpes;22.9
+Panaon;3.4
+Bari;24.2
+Amba Icharua;95.1
+Shibirghān;-5.0
+Tortona;0.3
+Natividade do Carangola;-80.6
+Wallingford Center;-33.5
+Binzhou;-2.5
+Bergen;-68.6
+Firmat;37.0
+Ho;-34.7
+Lykóvrysi;-18.3
+Tsau;-38.6
+Chicopee;-54.0
+General Enrique Mosconi;-45.0
+Salmās;38.4
+Reykjavík;6.6
+Patrātu;30.7
+Bishunpur Hakīmābād;0.9
+Kobo;-65.4
+Mauá;34.8
+Sabirabad;41.5
+Ban Pa Sak;-83.7
+Rewāri;24.7
+Kapadvanj;-8.8
+Puerto Triunfo;37.8
+Uwchlan;5.0
+Alotau;39.6
+Owatonna;11.8
+Elkhorn;-95.9
+Mäntsälä;-90.4
+Morris;-65.8
+Kulriān;75.7
+Tukuyu;30.6
+Rāmpurwā;-4.8
+As Sulayyil;97.5
+Estanzuelas;57.1
+Schilde;-99.6
+Rize;-78.9
+Whyalla;-31.7
+Minglanilla;27.1
+Guli;-93.4
+Colotenango;48.3
+Rafiganj;-73.4
+Sierra Bullones;-16.6
+Ḩīsh;-91.9
+Pohrebyshche;61.4
+Virginia;-32.6
+Linda;57.7
+Cherakhera;-5.4
+Höhenkirchen-Siegertsbrunn;24.4
+Pipra Dewās;-2.2
+Longvic;-15.8
+Riverside;21.9
+Kotka;-18.5
+Yacopí;-32.8
+Shildon;-90.7
+Fairfax Station;79.3
+Sagnay;-20.0
+Lavagna;-92.8
+Cosne sur Loire;-29.5
+Carlosama;-93.5
+Magway;-74.4
+Scottsboro;-24.8
+Bischofsheim;-95.0
+Tutrakan;-47.5
+Dapi;-88.4
+Gagny;88.1
+General Eugenio A. Garay;-42.2
+Pāli;-79.1
+Haukipudas;10.3
+Yelmalla;-5.0
+Anjiamangirana I;20.5
+Raisio;56.3
+Astley;-8.4
+Mariano Acosta;-87.2
+Adygeysk;72.8
+Hrazdan;-46.5
+Nagano;-90.6
+Tizi-n-Bechar;-32.0
+Tabernes de Valldigna;-30.6
+Măgurele;88.1
+Cimarron Hills;97.3
+Dabola;81.4
+Heum;-88.5
+Saint-Pol-sur-Mer;-83.9
+Massa Lombarda;-32.0
+Baraúna;-53.8
+Jurema;-46.4
+Debagrām;97.7
+Livadeiá;42.8
+Hashimoto;-5.7
+Dragash;-49.3
+Perris;-94.1
+Wunsiedel;-49.2
+Refahiye;0.5
+Mallawī;-31.7
+Aso;-14.1
+Bad Ems;96.0
+Cajari;-70.1
+Ping’an;64.0
+Sun City Center;29.6
+Fulgāzi;-76.2
+San Policarpo;35.2
+Benslimane;-68.3
+Botticino Sera;-90.9
+Pallāvaram;43.6
+Starnberg;4.9
+Ballenstedt;-76.1
+Charallave;-91.3
+El Tambo;65.4
+Reutov;13.4
+Kuroishi;-74.9
+Bwana Mkubwa;-31.9
+Lykóvrysi;98.6
+Newberg;66.1
+Merida;0.1
+Pokrovka;19.0
+Zaandijk;-38.7
+Galapagar;28.9
+Gulkevichi;52.2
+Waverly;-61.2
+Zaltbommel;87.5
+Orbassano;-31.7
+Vallejuelo;-80.6
+Linda;-71.4
+Sa Đéc;74.7
+Dondon;-91.1
+Chapa de Mota;-23.9
+Haga;95.4
+Gudibanda;42.9
+Rongcheng;-28.4
+Ad Dakhla;56.9
+Jwaneng;22.1
+Khambhāt;-43.2
+Farādonbeh;30.5
+Lunel;35.0
+Ellensburg;-32.1
+Motema;-52.1
+Ervália;-21.5
+Inza;-77.6
+Mangalagiri;96.0
+Nykøbing Mors;64.4
+Slobozhanske;-85.4
+Maidenhead;-91.4
+Zalaegerszeg;5.4
+Canaman;27.5
+Copiapó;72.6
+Valrico;-66.2
+Kittūr;20.3
+Greenacres;95.7
+Hole Narsipur;-96.5
+Lappersdorf;15.3
+Mount Lebanon;13.7
+Zirāpur;-64.1
+Bagulin;-26.6
+Horishni Plavni;67.4
+Roanne;-6.2
+Balete;35.7
+Pizhou;-67.8
+Puttūr;80.7
+Saint-Georges;-51.3
+Comodoro Rivadavia;89.8
+San Pedro Garza García;-77.4
+Hazorasp;-6.6
+Upland;79.8
+Treinta y Tres;-23.8
+Wewak;-98.0
+Al Qaryatayn;-55.4
+Ānjukulippatti;-70.5
+San José de Gracia;98.1
+Puerto Ayacucho;33.2
+Kusatsu;28.1
+Pfaffenhofen;-16.3
+Yilong;7.4
+Volsk;51.3
+Chiroqchi;46.1
+Los Almácigos;35.3
+Buriti dos Lopes;32.5
+Poughkeepsie;2.2
+Bachchannapet;-6.8
+Kāshān;65.0
+Yankou;-37.1
+Tikrīt;-20.2
+Bellmead;-36.3
+Cabinda;-94.2
+Kika;-83.6
+Qaşr al Qarabūllī;-85.9
+Hull;22.2
+Sorata;-18.9
+Vanderbijlpark;82.1
+Masagua;46.1
+Antônio Carlos;-54.2
+Kuaidamao;10.4
+Corleone;-7.8
+Villupuram;47.7
+Watertown;16.2
+Shājāpur;-63.3
+Taquara;54.7
+Garden Acres;-91.9
+Virālimalai;60.8
+Pālghāt;-57.8
+Palagonia;80.6
+Powdersville;75.0
+Santo Domingo de los Colorados;13.8
+Ugep;89.3
+Youwangjie;24.8
+Böblingen;76.6
+Mirfield;41.7
+Cariré;-23.9
+Maserada sul Piave;-81.8
+Ungutūru;-82.6
+Tanakoub;-93.5
+Cascais;-96.6
+Araioses;36.7
+Soyaló;-44.4
+Kiruhura;-19.5
+Douliu;-87.4
+Antarvedipālem;-61.4
+Yaotsu;-79.9
+Nobeoka;71.1
+Liman;-29.2
+Metro;91.4
+Angoulême;-96.7
+Sindgi;-67.7
+Paita;49.0
+Hetton le Hole;-31.7
+Shenjiabang;54.4
+Patrātu;-53.3
+Qorashina;76.8
+El Khemis des Beni Chegdal;57.1
+Talsint;-62.9
+Cheste;36.5
+Pearl River;76.5
+Le Bourget;-47.3
+Kuvango;19.7
+Kannamangalam;96.5
+Godē;17.8
+Anta;-12.7
+Saint Helena Bay;52.0
+Tanjore;-86.6
+Groslay;51.8
+Kuopio;65.7
+Gölcük;84.6
+Pittsburg;-83.6
+Les Îles-de-la-Madeleine;-33.2
+Moularès;-4.5
+Soham;-44.6
+Krasnovishersk;92.4
+Podalakūr;82.0
+Dīnhāta;82.3
+San Juan Atitán;-39.9
+Pasaquina;-22.2
+Kasumkent;-10.1
+Alagappapuram;52.3
+Mvurwi;-9.2
+Villa San Giovanni;-1.7
+Forest;-56.0
+Alcalde Díaz;90.0
+Hinche;64.6
+Shagamu;-93.2
+El Khemis des Beni Chegdal;-30.5
+Ārān Bīdgol;36.5
+Mattoon;-11.7
+Caba;-38.8
+San Rafael del Yuma;-80.4
+Gīlān-e Gharb;-16.0
+Burnham-on-Sea;8.1
+Kumla;61.2
+Paese;-97.4
+Wadhraf;-97.5
+Pugo;67.0
+Machida;-82.1
+Diplahan;91.7
+Merrill;85.8
+Samayac;-55.4
+Beavercreek;-55.6
+Macaúbas;59.9
+Iradan;-58.1
+Ciudad de Ceuta;-0.2
+Chubbuck;60.2
+Bandar-e Māhshahr;44.8
+Ambohimanga;72.4
+Gūlyam;67.3
+Pedro Carbo;-29.3
+Stow;6.9
+Strand;-8.7
+Mithi;-7.5
+Belazao;10.4
+Ban Chomphu Nuea;-31.4
+Bad Urach;-56.5
+Dabola;-61.4
+Licheng;31.6
+Thames Centre;49.2
+Itapetim;79.1
+Kafr Rūmā;-26.7
+Oststeinbek;-11.4
+West Chester;-6.2
+Estevan;37.2
+Tohāna;46.4
+Kozmodemyansk;-20.6
+Ambodimandresy;41.1
+Néa Mákri;46.2
+Alpignano;29.8
+Khargāpur;38.7
+Tarikere;15.8
+Khaşab;45.5
+Pearl;34.9
+Santamāgulūru;78.4
+Ānjukulippatti;-66.7
+Mirabel;-12.2
+Flowing Wells;36.5
+Fenoarivobe;81.4
+Beli Manastir;53.6
+Guichen;-98.3
+Jora;81.9
+Motema;-33.5
+Chilanga;-80.0
+Beausoleil;-48.0
+Volsk;-10.0
+Conneaut;14.7
+Daxin;-52.2
+Umm Qaşr;-1.0
+Vitomarci;75.1
+Hita;81.8
+Zavāreh;-57.1
+Bergen;-66.0
+Llaillay;95.9
+Porto;46.9
+Kresek;41.3
+Ţurayf;-92.7
+Sontha;78.5
+Nārāyanraopet;-68.7
+Aguascalientes;34.6
+Verrières-le-Buisson;95.2
+Manicoré;90.0
+Baco;-80.2
+Urasoe;-7.2
+Guáimaro;62.4
+Ivrea;-39.5
+Bad Vilbel;3.4
+Chengxiang;-75.5
+Tân Sơn;42.1
+Jelcz-Laskowice;-17.8
+Itako;1.0
+Itamari;-59.3
+Siófok;90.6
+South Hadley;-90.9
+Râmnicu Vâlcea;-66.4
+Cerknica;-19.3
+Umm Qaşr;-70.7
+Nilothi;76.1
+Bogen;-61.8
+Talugtug;10.1
+Toboali;95.6
+Capinzal;51.2
+Xinchangcun;93.4
+Saymayl;61.4
+Porto Belo;64.2
+Aizkraukle;-40.0
+Corinto;44.4
+Jalalabad;39.1
+Ponnamarāvati;58.3
+Minzhu;-77.7
+Oromocto;-74.2
+Amatenango de la Frontera;-79.0
+Kalingalan Caluang;-0.2
+Citrus Park;-35.2
+Ghogardīha;-87.2
+Sidmouth;-28.6
+Bhamo;72.7
+Devipattinam;15.9
+Sungal;95.6
+Windorah;-96.3
+Chumphon;-49.8
+Ambohitrambo;-1.4
+Vohitrafeno;-66.6
+Shaogang;53.3
+Beloeil;-9.7
+Balma;69.0
+Ugento;-15.0
+Kadogawa;96.1
+Boguchany;-46.2
+Qarqan;54.2
+Villemomble;-40.9
+Tilhar;64.5
+Kunisakimachi-tsurugawa;10.2
+Daudnagar;-87.7
+Aguelhok;-75.9
+Sante Bennūr;-85.5
+Břevnov;-56.1
+Khirkiyān;8.8
+Al ‘Amārah;-58.6
+Radeče;55.6
+Beausoleil;-51.8
+Dunaújváros;-5.2
+Guía de Isora;35.1
+Melbourne;23.4
+Langenau;-76.5
+Bitonto;-9.7
+San Agustín Loxicha;-46.7
+Sucha Beskidzka;12.8
+San Dionisio;10.0
+Lainate;-50.7
+Rānchi;-0.4
+Duisburg;28.8
+Cornélio Procópio;-25.7
+Vellodu;83.6
+Rāe Bareli;-53.9
+Penalva;-68.9
+Dārat ‘Izzah;65.8
+Utraula;36.2
+Stuart;-60.9
+Meine;22.8
+Calubian;26.5
+Istaravshan;-59.3
+Veenendaal;-31.2
+Ongole;-7.0
+Villa Tapia;62.4
+Swissvale;4.9
+Pop;-89.2
+Anagni;73.7
+Kamen’-na-Obi;15.4
+Deptford;-77.7
+Nueva Ocotepeque;81.5
+Torcy;-51.6
+Cosne sur Loire;41.7
+Coral Hills;12.2
+Sülüktü;-33.6
+Remada;95.5
+Rushall;-25.5
+Lugus;80.6
+Sukhodilsk;8.4
+Táriba;49.1
+Mashiki;77.1
+Ransiki;78.3
+Saint-Gély-du-Fesc;-15.7
+Höhr-Grenzhausen;7.6
+Khokha;-37.8
+Rheinberg;98.4
+Prieto Diaz;-5.0
+Agogo;13.8
+Sérarou;91.7
+Ahrensburg;-1.0
+Sarafand;97.6
+Kurāwar;-66.5
+Tillsonburg;-41.5
+Heemskerk;-9.0
+Kalanivāsal;96.3
+Petropavlovsk-Kamchatskiy;7.6
+Escaudain;-94.2
+Rio do Pires;16.0
+Ketti;87.4
+Araucária;-32.0
+Dasaut;-57.6
+Krapkowice;87.9
+Farmersville;-22.5
+Gex;-40.8
+Angeles City;77.0
+Kenduadīh;45.3
+Kurabalakota;73.2
+Tagami;-4.8
+Encinitas;8.5
+Bhārella;-83.2
+Kasrāwad;-97.6
+Dubăsari;-16.3
+Wülfrath;-65.4
+Eyl;-80.4
+Aleg;89.2
+Sulz am Neckar;40.2
+Las Nieves;-19.5
+Jambaló;21.3
+Nazilli;6.1
+Amparo;42.9
+Kāmavarapukota;-25.6
+Drahichyn;-20.9
+Baliqchi;-18.9
+Phalaborwa;76.1
+Mādhura;77.9
+Tiztoutine;-56.7
+Pâ;27.5
+Manambidala;18.2
+Emboscada;16.9
+Cockermouth;-41.1
+Pingyuanjie;33.5
+Fort Walton Beach;-35.3
+Belauncha;71.5
+Stange;-55.8
+Concepción Las Minas;-92.5
+Flixton;-19.7
+Longbridge;-85.5
+Talisay;-98.9
+Jangamguda;54.5
+Karavan;-3.9
+Aurillac;-15.6
+Andranovao;48.9
+Selibe Phikwe;91.0
+Rushall;88.0
+Villasanta;-81.6
+Karuzi;-82.6
+Melitopol;-19.0
+Udipi;-38.3
+Sūknah;51.1
+Maşyāf;90.6
+Monett;24.4
+Ataléia;15.0
+Utazu;-96.2
+Sim;64.9
+Rellingen;-64.7
+Humahuaca;65.6
+Jacundá;-13.6
+Whistler;19.8
+Sesheke;90.6
+Alvarães;32.0
+Khizrpur;74.0
+Jieyang;40.9
+Lathrop;-15.1
+Jericoacoara;-25.2
+Wallingford;-43.1
+Ōtsuchi;11.4
+Los Minas;-97.3
+Suoluntun;36.4
+Stockach;20.5
+Ormoc;26.5
+San Pedro Ixtlahuaca;33.0
+Ayotoxco de Guerrero;-52.3
+Struga;-74.6
+Gashua;36.7
+Edwards;34.7
+Buddayyakota;-51.4
+Bagaura;-48.6
+Salto Grande;36.9
+Peabiru;-12.0
+Manizales;-22.7
+Paita;-83.6
+Burg;-16.3
+Fraga;3.0
+Vigonza;-70.4
+Colesberg;-97.8
+Meco;-45.3
+Mata Grande;-1.3
+Davutlar;-61.0
+Or ‘Aqiva;-0.9
+Shidong;13.8
+Roanne;-85.8
+Waukegan;-43.6
+Acámbaro;7.7
+Taloda;-49.1
+Paz de Ariporo;19.6
+Taperoá;-69.6
+Chimbarongo;6.2
+Calverton;-94.3
+Litvínov;57.1
+Windsor;86.7
+Águas de Lindóia;-63.4
+Hillsdale;82.2
+Gaspar Hernández;91.5
+Jardim de Piranhas;19.8
+Victor;-6.8
+Mbabane;-65.7
+Pastos Bons;60.2
+Dunaharaszti;42.9
+Standerton;53.2
+Plasnica;27.1
+Valkeakoski;-16.5
+Pully;33.0
+Telpur;-70.5
+Revūr;98.4
+Molo;76.4
+Dąbrowa Tarnowska;57.5
+Gulkevichi;28.9
+Addison;-40.4
+Miacatlán;17.0
+Maduvanalli;-68.5
+Tanay;61.9
+Lapinlahti;68.9
+Rayón;-94.8
+Takahata;-58.0
+Sāngli;-74.0
+Ashington;-26.8
+Nārāyanraopet;-46.5
+Glastonbury;-26.1
+Rugby;70.9
+Zhongtai;-54.2
+Grevenbroich;-71.3
+Chaplynka;26.1
+Dodji-Bata;-65.3
+Merriam;-90.1
+Neuville-en-Ferrain;53.1
+Sārangpur;-55.6
+Kizlyar;-19.7
+Lalo;-66.8
+Santa Cruz Naranjo;56.8
+South Hadley;36.4
+South Salt Lake;-99.2
+Şūrān;-75.8
+Jalgaon;28.1
+University of California-Davis;2.4
+Kāmalāpuram;-16.7
+Vanrhynsdorp;82.9
+Beneditinos;-35.5
+Buinsk;-69.2
+Montanhas;-26.2
+Filipstad;-13.2
+Pasivedalajimma;-32.1
+Zhuangyuan;57.0
+Kabugao;-13.2
+Buyende;46.0
+Tiffin;62.5
+Guácima;-47.4
+Baghlān;76.1
+Bắc Giang;-14.5
+Buôn Hồ;-66.0
+Osa;-78.8
+Quartz Hill;96.6
+Minamichita;-28.5
+Bni Boufrah;64.0
+Banigbé;13.9
+Dornakal;-35.7
+Horishni Plavni;-0.6
+Qinhe;88.6
+Pincourt;-92.3
+Guyancourt;-39.2
+Andranovory;-47.3
+Cañas;-93.2
+Kings Grant;-20.8
+Montigny-en-Gohelle;17.1
+Bozoum;-92.6
+Lobito;-30.7
+Khunti Dhanaili;-93.0
+Galatone;12.1
+Myaungmya;95.1
+Senigallia;-93.7
+La Vega;-92.5
+Kurnool;-11.2
+Roldanillo;87.6
+Premiá de Mar;-48.0
+Vänersborg;-33.5
+Sanski Most;55.9
+Amboanjo;-96.1
+Mason;7.3
+San Giovanni in Persiceto;-24.3
+Fagundes;71.6
+Nelkattumseval;-79.4
+Reggello;-72.8
+Ala-Buka;-83.9
+Sheerness;-20.1
+Antanambao;-30.9
+Nawalpur;-14.0
+Palmares;91.7
+Codroipo;39.1
+Chop;93.6
+Divinópolis;60.4
+Sarnen;37.7
+De Haan;-93.8
+Wijk bij Duurstede;-34.0
+Mitú;6.4
+Itinga;23.5
+Volokolamsk;42.0
+Bishunpur Hakīmābād;-51.2
+Arendal;-39.0
+Tarwāra;27.7
+Kisvárda;71.2
+Eagle Point;-84.3
+Sasolburg;35.5
+Debark’;84.0
+Kundian;19.5
+Manglūr;-68.0
+West Linn;-96.8
+Ratne;-47.8
+Ráth Tó;24.3
+Arlington Heights;99.6
+Udaipur Bithwār;55.5
+Assenede;33.8
+Hoveyzeh;-95.9
+Ninga;-37.2
+Laurel;1.3
+Katwijk;83.3
+Araçuaí;41.5
+Risalpur Cantonment;-5.9
+Kaikoura;-64.5
+Sāram;87.4
+Basavakalyān;-4.5
+Szeged;-74.7
+Ashkezar;-17.0
+Kremenets;39.0
+Tello;-80.1
+Almoradí;63.4
+Heumen;60.8
+Sidi Jaber;67.2
+Langwedel;-52.4
+Mālaimārpuram;-91.9
+Hazorasp;72.0
+Castel Mella;76.8
+Krosno;-98.0
+Drexel Hill;-3.0
+Gonghe;66.6
+Gastre;42.5
+Sūknah;80.9
+Bengbu;-78.1
+Bhamo;-38.0
+Labrador;-4.4
+Gyál;-12.3
+Carnaíba;50.7
+Cassina de’ Pecchi;53.1
+Menemen;-44.5
+Carleton Place;-1.7
+Paso de los Libres;-95.8
+Aileu;-25.8
+Litian Gezhuang;-11.2
+Vincennes;-9.7
+Przeworsk;-14.4
+Huozhou;-66.3
+Pondūru;33.7
+Ankazomiriotra;42.9
+Friedland;15.0
+Makīnsk;-72.1
+Pinellas Park;21.3
+Volokolamsk;69.3
+Baden;10.1
+Shibata;-11.4
+Patzicía;18.0
+Bagabag;-84.6
+Safājā;17.8
+Sweden;-22.5
+Tatvan;87.2
+Marigliano;-29.9
+Kāyankulam;-32.0
+Lahnstein;-69.6
+Vaterstetten;-71.3
+Ambatondrazaka;-65.6
+Susquehanna;-87.5
+Azángaro;-95.0
+North Valley Stream;17.1
+On Top of the World Designated Place;-46.0
+Venlo;92.7
+Friedland;72.5
+Kropyvnytskyi;56.8
+Zvenigovo;-32.0
+Wieluń;-92.0
+Quảng Yên;-87.3
+Jaguaruna;78.2
+South Salt Lake;-5.4
+Galapagar;90.1
+James Island;-86.6
+Lyskovo;-86.4
+Barguna;-70.8
+Ganguvārpatti;70.0
+Ala-Buka;-64.2
+Olovyannaya;48.3
+Vierzon;-0.5
+Kovūr;-55.7
+Drammen;-67.4
+Sidi Dahbi;-52.0
+Garbagnate Milanese;-0.1
+Kothia;-52.9
+Quetzaltenango;-94.8
+Várzea Paulista;-0.0
+Marlboro;42.5
+Rāmasingavaram;-98.6
+Liman;-24.1
+Īlām;-86.1
+Bourg-en-Bresse;-48.1
+Rangasamudram;-43.8
+Ski;60.9
+Iwashita;96.6
+Jardim de Piranhas;-65.6
+Cariré;-86.4
+Massa;82.2
+Chenalhó;22.1
+Varel;-41.6
+Ambatomifanongoa;82.6
+Kallidaikurichi;74.6
+Antadinga;-48.0
+Zouar;20.6
+Pantanal;51.3
+Spenge;-23.7
+Locate di Triulzi;-70.1
+Shenjiabang;21.2
+Castelnuovo di Porto;-8.8
+Imqabba;28.4
+Thonotosassa;-20.5
+Marosangy;8.2
+Rüti;69.7
+Samtredia;96.7
+San Antonio de las Vueltas;-7.6
+Swakopmund;-97.5
+Delano;-12.4
+Warrenville;5.8
+Difficult Run;-26.7
+Xiaba;53.3
+Douar Souk L‘qolla;54.6
+Itupeva;35.1
+Poiana Mare;3.9
+Vrbovec;-12.5
+Pizhou;-34.1
+Ocuilan de Arteaga;35.2
+Lubin;-38.8
+Holsbeek;-53.6
+Icapuí;36.8
+Butha-Buthe;69.0
+Miguel Alves;68.4
+Villacidro;-14.9
+Woodland Park;-85.9
+Alcala;22.8
+Velilla de San Antonio;18.8
+Kalakeri;90.6
+Capinzal;59.1
+Nanchong;-33.0
+Jiangjiafan;-49.2
+King of Prussia;25.4
+Pipariya;2.3
+Porangatu;6.9
+Oak Creek;-29.4
+Talwāra;40.4
+Weiz;-47.9
+Leramatang;75.2
+Guruzāla;73.1
+Vohipaho;71.8
+Bloomington;-36.9
+Huludao;-97.6
+Levski;58.7
+Newman;56.7
+Lagoa da Prata;-97.6
+Cabucgayan;-11.2
+Sarreguemines;57.2
+Potsdam;10.3
+Durbuy;-51.8
+Auria;99.4
+Gilroy;41.4
+Bakhmut;-84.4
+Kunming;-17.8
+Vereshchagino;90.3
+Yaroslavl;58.3
+Port Hope;13.5
+Neuhausen am Rheinfall;-83.7
+Għaxaq;-40.7
+Moularès;33.8
+Nueva Santa Rosa;59.8
+Chidambaram;87.1
+Kāttukkottai;-82.9
+Sebt Bni Smith;-97.8
+Onoto;-63.6
+Selm;-37.8
+Stockton-on-Tees;37.8
+Fukuchiyama;-5.3
+Buhriz;46.4
+Kareli;-28.6
+Degeh Bur;60.8
+Hokitika;84.2
+Nara;-1.1
+Arma;64.6
+Siur;-64.1
+Plattekill;-76.0
+Igreja Nova;-92.8
+Eersel;25.0
+Winona;17.3
+Flowing Wells;-36.0
+Lushoto;-62.9
+Dhilwan;51.3
+Requena;-14.6
+Llallagua;12.7
+Punnavalli;17.3
+Montegiardino;81.7
+Quintanar de la Orden;-25.9
+Viana do Castelo;-7.8
+Ambilobe;-30.1
+Tukuyu;91.1
+Blue Springs;89.9
+Santuario;36.0
+Zvenyhorodka;29.8
+Berdiansk;-14.4
+Sukhoy Log;-83.5
+Palmares;89.7
+Padbury;-17.8
+Karmauli;33.1
+Wenceslau Guimarães;-67.9
+Tema;-30.8
+West Chester;-86.4
+Diyadin;53.3
+Melena del Sur;-1.7
+Calimaya;18.1
+Frouzins;3.6
+Mocímboa da Praia;5.4
+Villa Unión;-94.0
+Knurów;34.5
+Tamarana;22.6
+Martin;-9.4
+Närpes;-57.0
+Bāgh-e Bahādorān;59.3
+Panamarattuppatti;6.2
+Kerkrade;22.1
+Petite Rivière de Nippes;-95.1
+Sumpango;33.6
+Zhailuo;10.5
+Ewa Gentry;-28.8
+Babhantoli;95.5
+Täby;39.6
+Jiabong;-84.2
+Khāchrod;-96.3
+Fishers;71.6
+Kefamenanu;-64.8
+Petrolândia;79.3
+Skarżysko-Kamienna;30.5
+Leeds and the Thousand Islands;96.4
+Trois-Rivières;71.5
+Caen;64.4
+Sebt Labrikiyne;-31.8
+Corral de Bustos;69.8
+Paşcani;94.9
+Rosas;-31.5
+West Athens;-70.1
+Quintanar de la Orden;67.9
+Rāzole;-21.8
+Abre Campo;6.1
+Barnaul;-94.4
+Ayutuxtepeque;82.3
+Yovon;65.1
+Tieling;-99.2
+Fort Salonga;50.1
+Cervera;2.8
+Menglie;76.0
+Gotse Delchev;-15.1
+Jardim de Piranhas;12.4
+Luruaco;-24.7
+Creazzo;-4.6
+Benjamin Constant;-15.0
+Ymittós;28.8
+Ablu;96.7
+Nallamadu;-93.3
+Ciudad Sahagun;1.4
+Beharona;1.2
+Aglipay;64.3
+Candelaria Loxicha;86.3
+Wenxicun;5.1
+Tzintzuntzán;87.3
+Fukui;51.6
+Curepipe;-25.0
+Baozhong;-8.7
+Shahrinav;57.4
+Gobindpur;98.1
+Sedriano;-11.6
+Guruzāla;78.9
+Lanham;-79.3
+Sakai;46.9
+Chester;-60.6
+Uttamapālaiyam;-48.8
+Huacho;-73.2
+Al Hāmah;-82.9
+Dapi;19.7
+Bwana Mkubwa;-47.0
+Mandaguari;18.6
+Blooming Grove;-10.4
+Rong Kwang;-28.1
+Durbuy;81.0
+Petite Rivière de Nippes;-16.3
+Arcos de la Frontera;-18.1
+Xalapa;90.7
+Örnsköldsvik;29.2
+Çumra;-63.6
+Colle Salvetti;65.0
+Puerto Escondido;30.5
+Quinte West;69.4
+Ruwa;29.2
+Chicomba;-57.0
+Trancoso;57.7
+Tlalpujahua de Rayón;-79.1
+Vynohradiv;27.6
+Lo Barnechea;-47.5
+Chaguaramas;69.8
+Buchanan;89.2
+Southbridge;-52.2
+Santa Cruz Balanyá;47.3
+Palencia;-44.9
+Bukachacha;-86.9
+Monteprandone;-14.5
+Hekou;61.4
+Pouso Redondo;52.8
+Brahmānandapuram;-64.1
+Kodivalasa;-4.3
+Stolac;-60.7
+Chhapra Bahās;-68.1
+Villa Hayes;-81.7
+Hà Tĩnh;-16.5
+Palembang;47.7
+Lake Morton-Berrydale;20.9
+Porto Alegre;-83.3
+San Andrés Xecul;-22.9
+Santamāgulūru;33.7
+Buford;-20.6
+Jima Abajo;29.1
+Dharmsāla;-24.4
+Aubange;-23.2
+Vīraghattam;-70.7
+Sokotindji;-90.5
+Wegberg;-81.5
+Tabora;30.5
+Puruliya;-76.8
+Minamichita;-47.7
+Bāgh-e Bahādorān;-43.7
+Hole Narsipur;40.1
+Carepa;77.4
+Sierra Bullones;-13.6
+El Valle;83.2
+Ambodimanary;-62.5
+Swieqi;72.9
+Aš;0.6
+San Carlos de Guaroa;-9.8
+Licheng;-77.5
+Khmelnytskyi;-28.8
+Schöningen;-48.5
+Comăneşti;28.5
+Baohe;72.6
+Lakewood;19.1
+Ponte da Barca;-50.0
+Elkhart;-94.1
+Prokhladnyy;-61.1
+Gorantla;-32.2
+Erumāpālaiyam;66.9
+Qibray;-98.3
+Ladera Ranch;38.2
+Mohnyin;60.0
+Ballenstedt;92.4
+Anadyr;7.0
+Khanty-Mansiysk;33.3
+Saguday;-72.1
+Kingsland;30.4
+Xalapa;-5.3
+Villa Park;-39.0
+São Roque;-10.6
+Fillmore;-65.1
+Arauca;-49.4
+Chapa de Mota;-81.5
+Haukipudas;93.8
+Inhangapi;10.1
+Stein bei Nürnberg;-40.8
+Nanto;-60.6
+Tzintzuntzán;83.0
+Bushey;56.3
+Gerpinnes;-55.6
+Palm Springs;-26.1
+Al Aḩmadī;-78.2
+Mensora;62.2
+Rush;60.9
+Patate;16.3
+Golden;18.8
+Sharbaqty;13.8
+Huehuetla;81.1
+Steinen;13.2
+Emden;51.8
+Orléans;-50.5
+Tiruchengodu;-51.5
+Gorham;-61.4
+Saḩāb;-85.8
+Steinhagen;-48.7
+Bardejov;63.4
+Pidugurālla;-96.2
+Mascalucia;-66.3
+Podlehnik;-13.3
+Tanguá;42.5
+Laranjal Paulista;36.9
+Zhongxiang;-68.3
+Aileu;71.8
+Ettimadai;-98.2
+Suthālia;74.7
+Cambrai;-60.7
+Zirāpur;-14.1
+Birigui;-46.3
+Esperalvillo;-74.2
+Guéné;-31.0
+Zafarwal;-86.7
+Ilmenau;6.3
+Xinzhaidian;63.9
+Dona Inês;-43.2
+Sanjiang;-36.2
+Belvedere Park;25.6
+Nanmeng;-67.8
+Qom;-41.5
+Premiá de Mar;85.4
+Burela de Cabo;51.9
+Stung Treng;-1.8
+Arsali;-64.2
+Malème Hodar;-13.3
+Oroszlány;27.4
+Jiaxing;-76.2
+Guamúchil;-29.4
+Kurtalan;2.3
+Samayac;-5.7
+La Mata;-2.5
+Atkarsk;-28.2
+Ponneri;-94.7
+Depew;66.6
+Cagwait;-36.9
+Coahuitlán;29.4
+Tsiately;10.0
+Takhli;-18.8
+Hoeilaart;93.0
+Cañas;-89.6
+Merida;67.6
+Jandaíra;-42.0
+Ramenskoye;-72.9
+Leer;-21.6
+Pichilemu;-68.2
+Holzkirchen;-86.4
+Edgware;-70.8
+Eagle;-24.1
+Valença;95.1
+Concepción Las Minas;-1.4
+Vinanivao;15.0
+Sopot;86.6
+Tissaf;90.4
+Bodippatti;79.6
+Bamban;-64.3
+Española;67.9
+Angoulême;94.1
+Vadugappatti;43.7
+Bad Sassendorf;-15.6
+Creazzo;-85.7
+Loyalsock;58.1
+Khujner;57.5
+Chiniot;-43.7
+Vila Nova de Gaia;42.5
+Senirkent;-93.5
+Kalyazin;42.8
+Dingras;-87.6
+Bikkavolu;19.3
+Catunda;-42.1
+Feltham;-78.1
+Tepechitlán;-82.3
+Belén de Umbría;20.7
+Tirúa;-5.9
+Bni Drar;57.4
+Zhongtai;56.2
+Tounfit;82.0
+Maida Babhangāwān;-15.4
+Lodhwe;-46.2
+Anta;70.5
+Lake Grove;-64.4
+Hathīaundha;-15.8
+Villefranche-de-Rouergue;65.9
+Sullivan;-6.3
+Mason;-22.3
+Zaouïa Aït Ishak;77.0
+Doñihue;-69.9
+Tubize;-32.4
+Parnamirim;4.2
+San Juan Lalana;41.4
+Fulin;68.0
+Star;55.9
+Flieden;76.5
+Pedregulho;59.1
+Illkirch-Graffenstaden;66.0
+Bertioga;-15.0
+Anröchte;76.3
+Dentsville;76.7
+Buyan;-42.2
+Clemmons;-49.6
+Kuvshinovo;22.9
+Detroit;48.5
+Shahritus;57.1
+Cacimbinhas;13.4
+Bernardino de Campos;82.9
+Andahuaylas;-4.8
+Georgsmarienhütte;-33.5
+East Ham;34.7
+Alfredo Chaves;-72.1
+Nalambūr;-60.4
+Ban Khamen;79.4
+Chiva;18.9
+Danyang;76.7
+Patar;-37.8
+Snezhnogorsk;-34.4
+Port Hope;20.5
+Henderson;-63.2
+Sagunto;-72.8
+Don Galo;53.6
+Tandag;-74.0
+Jima Abajo;-36.9
+Seclin;-66.2
+Herve;-78.1
+Pyatigorsk;-67.8
+Sibiti;97.2
+Āsela;32.3
+Cherakhera;86.0
+Sint-Pieters-Leeuw;76.3
+Belén de Umbría;81.5
+Suffield;30.4
+Barrinha;81.6
+Amalāpuram;-66.8
+Hawkesbury;-5.7
+Santa Catalina;-8.9
+Houston;-87.1
+Svitlodarsk;-52.2
+Montalbán;-92.4
+Sodo;37.5
+Sanski Most;-38.1
+Ambodimandresy;-6.7
+Dalkeith;-36.6
+Saint-Eustache;12.1
+Villa Berthet;49.9
+Kārwār;-25.4
+Āvadattūr;18.3
+Zawyat Sidi Ben Hamdoun;-31.5
+Majiagoucha;-96.3
+Venlo;0.2
+Vänersborg;-78.7
+Sungal;22.5
+Fillmore;-77.2
+Melton;55.3
+Lian;50.0
+Curepipe;7.1
+Riofrío;37.9
+Paragould;25.4
+Gamharia;-92.4
+Fatsa;38.4
+Katkol;-41.7
+Tamm;-15.5
+Okara;33.1
+Perdūr;-28.9
+San Sebastián Salitrillo;-54.0
+Millbury;-30.4
+Passagem Franca;-83.0
+Greasley;10.9
+Teaneck;18.3
+Jardinópolis;39.3
+Khem Karan Saray;8.5
+Daltonganj;-5.2
+Brunoy;34.6
+Behara;-58.6
+Pforzheim;34.1
+Oulad Tayeb;96.7
+Balboa;80.0
+Newcastle;-22.7
+Sindgi;1.2
+Ceadîr-Lunga;-39.6
+Pingxiang;30.2
+Parempuyre;-18.0
+Vedène;-15.9
+Abram;-83.3
+Rutherford;61.4
+Viera West;-58.2
+Ersekë;29.2
+Landquart;50.9
+Fishers;-71.4
+Stadthagen;34.2
+Shimomura;0.2
+Empalme;77.5
+Pontevedra;-97.0
+Bogué;-97.4
+Bielsk Podlaski;-3.9
+Dhabauli;-21.4
+Enrile;2.2
+Lower Swatara;-6.6
+Saravia;27.4
+Talavera;80.4
+Rrëshen;-33.8
+Vidisha;-99.1
+Sassari;-27.1
+Mäntsälä;-46.1
+West Carson;43.0
+Corralillo;67.3
+Dahuaishu;-67.5
+Macedonia;91.7
+Kaltenkirchen;13.7
+Lanškroun;28.3
+Formia;43.3
+Alto Paraguai;-10.8
+Crema;-98.6
+Pelhřimov;-27.0
+Ad Dakhla;-63.8
+Comrat;-82.0
+Chellaston;58.9
+Ānjukulippatti;-89.9
+Herne;99.5
+Rush;95.3
+Hathīaundha;-22.0
+Ust’-Kamchatsk;63.7
+Benemérito;-3.6
+Los Barrios;33.4
+Puerto Real;-14.2
+Jamay;30.7
+Kondakindi Agrahāram;-46.5
+Korosten;-87.0
+Vanderbijlpark;-26.9
+Rancho Santa Margarita;33.3
+Āron;83.2
+Ambilobe;46.1
+Tōno;63.2
+Wunsiedel;7.3
+Milpitas;50.6
+Tunduma;6.7
+Gajiginhālu;-45.6
+Moskva;-65.9
+São João;-23.4
+Hoeilaart;-26.4
+Bozoum;-75.4
+Manjathala;92.3
+Florence-Graham;-53.9
+Karia Ba Mohamed;90.2
+Ringnod;-63.4
+Gorlice;-12.0
+Vatolatsaka;-73.7
+Babhantoli;-20.0
+Luruaco;-51.2
+Crystal Lake;79.2
+Kokkola;29.0
+Bačka Topola;-7.5
+Suzuka;66.0
+Ambohimahazo;-18.0
+Shimogamo;66.6
+Çal;43.9
+Bee Cave;84.2
+Bhāngar;5.3
+Ambohidanerana;-50.6
+Aue;50.0
+Malden;-0.1
+Gorham;-70.0
+Zemio;-26.6
+Zreče;-28.9
+Irapuato;31.4
+San Isidro de Lules;38.0
+Derinkuyu;-78.5
+Horseheads;-59.6
+Gazojak;16.2
+Epazoyucan;33.8
+Ciudad Tecún Umán;30.7
+Salempur;93.8
+Igny;79.5
+Eastpointe;-89.7
+Westerville;14.3
+Saint-Pierre-du-Perray;48.1
+Tsarasaotra;-0.6
+Antony;-44.6
+Singarāyakonda;-37.8
+Golub-Dobrzyń;52.3
+Ciego de Ávila;-73.2
+Cahokia;-6.1
+Danghara;28.8
+Manicaragua;70.7
+Gaspar Hernández;65.0
+Mäntsälä;85.7
+Codó;-12.5
+Chécy;-60.4
+Ilo;-85.7
+Mugumu;-24.4
+Cuichapa;-11.2
+Gobindpur;77.1
+Gersthofen;-1.6
+Cutrofiano;-55.2
+Santana do Manhuaçu;-72.5
+Pāli;84.4
+Ntchisi;-4.5
+Rounia;-41.5
+Rūdarpur;93.6
+Rush;5.4
+Vedelago;-50.1
+Kodikkulam;-6.2
+Jitwārpur Nizāmat;-26.8
+Cervera;-80.7
+Bad Ems;47.1
+Betsiboka;15.7
+Mirnyy;87.4
+Kamisato;67.3
+Sidi Jaber;44.7
+Māldah;-78.0
+T’q’ibuli;40.5
+Thorold;18.4
+Sederot;68.5
+Trois-Rivières;-3.2
+Palmetto Estates;17.2
+Mishan;91.6
+Cuango;1.3
+Limbaži;-13.3
+Tharād;-68.4
+Chantilly;-29.0
+Camapuã;64.1
+Chillum;-13.3
+Isāgarh;-41.3
+Tochigi;-23.5
+Bradford West Gwillimbury;79.6
+Igarapé;37.7
+Espinosa;-45.6
+Rafelbuñol;-11.1
+West Glens Falls;43.9
+Piraúba;-59.9
+Uusikaupunki;98.0
+Uspenka;23.9
+Talayan;-12.1
+Seveso;72.7
+Banak;53.3
+Santa Adélia;97.1
+Alice;4.9
+Anröchte;-73.2
+Yiyang;-91.8
+Ghogardīha;98.3
+Ciego de Ávila;72.6
+Pintadas;-52.0
+Beneditinos;60.3
+Dalkeith;-37.7
+Tori-Bossito;-29.3
+São Pedro do Sul;-59.7
+Jimaguayú;1.6
+Agui;69.3
+Binnish;-13.4
+Gilarchāt;84.9
+Ransiki;-55.6
+Valledupar;36.7
+Lézignan-Corbières;-68.0
+Mayfield Heights;89.4
+Santos;-3.8
+Basavakalyān;-54.1
+Rancho Santa Margarita;68.9
+Pistoia;67.9
+Gouda;-84.6
+Ar Riqqah;79.2
+Veľké Kapušany;-93.4
+Tepalcatepec;-78.1
+Liantang;-92.0
+Krishnanagar;-79.9
+San Giorgio di Piano;-23.4
+Lagos de Moreno;75.2
+Prabhāt Pattan;-83.4
+Paignton;51.4
+Sergiyev Posad;22.2
+Mingxing;49.8
+Florham Park;-2.2
+Český Krumlov;-42.4
+Rafḩā;25.8
+Audincourt;-91.8
+San José de Gracia;-22.1
+Bucksburn;55.7
+Masagua;92.4
+Bīkaner;-32.8
+Grand Forks;26.3
+Cerca la Source;76.4
+‘Adrā;-5.1
+Lüchow;93.9
+Lālgola;30.0
+Velikiy Ustyug;42.5
+Basārh;-37.7
+Piriyāpatna;35.1
+Analaroa;36.0
+Drammen;95.4
+Gig Harbor;92.0
+Talas;-69.8
+Arnouville-lès-Gonesse;-25.5
+Abra de Ilog;38.1
+Upper Saucon;-37.8
+Jalolquduq;66.5
+Reshuijie;-66.6
+Lake Morton-Berrydale;-49.9
+Tanant;-10.2
+Pechora;91.4
+Lower Gwynedd;99.5
+Déville-lès-Rouen;-83.3
+Güimar;81.5
+Cerca la Source;-43.9
+Qaqortoq;-15.3
+Ust’-Kamchatsk;98.2
+Horishni Plavni;-11.8
+Jora;-97.9
+Birendranagar;79.0
+Lyskovo;25.8
+Montería;-3.8
+Orvault;83.3
+Sitampiky;14.0
+Alfaro;-87.9
+Yakumo;69.1
+Babhantoli;95.1
+Meadowbrook;50.1
+Chimbarongo;39.1
+Drahichyn;-49.5
+Androka;91.3
+Palangarai;77.0
+Parksville;-34.1
+Codó;-57.6
+Ciudad del Plata;33.7
+Staraya Kupavna;76.5
+Badhoevedorp;90.0
+Chuzhou;-99.2
+Cormeilles-en-Parisis;-89.6
+Lower Burrell;-44.0
+Ichinoseki;-72.1
+Hyrum;18.4
+Anahidrano;-48.1
+Kanungu;-12.5
+Marysville;73.4
+Dalli Rājhara;-78.5
+Hashimoto;64.0
+Ampère;90.2
+Cadiz;19.7
+Periyanegamam;17.0
+Balad;-90.9
+Copán;-94.9
+Kaithal;-94.4
+Beauvais;5.4
+Quilengues;-78.5
+Stavropol;-41.8
+Sanmu;-75.1
+Bajiao;-68.7
+Piquete;-66.2
+Shaowu;56.4
+Bocaina;-73.8
+Pitseng;45.6
+Rugby;10.3
+Leso;5.8
+West Carson;-66.2
+Nihtaur;-53.3
+Mariscal José Félix Estigarribia;64.0
+Zhengding;-95.7
+Marlboro;51.3
+Veppattūr;95.9
+Pantao-Ragat;-6.1
+Market Harborough;40.8
+Amboanjo;76.7
+Sucy-en-Brie;-43.2
+Paz de Ariporo;-90.0
+Baghlān;-25.3
+Velké Meziříčí;5.9
+Yasugichō;38.2
+Frei Paulo;15.2
+North Tonawanda;97.9
+Los Minas;90.8
+Hayward;66.0
+Mazatán;27.8
+Curridabat;-72.0
+Pālghāt;-26.7
+Neuhausen am Rheinfall;68.0
+Missouri City;-51.2
+Pālda;82.2
+Rubtsovsk;-62.8
+Bloomington;-76.4
+Golden;97.0
+Kimberley;9.2
+Kunisakimachi-tsurugawa;-18.5
+Dar El Kebdani;-78.2
+Tarikere;65.1
+Kot Shamir;-88.0
+Parkent;30.6
+Sederot;-61.5
+Halewood;56.9
+Penne;-58.6
+Tufānganj;-55.1
+Arboletes;23.9
+Neustadt am Rübenberge;-51.0
+Vawkavysk;-50.0
+Jalandhar Cantonment;60.1
+Nazca;93.6
+Pop;21.4
+Čitluk;70.5
+Einbeck;-95.0
+Terrabona;62.6
+Kunoy;39.0
+São Sebastião da Grama;-34.1
+Balboa;42.4
+Balaoan;-66.0
+Gainza;74.7
+Gar;-52.5
+Pasvalys;-34.3
+Nghi Sơn;73.2
+Khmelnytskyi;18.7
+Stockton-on-Tees;-33.5
+Niederwerrn;82.1
+Uppalapādu;30.7
+Helena Valley Southeast;-39.8
+Tangier;-74.2
+Aïn Zaouïa;44.0
+Ben N’Choud;-70.4
+Anatolí;64.5
+Quitandinha;97.4
+Kuaidamao;-6.7
+Vaals;68.6
+San Juan Cotzal;24.0
+McKinleyville;73.1
+Sesheke;56.1
+Lognes;-92.6
+Terra de Areia;33.3
+San Francisco del Rincón;70.8
+Richton Park;5.8
+Herne;43.0
+Yilong;-8.5
+Putian;-84.0
+Alzey;90.3
+Starodub;-94.6
+Lysychansk;-38.9
+Lempäälä;-55.2
+Jiāganj;42.5
+Hazel Dell;28.9
+Kirkwall;-67.2
+Kırıkkale;59.5
+Olho d’Água das Flores;-83.1
+Bluefield;-96.6
+Glasgow;67.4
+Street;70.3
+Rauma;26.4
+Chilapa de Álvarez;-4.6
+Mamarappatti;-78.3
+Ylöjärvi;55.5
+Tufānganj;-14.6
+Uusikaupunki;-10.9
+Sun City Center;-24.8
+Honggu;-30.8
+Ta‘izz;88.2
+Portet-sur-Garonne;6.7
+Rüti;68.6
+Hanumāngarh;39.7
+Yuzhne;51.8
+Suong;12.0
+Majra;-45.0
+Laḩij;8.0
+Rugby;63.4
+Fukui;-66.5
+Dondon;52.7
+Foligno;-33.6
+Boves;-47.0
+Ouled Djellal;-65.7
+Kodivalasa;-29.9
+Dombarovskiy;74.6
+Palo Alto;-16.7
+Skarżysko-Kamienna;2.2
+Zalaegerszeg;-10.8
+St. Albert;50.7
+Rehti;-97.4
+Evanston;-17.9
+Langzhong;71.7
+Karamay;85.6
+Cáqueza;82.0
+Cândido Mendes;15.6
+Kameyama;87.2
+Guraahai;11.4
+Sétif;81.8
+Mohiuddinnagar;80.6
+Siruvalūr;-62.8
+Nelson;21.6
+Lukulu;97.5
+Shijiazhuangnan;41.2
+Ponneri;98.7
+Sabana de La Mar;-69.3
+Xinyingheyan;68.0
+Yomitan;43.1
+Gotse Delchev;-61.2
+Merriam;98.3
+Terrabona;68.0
+Innsbruck;-1.2
+Leutkirch im Allgäu;-69.5
+Gryazovets;99.5
+Cuyotenango;-78.8
+Bariārpur;-31.1
+River Grove;42.8
+Domodossola;-34.7
+Youwangjie;99.3
+Shenfield;28.9
+Lhuentse;22.2
+Baheri;97.4
+Mosul;51.7
+Andriivka;-49.4
+Lunsar;45.1
+Gangāpur Athar;-13.7
+Rorschach;-47.3
+Nueva Italia de Ruiz;-29.4
+Malhārgarh;15.0
+Behenjy;42.4
+Apatity;-92.1
+Kānp;79.3
+Pangunattam;26.4
+Turbo;-43.3
+Weinheim;28.2
+Bāgalūr;78.2
+Riofrío;41.3
+Chépica;12.5
+Timmins;-64.1
+Labasa;74.8
+Yerëma;-56.8
+Ţafas;68.0
+Kunkalagunta;-60.0
+Krasnovishersk;-43.9
+Apatity;90.9
+Sicasica;-32.5
+Soham;-30.3
+Sīrjān;-99.9
+Os;-35.1
+Meine;-95.9
+Bihtā;-72.2
+Zaladanki;57.0
+Ottappidāram;-8.4
+Villa Riva;-99.5
+Fatehpur Sīkri;36.7
+Tutrakan;-44.7
+Lainate;94.1
+Hasami;-61.6
+Cataguases;23.3
+Hardinxveld-Giessendam;48.4
+Parobé;-31.4
+Nāthpur;-94.2
+Manjathala;-86.9
+Boulsa;72.7
+Mandaguari;-26.4
+Conneaut;-85.8
+Kolnād;20.4
+Ormoc;9.5
+Hatonuevo;-9.6
+Isaka-Ivondro;18.2
+Mulakaledu;99.5
+Kalanivāsal;-6.2
+Primero de Enero;-64.7
+Bà Rịa;49.5
+Konstantinovsk;84.5
+Montegiardino;56.6
+Calayan;38.0
+Talwāra;11.9
+Campiglia Marittima;-27.7
+Bom Retiro do Sul;91.3
+San Carlos de Guaroa;98.8
+Griffin;-25.5
+Nenjiang;72.5
+Konotop;55.2
+Quintanar de la Orden;14.2
+Tonse West;-63.6
+Almendralejo;-73.4
+Hazle;-17.4
+Kelkheim (Taunus);-6.3
+Veenendaal;72.5
+Bouarouss;85.4
+Atyraū;-50.7
+Vila Nova de Cerveira;-67.4
+Thiruvananthapuram;77.0
+Huntington Beach;-19.8
+Peddapādu;-6.7
+Maoming;-9.4
+Warrenville;67.8
+Yacimiento Río Turbio;49.8
+Giarre;-61.6
+Mandi Bahauddin;-10.0
+Wawarsing;-26.8
+Nellipāka;-53.4
+Nizhniye Sergi;67.8
+Port Coquitlam;97.5
+Harwood Heights;6.5
+Hongseong;-31.5
+Knurów;-43.9
+Tauragė;73.5
+Puerto Galera;-83.0
+Birigui;-57.7
+Temsia;90.5
+Tawnza;-50.5
+Risalpur Cantonment;62.7
+Higashiura;86.4
+San Vendemiano;65.6
+Duchcov;-48.1
+Hazorasp;75.8
+Redland;19.5
+Gersthofen;-34.8
+Tuchín;-89.8
+Lamu;26.2
+Coulsdon;-16.7
+Rivne;88.4
+Aerzen;95.9
+Évry;-36.3
+Lokwabe;-45.8
+Wolfsburg;-89.3
+Kérouané;-14.0
+Togoch’alē;44.1
+Skierniewice;28.1
+Gonghe;17.5
+Kotha Gurū;-75.9
+Hastings-on-Hudson;8.6
+Chilecito;-15.5
+Baixa Grande;89.8
+Brno;-2.1
+Roxana;32.2
+Capitola;-90.3
+Opelika;-66.3
+Ambohimiadana;63.9
+North Reading;-92.7
+Nakhon Sawan;-14.5
+Bolobo;31.8
+Ganthier;-59.3
+Ksar Lmajaz;15.0
+Denain;19.6
+Qaqortoq;72.5
+Larache;-73.3
+Gojra;-32.3
+Mouans-Sartoux;-73.2
+Rāzole;52.3
+Frei Inocêncio;-83.4
+Polyarnyy;-45.8
+Erongarícuaro;-9.9
+Eden Prairie;92.0
+Gudibanda;43.2
+Peer;-71.9
+Hannō;-6.5
+Togoch’alē;-85.0
+Caen;73.2
+Leninsk;55.4
+Gikongoro;-38.0
+Tuusula;-38.3
+E’erguna;79.6
+Belo;20.1
+Planaltina;84.0
+Denkendorf;52.3
+New London;26.5
+Malden;-5.9
+Okaya;6.5
+Baden;97.6
+Baesweiler;3.4
+Vohipaho;37.8
+Koori;64.8
+Călan;84.7
+Caetano;-94.0
+Kempten;-64.2
+Biu;10.3
+Tepetlaoxtoc;13.4
+Oppatavādi;-12.4
+Lyndon;7.0
+Liaoyang;65.8
+Villa Aldama;95.4
+Split;-76.6
+Gidan Idèr;40.7
+Ormoc;-10.9
+Strzegom;-58.0
+Mahwah;87.9
+Sucy-en-Brie;-37.3
+Ataléia;43.2
+Encinitas;19.5
+Chingola;-8.0
+Udamalpet;-96.1
+Antanimieva;-52.4
+Khonobod;34.9
+Nanzhuangzhen;35.4
+Firuzoba;48.0
+La Palma;11.8
+Hemsworth;-39.9
+Obertshausen;-5.7
+Wendeburg;-57.5
+Andriivka;-45.2
+Frei Inocêncio;55.3
+Claremont;99.8
+Pipra Dewās;-87.9
+Auch;-26.2
+Granite Bay;-91.6
+The Hague;58.3
+Pellezzano;-8.4
+Bayt Lāhyā;96.0
+Steyr;-98.6
+Kazlų Rūda;-75.9
+Berettyóújfalu;-62.6
+Ati;63.0
+Phulgāchhi;-1.6
+Laja;-6.2
+Ciego de Ávila;-85.1
+Oroszlány;31.8
+Saymayl;-65.1
+Citrus Park;56.4
+Golden;-15.6
+Parnarama;-9.1
+Kėdainiai;-41.9
+Woodridge;-16.7
+Empalme;-98.4
+Teus;-98.5
+Aschheim;-7.0
+Drobeta-Turnu Severin;14.2
+Suhl;99.7
+Calera de Tango;93.2
+Heidenheim;-85.2
+Sankt Valentin;-44.9
+Burām;-97.7
+Ţurayf;60.5
+Arbeláez;-3.6
+Sweet Home;68.6
+Le Puy-en-Velay;48.0
+Nawalpur;6.5
+Mansāpur;20.4
+Gazojak;-24.2
+Prescott;-11.3
+Schwarzenbek;-55.8
+Ambatosia;22.0
+Kabirwala;-78.7
+Musselburgh;-97.0
+Caen;45.8
+Aileu;-66.8
+Jaraguá do Sul;49.3
+Cislago;82.4
+Atascocita;29.2
+Partiāla;-14.5
+Samashki;63.2
+Standerton;-96.2
+Kaimūh;-56.6
+Termiz;78.7
+Berchem;-0.5
+Igreja Nova;89.3
+Lysychansk;74.1
+Bela Vista de Goiás;43.2
+Jhenida;53.1
+Schönefeld;32.0
+Mascalucia;76.9
+Banovići;-51.7
+Bom Retiro do Sul;32.6
+Chilanga;84.8
+Anuppampattu;-75.6
+Tiana;37.2
+Iarpur;16.8
+Severodvinsk;71.8
+West Bradford;44.8
+Çumra;68.5
+Tibagi;-46.6
+Mukhtārpur Salkani;-16.6
+Chumphon;-83.9
+Douar Oulad Hssine;87.1
+Downham Market;-11.8
+Las Piñas City;83.3
+Nueva Paz;-77.5
+Manggar;-33.6
+Novhorod-Siverskyi;-33.0
+Krasnovishersk;-78.1
+Jonuta;-40.9
+Gədəbəy;82.8
+Monett;-44.0
+Kümmersbruck;-82.0
+Aguacatán;-65.2
+Brahmānandapuram;-65.7
+Kakumiro;-25.5
+Pedro Afonso;1.4
+Dzyarzhynsk;40.7
+Hengchun;-65.2
+Bender;-35.6
+Apía;33.1
+Riberalta;1.4
+Satai;-20.6
+Pincourt;93.4
+Chiniot;-22.5
+Linton Hall;-25.4
+Parintins;21.6
+Mirdoddi;8.1
+Semara;-38.5
+Santa Helena de Goiás;-79.4
+Bitlis;-11.8
+Emmaus;90.8
+Wieluń;-13.1
+Kissing;66.5
+Bad Oldesloe;-10.8
+Aldona;25.4
+Pakenham;15.8
+Rājpur;94.5
+Nayāgaon;25.6
+Palm Harbor;34.7
+Peduasi;11.8
+Hulkoti;-42.8
+Marguerittes;18.5
+Daisen;-87.8
+Fraga;59.6
+Buton;90.9
+Beauvais;41.6
+Kunisakimachi-tsurugawa;-99.6
+Chengxiang;44.4
+Norīa;-73.2
+Puerto Ayacucho;1.1
+Serra Branca;28.8
+Chettipulam;36.9
+Horishni Plavni;-72.4
+Ervália;61.1
+Pöytyä;-91.9
+Piraúba;-26.3
+Icatu;-57.0
+Petite Rivière de l’Artibonite;-60.1
+Hengchun;33.7
+Zlatograd;2.6
+Lake Villa;7.0
+Linton Hall;-35.1
+Wieluń;-86.2
+Chansolme;15.8
+Deoghar;-49.9
+Antsoha;0.0
+Cox’s Bāzār;44.4
+Mansa;-95.4
+Enfield;-37.5
+Normal;7.1
+Gardelegen;42.8
+Euriápolis;12.3
+Sinsheim;-50.5
+Bømlo;-61.1
+Villa Aldama;-23.4
+Sokal;-50.0
+Alto Paraguai;61.6
+Borås;25.3
+Moldava nad Bodvou;-91.3
+Efkarpía;-29.7
+Oroszlány;18.8
+Malgobek;-88.6
+Baohe;38.6
+Yŏngju;45.3
+Karuvambram;-8.7
+Cantanhede;29.8
+San Casciano in Val di Pesa;-74.7
+Baliuag;20.1
+San José Ojetenam;-32.2
+Kilkunda;26.4
+Vólos;78.8
+Bordeaux;71.8
+Lier;-12.7
+Muri;43.0
+Inverell;60.7
+Ramenskoye;40.1
+Chèddra;-62.4
+Villa Riva;-51.2
+Srīnivāspur;53.9
+Heckmondwike;43.4
+Clorinda;86.8
+Bushey;-98.1
+Valsequillo de Gran Canaria;48.4
+Kajiado;-64.7
+Sidi Lmokhtar;93.0
+Čoka;-32.8
+Tyumen;-7.3
+Vyksa;-58.8
+Geiro;3.0
+Pontassieve;-26.7
+Deruta;83.0
+Somma Vesuviana;16.2
+Rossano;5.7
+Rafael Delgado;-52.9
+Lodwar;12.2
+Ar Raqqah;-74.7
+Temsia;-8.5
+Isemi-Ile;76.2
+Glenpool;-11.8
+Ānjukulippatti;48.5
+Caripito;-92.8
+Lorgues;12.0
+Sabana Grande;50.6
+San Pedro de Macorís;84.6
+Bryant;53.6
+Villa Castelli;90.6
+Boxtel;92.9
+Gornja Radgona;-31.4
+Zhonghechang;95.7
+Bālumāth;-65.4
+Wierden;9.0
+Ipueiras;-73.7
+Risalpur Cantonment;-36.5
+North Tonawanda;-60.5
+Chop;-6.0
+Kandry;-20.6
+Emboscada;63.5
+Nosibe;4.3
+Manakana;62.7
+Jerez de la Frontera;-77.9
+Povarovo;-95.7
+Hardinxveld-Giessendam;16.0
+São Pedro do Sul;87.9
+Pyt’-Yakh;-25.1
+Malaimbandy;70.4
+Tirunāgeswaram;41.0
+Yasu;37.8
+Kuzuculu;-64.1
+Kāshmar;-83.2
+Ankaramena;9.7
+La Grande;29.3
+Sever do Vouga;39.8
+Claxton Bay;-23.9
+Lorgues;54.8
+Aschheim;-65.2
+Arcoverde;-47.5
+Pingliang;-97.1
+Scottsboro;15.3
+Camocim de São Félix;60.6
+San Francisco del Rincón;23.4
+Pistoia;13.6
+Nellutla;-2.0
+Chewara;-15.6
+Huaibei;48.8
+North Decatur;25.6
+Pradera;-27.5
+Bariariyā;23.0
+Lustenau;41.8
+Blackstone;89.4
+Cotia;74.3
+Fernley;78.2
+Dhing;-76.4
+Yeola;97.3
+Rehau;-69.4
+Leramatang;-15.9
+Arpaçay;43.3
+Korba;68.6
+Ixtapaluca;-15.7
+Alquízar;72.9
+Hanumāngarh;98.7
+Koppal;69.1
+Testour;95.3
+Tanque Verde;18.7
+Borken;13.2
+Santa María Chiquimula;-48.0
+Borken;54.5
+Ta‘izz;-69.0
+Vohindava;-84.1
+Nova Prata;2.8
+Pingliang;57.7
+Fleet;-35.0
+Pālda;89.4
+Greeneville;83.1
+Louisville;-2.8
+Tirumala;-66.9
+Mikkeli;49.1
+Gronau;7.1
+Kyōto;85.5
+Kabirwala;-38.2
+Kanie;20.9
+Washington Court House;-92.7
+Westchase;73.6
+Sabbah;57.8
+Naka;80.0
+Parsuram;60.7
+Zacapa;82.9
+Levski;92.8
+Khanna;-14.0
+Tredyffrin;32.2
+Manjacaze;-31.3
+Walker Mill;87.0
+Vodiriana;-47.2
+Waltershausen;-74.0
+Bom Repouso;27.1
+Phetchaburi;53.4
+Għaxaq;95.1
+Boulsa;-56.6
+Haka;69.5
+Cockeysville;-84.0
+Sint-Truiden;70.2
+Carlos Manuel de Céspedes;71.8
+Madakalavāripalli;12.8
+Lempäälä;-77.0
+Souk Tlet El Gharb;60.8
+Crimmitschau;-82.8
+Yondó;18.7
+Xinnongcun;-40.7
+Gleno;-79.6
+Lautaro;21.5
+Phú Yên;39.1
+Takhli;-95.7
+Falkenberg;-4.5
+Ouyen;-81.0
+Española;4.1
+Piedmont;-39.1
+Acámbaro;-98.5
+Venezuela;59.1
+Puente Nacional;-56.2
+Itapetim;-58.6
+Kafr Rūmā;-33.5
+Masdi;56.8
+Wajir;50.9
+Jūrmala;-59.5
+Torit;2.4
+Plottier;-6.3
+Ksar Lmajaz;-34.0
+Sergiyev Posad;-38.9
+Valerik;-39.8
+Lumbang;81.2
+Büdelsdorf;-5.6
+Temple City;-32.6
+Tuchín;-49.1
+Vohindava;24.6
+El Cerrito;-81.6
+Leer;-27.9
+Grenade;-88.9
+Hoogezand;8.0
+Biot;-37.2
+Trent Hills;70.4
+Sêrro;5.9
+Epazoyucan;-24.4
+Wade Hampton;-14.3
+Yukon;-78.2
+Ban Laem Chabang;58.6
+Primero de Enero;13.8
+Bogovinje;24.3
+Jāmunia;54.3
+Schwarzenbek;1.2
+Na Klang;-34.6
+Petare;-60.3
+Quispamsis;-5.8
+Dharamshāla;-52.6
+Miguel Alves;39.3
+Salto Grande;12.1
+Ulyanovsk;-88.0
+Yeghvard;-75.1
+Enkesen;59.5
+San Policarpo;-87.0
+Stalybridge;62.5
+Naga;53.1
+Gudiyāttam;-73.5
+San Jacinto;-16.8
+Al Miqdādīyah;97.8
+Santa Lucía del Camino;65.5
+Jonnagiri;-68.8
+Corinth;50.3
+Ḑurumā;78.6
+Potrerillos;67.9
+São Félix da Marinha;28.6
+Las Piñas City;45.7
+Porta Westfalica;-39.6
+Keolāri;-11.3
+Luton;10.4
+Khénifra;-77.1
+Madrid;12.1
+Mildura;81.1
+Ortaklar;13.4
+Pedro Afonso;-70.5
+Nehbandān;-38.2
+Ballston;-88.9
+Rossano;-87.2
+Magway;92.3
+Huanghuajing;77.0
+Paşcani;-22.7
+Clevedon;11.1
+Nova Bassano;-68.1
+Fernley;-16.1
+West Lafayette;-5.8
+Osternienburg;-20.7
+Karlstad;-83.4
+Limpio;20.9
+Mỹ Hòa;-7.4
+Trenton;-23.2
+Espejo;-86.3
+Fuzhou;38.3
+Inzá;-21.7
+Oplotnica;65.0
+Mujuí dos Campos;-81.5
+Għaxaq;-70.9
+Eastern Goleta Valley;-85.0
+Garbagnate Milanese;-81.9
+Cochabamba;53.9
+Niutuo;-50.1
+Kenosha;64.6
+Ban Wat Chan;-32.6
+Opelika;10.2
+Stupino;63.6
+Allen Park;92.9
+Zhongxiang;-37.5
+Itapuranga;-99.4
+Qārā;46.4
+Umurlu;-77.6
+Chipinge;6.2
+Ban Bang Khu Lat;35.2
+Stalowa Wola;-83.4
+Talugtug;85.3
+Lantana;14.0
+Dewsbury;-81.6
+Ciudad Tecún Umán;-77.3
+Namīn;-12.0
+Wülfrath;48.2
+Cabrobó;-23.6
+El Bagre;64.9
+Penne;-9.4
+Bôca do Acre;-59.7
+Sāmba;-97.8
+Meoqui;46.0
+Hull;-5.4
+Toretsk;83.9
+Haigerloch;10.2
+Mazatán;-98.6
+Ginosa;46.3
+Livingston;-37.8
+Araioses;62.8
+Priverno;17.6
+Silver City;-1.1
+Starnberg;4.0
+Yamba;50.0
+Świedbodzin;-17.2
+Hohen Neuendorf;-36.8
+Baipingshan;-18.5
+Clearfield;77.6
+Khamīs Mushayţ;88.8
+Sala;58.0
+Rhymney;11.3
+Somma Vesuviana;-35.1
+Buco Zau;65.6
+Néa Erythraía;-86.8
+Telgte;94.5
+Garden Acres;-20.9
+Fujiyoshida;-5.0
+Katra;-36.4
+Dīnhāta;23.6
+Chaigoubu;14.2
+Menfi;-45.1
+Petite Rivière de l’Artibonite;-86.4
+Jimaguayú;-34.1
+Los Banos;-49.2
+Moose Jaw;-51.5
+Khorramābād;-11.2
+Unión Chocó;-96.4
+Longchang;98.8
+Chākand;96.6
+Chellaston;-97.6
+Katkol;-77.4
+Mananasy-Tsitakondaza;-94.2
+Karak;-57.3
+Tipitapa;-20.4
+The Village;-30.6
+Bodippatti;60.9
+Dŭstí;85.7
+Rafael Delgado;-17.0
+Jagodina;53.4
+Masdi;65.4
+Baturité;4.1
+Kavieng;12.3
+Banovići;-64.2
+Friedrichshafen;96.1
+Godhra;39.7
+Tuensang;42.6
+Teotepeque;81.4
+Břevnov;-54.3
+Kewatgāwān;-31.7
+Detroit;-22.6
+Mazarrón;36.1
+Juiz de Fora;74.0
+Bakhor;68.6
+Gondalga;33.1
+Prabhāt Pattan;94.8
+Dol;28.3
+Bela Vista;-16.1
+Bni Rzine;64.7
+Nacozari de García;-2.9
+Cerklje na Gorenjskem;-4.9
+Lower;-54.7
+Aç-çahrij;-73.4
+Sali;-43.9
+Puruliya;61.3
+Gopichettipālaiyam;-20.3
+Galimuyod;-9.3
+Fuchūchō;87.5
+Huanggang;64.0
+Tulancingo;81.1
+Bilāsipāra;-87.9
+Agourai;60.3
+Leeds and the Thousand Islands;-50.4
+Bandar-e Māhshahr;34.4
+Honchō;89.9
+Tsiroanomandidy;-64.5
+Blackwells Mills;12.2
+Osmaniye;-83.2
+San Policarpo;-14.5
+Qaskeleng;26.4
+Huruta;49.9
+Agareb;75.7
+Tarhzirt;35.6
+Radviliškis;-8.4
+Al Miqdādīyah;38.3
+Kabacan;91.0
+Astley;59.0
+Umm Qaşr;7.0
+Aleg;59.4
+Alpignano;52.1
+Samtredia;78.4
+South Ogden;-94.3
+Aç-çahrij;10.2
+Arvand Kenār;45.3
+Dunhuang;-43.4
+Trogir;-99.6
+Locate di Triulzi;-74.6
+Dumont;75.8
+Gerstungen;45.5
+Kajiado;-39.6
+Borna;2.0
+Phatthaya;58.6
+Hyattsville;98.5
+Bhaktapur;-6.6
+Merseburg;-44.3
+Sekondi;83.8
+Abingdon;89.9
+Fillmore;6.8
+Shuyangzha;-72.0
+Qala;68.6
+Opelika;5.1
+Gangāpur Athar;79.6
+North Plainfield;-27.8
+Nachikatsuura;-95.9
+Barton upon Irwell;49.9
+Peñaflor;-50.7
+Marrakech;54.1
+Pöytyä;71.3
+Barton upon Irwell;68.5
+Can-Avid;20.2
+Nizhnevartovsk;74.2
+Redan;-19.7
+Rosamond;19.2
+Pinjranwān;7.1
+Derbent;-88.2
+Senaki;91.9
+Tiruvalanjuli;23.1
+Sidi Ettiji;-92.7
+Ráth Tó;94.7
+Barnaul;59.7
+Mataguá;-29.9
+Bela Vista de Goiás;-47.9
+Dumont;64.4
+North Lynnwood;16.7
+Tivim;-31.5
+Ocotlán de Morelos;-16.2
+Owando;80.6
+Guéné;-73.1
+Mungeli;-66.4
+Barquisimeto;89.5
+Pegnitz;66.1
+Pendências;98.4
+Randers;1.3
+Kambhampādu;-34.3
+Al Qaşr;1.8
+Itororó;-90.3
+Lasht-e Neshā;-88.8
+Mascali;-94.2
+Tsau;3.9
+Guia Lopes da Laguna;21.0
+Murājpur;15.7
+Bee Cave;96.2
+Genemuiden;-2.9
+Malaimbandy;-9.4
+Tavira;43.7
+Lakhipur;30.4
+Ceyhan;31.8
+Masaka;15.2
+Bībīpet;8.1
+Namysłów;97.3
+Katkol;58.2
+Reggello;-9.5
+Mizunami;15.3
+Jagüey Grande;-20.5
+Pizarro;48.3
+Kalabahi;10.0
+Myślenice;60.5
+Wolfratshausen;-84.2
+Chongzuo;66.6
+Kitagata;70.2
+Treia;-76.4
+Balabac;-35.2
+Manjeri;39.6
+Winter Park;-66.9
+Lake Grove;-90.3
+Nödinge-Nol;44.2
+Temperance;-3.9
+West Chester;96.2
+Quakers Hill;-78.2
+Tipasa;-16.5
+La Mata;31.7
+María la Baja;-4.6
+Higashiagatsuma;-58.9
+Kourimat;-64.3
+Kabasalan;95.4
+Meco;70.2
+Mariupol;-23.4
+Casciana Terme;82.3
+Ventania;-54.2
+Nerubaiske;-33.5
+Arta;26.4
+Monserrat;73.4
+Jordânia;74.0
+Cap-Haïtien;-29.1
+Luancheng;9.1
+Anapoima;-75.5
+Monte Sião;88.4
+Redding;76.7
+Blackfoot;-38.7
+Tivaouane;-48.8
+Teseney;-0.8
+Kozloduy;7.2
+Brejo da Madre de Deus;35.2
+Legazpi City;-62.8
+Hōki;-40.4
+Garut;-33.1
+San Policarpo;-6.4
+Schübelbach;95.6
+Casiguran;-88.0
+Buved;-30.8
+Bender;-75.2
+Tiana;-18.8
+Bela Vista de Minas;-95.2
+Diez;90.2
+Capitão de Campos;-88.5
+Bystrzyca Kłodzka;76.8
+Hornchurch;-86.2
+Dapi;25.5
+Khalāri;0.6
+North Plainfield;64.1
+Bad Oldesloe;-29.9
+Quepem;53.5
+Ta‘izz;48.6
+Villa María;-67.2
+Pintadas;-31.3
+Epazoyucan;-14.9
+Frattamaggiore;-3.9
+Moldava nad Bodvou;-47.0
+Corabia;17.9
+Yongyang;36.0
+Nālūt;-79.3
+Ambodimanary;1.5
+Anorí;-25.1
+Tiruvādi;84.9
+Filiaşi;-59.9
+Los Reyes de Salgado;20.9
+Jiāganj;-37.8
+Los Llanos;73.9
+Pālghāt;45.4
+Adalpur;-10.1
+Thiruvananthapuram;96.5
+Castrop-Rauxel;-19.1
+Wegberg;59.2
+Bree;-45.9
+Castelo Branco;-68.9
+Ambattūr;74.4
+Altamira do Maranhão;29.6
+Fukuchiyama;35.9
+Kaniv;31.7
+Enkesen;-80.0
+Zhaicun;63.1
+Mahājerān-e Kamar;-17.2
+Awjilah;-10.9
+Vila Nova de Gaia;-17.1
+Portet-sur-Garonne;55.3
+Florstadt;33.0
+Monsefú;36.8
+Kozmodemyansk;-87.3
+Anjoma-Ramartina;91.4
+Acarape;-40.3
+Marigliano;58.6
+Vantaa;15.8
+Frei Paulo;-86.5
+Pico Rivera;-49.4
+Borja;-88.7
+Godē;-78.4
+Sarmīn;86.5
+Hopa;-15.0
+Ambohidanerana;-33.0
+Tiztoutine;-79.3
+Coonoor;-94.5
+Douar Ezzerarda;54.9
+Araucária;54.2
+Billère;-92.1
+Mahāgaon;-97.2
+Manambolosy;-88.8
+Las Charcas;23.4
+Sopište;-75.8
+Anklam;-53.1
+Chinna Gollapālem;29.9
+Campos del Puerto;74.8
+Roldanillo;-21.1
+Mithi;-25.1
+Parramos;-80.7
+Nilothi;-88.9
+Yondó;0.1
+Pathrajolhania;13.9
+Nijgaon Parānpur;49.8
+Plymouth;-8.7
+Vernon Hills;63.8
+Libertad;22.1
+Dasaut;-43.2
+Belvādi;-83.0
+Ocuilan de Arteaga;28.5
+Mosquera;-96.0
+Bombinhas;-7.4
+Montanhas;-80.7
+Nīkshahr;77.9
+Hardinxveld-Giessendam;88.3
+Amborondra;58.8
+Llallagua;88.4
+Codó;38.6
+Eersel;45.6
+Ouled Djellal;19.9
+Wewak;-1.1
+Giyon;-69.6
+Krasnyy Sulin;39.0
+Nakashunbetsu;56.1
+Masar;-69.3
+Antsoantany;-39.1
+Lustenau;-13.6
+Langenselbold;-41.0
+Soma;-66.8
+Maryport;-61.5
+Babylon;-14.1
+Bulusan;93.7
+Naz̧arābād;78.0
+Amecameca de Juárez;-5.1
+Bellaire;18.6
+Constantina;-84.4
+Anadyr;78.3
+Odaiyakulam;-80.5
+Ottappidāram;49.0
+Culion;35.9
+Hoeselt;-84.9
+La Mata;79.6
+Bugojno;19.8
+Chamblee;-1.7
+Monesiglio;46.7
+Banda del Río Salí;-93.3
+Bozhou;-41.4
+Andrews;5.4
+Belfast;93.8
+Bree;33.2
+Caracol;-92.7
+Närpes;95.1
+Oborniki Śląskie;2.5
+Kotra;-41.1
+Gallup;-73.1
+Guspini;-50.8
+Ecclesall;-97.7
+Southborough;22.1
+Muñiz;54.3
+West Lafayette;-48.2
+Welby;55.7
+Salou;-96.4
+Creazzo;-45.0
+Haywards Heath;-25.7
+Pinjranwān;64.1
+Hengkou;-3.1
+Jangamguda;38.7
+Ciudad Tecún Umán;8.9
+Spenge;-87.5
+Bakhtiyārpur;94.2
+Thogapalle;-73.1
+Hov;98.8
+Selden;18.5
+Soasio;97.2
+Jambaló;92.5
+Cabrobó;91.3
+Mukacheve;-43.2
+Bariariyā;77.4
+Fairfield;2.2
+Lozovo;-43.4
+Ufeyn;-17.5
+Te Anau;-87.2
+South Yarmouth;-45.4
+Antsohihy;-95.7
+San Francisco;-5.5
+Kuznetsk;9.4
+Mamakating;44.2
+Madhupur;68.7
+Namsan;53.0
+Markranstädt;70.1
+Zumarraga;7.0
+Harsewinkel;12.2
+Pinerolo;-37.2
+Pattensen;-14.8
+Saint-Jean-de-Monts;52.0
+Forst (Lausitz);73.7
+Court-Saint-Étienne;-13.4
+Villa Castelli;-82.2
+Roncq;-11.2
+Tecali;14.4
+Gaspar Hernández;81.2
+Ban Bung Kha;-25.8
+Oatlands;-29.1
+Wieluń;-34.0
+Jovellanos;9.5
+Paola;-29.2
+Felidhoo;-14.5
+Príncipe da Beira;-24.5
+Escanaba;-67.5
+Serra Dourada;46.6
+Rānībennur;37.2
+Whitestown;62.0
+Almazora;4.7
+Sebt Bni Smith;96.1
+Wānkāner;28.6
+Caen;-60.2
+Vibo Valentia;65.5
+Lisburn;-74.1
+Magway;-75.6
+Boumia;82.0
+Revūr;-51.8
+Rayón;-30.8
+Maple Valley;4.1
+Mons-en-Baroeul;-25.6
+Liangyi;93.0
+Bel Air;47.0
+Seia;11.7
+Craponne;52.9
+Xiangping;-34.6
+Ross-Bétio;48.2
+Zacapa;92.2
+Thaba-Tseka;-4.5
+Shorewood;84.4
+Ala-Buka;68.0
+Heemskerk;-80.3
+Bischofshofen;41.2
+Oroszlány;-65.7
+Khaşab;3.7
+Jitotol;37.4
+Condega;49.8
+Bad Reichenhall;6.6
+Vedène;-39.3
+Encinitas;-92.2
+Chicomba;-46.2
+Ponta Delgada;41.0
+Huanghuajing;-73.3
+Crestwood;-1.3
+Peekskill;-24.5
+Viana do Castelo;-48.2
+Rocca di Papa;-26.3
+Mairinque;-63.4
+Isāgarh;19.5
+Schiedam;-33.0
+Gulkevichi;46.0
+Golden;0.2
+Doña Remedios Trinidad;3.1
+Raxaul;-2.2
+Cordisburgo;82.5
+Auray;-32.9
+Shirva;-79.2
+Siktiāhi;-73.5
+Erbach;37.6
+Lopez;-95.6
+Scottsboro;-71.0
+Barkuhi;-48.8
+Xinzhaidian;29.8
+Höhenkirchen-Siegertsbrunn;61.7
+Xianxi;59.8
+Tit Mellil;-69.6
+Revūr;-82.3
+Elkridge;40.7
+Ambodisikidy;2.5
+Woodinville;-83.3
+Mehdya;97.6
+Linda;-29.5
+Senaki;51.6
+Arlington;5.1
+Toca;18.8
+Vallejuelo;-51.5
+Glenpool;-65.0
+Neiafu;37.3
+Braslaw;-82.1
+Seropédica;60.1
+Cambita Garabitos;42.8
+Chandhaus;-23.3
+Buguias;86.2
+Bopolu;30.3
+Cuya;-55.5
+Talen;75.1
+Beaconsfield;-3.9
+Dillingen;-68.5
+Gennevilliers;79.4
+Raceland;87.2
+Zavolzhsk;64.6
+Pintadas;39.7
+Arnouville-lès-Gonesse;-78.1
+Lajeado;-16.5
+Sinsheim;32.6
+Concordia;56.3
+Xinchangcun;44.7
+Berovo;-40.4
+Nanjō;32.1
+Bathurst;96.0
+Santiago Nonualco;22.0
+Fort Walton Beach;-0.9
+Fatsa;72.5
+Puente de Piedra;-27.4
+Karumattampatti;76.5
+Beaconsfield;-94.0
+Tuam;10.1
+Usiacurí;-36.9
+São Desidério;-12.2
+Bharūch;55.7
+Baucau;21.3
+Ecclesall;12.0
+Baden;-44.1
+Madrid;16.5
+Camapuã;-55.3
+Valasa;-56.6
+Jardinópolis;53.7
+Torbat-e Ḩeydarīyeh;-94.2
+Chambray-lès-Tours;-96.8
+North Salt Lake;18.6
+Bombardopolis;92.6
+Filipstad;-69.1
+Karabulak;80.7
+Ugep;23.3
+Aduku;-87.0
+Bee Cave;12.1
+Corail;-34.2
+Lake Hopatcong;95.0
+Rustavi;74.2
+Bystrzyca Kłodzka;95.0
+El Haouaria;4.4
+Neftekumsk;16.0
+Zongdi;-49.5
+Moengo;-73.6
+Terkuvengānallūr;-70.4
+Palo Alto;81.4
+São Sebastião do Caí;-36.1
+Dandenong;58.8
+Manatuto;81.4
+Kalyān;-12.6
+Tarikere;40.0
+General Pacheco;-91.3
+North Shields;-40.7
+Quảng Yên;-10.4
+Narathiwat;-21.0
+Dammartin-en-Goële;-39.5
+Emba;95.0
+Phatthaya;24.5
+Pyu;-85.8
+Donetsk;-8.5
+Fisciano;85.6
+Mādhura;50.2
+Tumbao;-8.4
+Kurtalan;69.4
+Gīlān-e Gharb;-70.1
+Daireaux;-34.9
+Piraí do Sul;36.5
+Zwolle;80.5
+Nariār;-21.4
+Escaudain;59.0
+Tampere;-18.3
+Iheddadene;-20.4
+Havelock;52.5
+Labasa;-5.0
+Peraiyūr;29.4
+Mbanza-Ngungu;74.6
+Almolonga;42.8
+Kressbronn am Bodensee;-8.8
+Lejanías;28.7
+Taloda;-82.6
+Kountouri;62.9
+Schilde;-60.6
+Gorna Oryahovitsa;89.8
+Al Qurayyāt;-56.0
+Ikoma;92.0
+Bīleh Savār;-1.7
+Ponmana;-82.5
+Kiwoko;82.0
+Kriftel;86.5
+Pipariya;45.2
+Raydah;-78.2
+Taloda;58.4
+Pushpattūr;22.1
+Phagwāra;-90.4
+Blagnac;-55.3
+Temperance;82.6
+Cholchol;-11.4
+Coité do Nóia;17.2
+Ladenburg;73.1
+Langenselbold;57.2
+Dharamshāla;-6.3
+Jaraguá do Sul;-85.8
+Cahama;-20.7
+Dahibhāt Mādhopur;75.0
+Balashov;79.2
+Standerton;48.1
+Time;32.6
+Sagua la Grande;-48.3
+Katiola;71.8
+Duero;7.1
+Baotou;82.7
+Rustampur;-32.5
+Dzuunmod;-30.4
+Düzce;41.2
+Siraway;43.0
+Villa Berthet;-29.1
+Kalghatgi;28.8
+Dąbrowa Tarnowska;-70.3
+Borna;10.9
+Luancheng;43.4
+Curuzú Cuatiá;-63.3
+Bà Rịa;21.5
+Dzuunmod;56.5
+Talata-Vohimena;2.2
+Chécy;55.3
+Wallingford Center;35.1
+Ridgewood;-42.9
+Petrovka;12.1
+Espiritu;-95.2
+Darłowo;35.4
+Qarqan;-54.8
+Vänersborg;-40.7
+Toffo;-75.1
+Pallāvaram;-47.4
+Bee Cave;34.2
+Pop;-29.6
+Acarape;98.4
+San José de Gracia;-96.1
+Ammanford;-31.4
+Eastpointe;-83.8
+Hickam Housing;-47.6
+Sever do Vouga;28.6
+Pakribarawān;24.3
+Hosdurga;89.5
+Karahallı;67.0
+Jhenida;88.3
+Belvedere Park;-13.9
+North Platte;-3.7
+Guinayangan;92.1
+Nanfengcun;15.4
+Kitee;-3.6
+Villa Castelli;68.0
+Sonepur;93.6
+Rancho Santa Margarita;-5.5
+Ikaruga;96.6
+Pisco;93.9
+Kempsey;91.4
+Andong;46.9
+Amos;-12.1
+Sukth;-56.2
+Teningen;14.0
+Parapatti;-81.6
+Drabar;-98.6
+Banhā;-11.8
+Shetang;-97.7
+Mariupol;-95.6
+Mangalia;95.3
+Ternitz;0.1
+Konakondla;-1.9
+Tlalixcoyan;-30.9
+Telaprolu;71.8
+Aßlar;72.1
+Panjāb;-44.5
+Dronten;66.4
+Jangy-Nookat;87.6
+Wawarsing;52.0
+Nerubaiske;-15.6
+To‘raqo‘rg‘on;-27.4
+Fondi;-25.7
+Aspen Hill;12.0
+Al Jaghbūb;-95.4
+Missão Velha;92.0
+Bocşa;-63.2
+Broxbourne;12.2
+Carleton Place;-7.1
+Jarqo‘rg‘on;-16.4
+Godomè;28.9
+Mamnūr;56.4
+Chengxiang;-9.4
+São João;-89.8
+Vilanova del Camí;6.9
+Dospat;44.9
+Nueva Ocotepeque;58.5
+Sabana Grande;76.6
+Sremska Kamenica;68.0
+Galatone;-3.8
+Kārwār;-27.6
+Enfield;41.8
+Saleaula;-16.2
+Bardaskan;-3.8
+Dambal;95.3
+Pīlibhīt;-74.1
+Valkeakoski;28.9
+Montanhas;18.7
+Millbury;79.7
+San Agustín Chahal;-0.0
+Funadhoo;31.3
+Colonia del Sol;-87.0
+Sainthia;-30.3
+Nova Timboteua;82.4
+Abalessa;-58.0
+Novyi Buh;-15.5
+Sacavém;36.9
+Sortöbe;-46.5
+Fâches-Thumesnil;-55.0
+P’yŏngsŏng-si;55.5
+Nikel;66.2
+Barranco de Loba;11.3
+Nansang;61.8
+San José de Feliciano;-74.1
+Depew;-97.8
+Āvadattūr;-44.1
+Hoyo de Manzanares;-35.8
+Caruaru;-16.0
+Kowloon City;-49.1
+Vipparla;-17.5
+Lerik;-73.3
+Sopište;66.6
+Bellefontaine Neighbors;55.7
+Kommūru;-53.1
+Olean;-30.6
+Meoqui;-58.3
+Hanamaki Onsen;61.7
+Ōno;8.5
+Damaishan;57.4
+Baliqchi;43.6
+Khokha;-88.0
+Zaandam;-96.5
+Lençóis Paulista;-5.7
+Mamarappatti;13.7
+Palukudoddi;-33.6
+Kuchai Kot;94.7
+Sierpc;90.0
+Batac;-66.1
+Terra Roxa d’Oeste;-78.3
+Huaibei;14.4
+Concepción Las Minas;-31.5
+San José de Feliciano;6.5
+Chākdaha;40.6
+Broadwater;62.3
+Saint-Genis-Laval;48.0
+Ingenio;70.8
+Cantilan;60.7
+Perpignan;79.4
+Antsoha;-6.7
+Ala-Buka;91.3
+Iten;12.2
+Bizen;88.7
+Nawada;54.2
+Colesville;-19.3
+Quảng Ngãi;46.1
+River Grove;17.7
+Bataguaçu;38.8
+Moose Jaw;-57.4
+Mount Hagen;29.9
+Tolland;56.9
+Ciudad Tecún Umán;9.9
+San Tomas;-70.7
+Chinnakkavundanūr;-8.0
+Mukāsi Pidāriyūr;41.5
+Mila;-68.1
+Akron;-63.5
+Clearfield;22.5
+Baena;94.8
+Le Bourget;-35.9
+Nagaoki;60.4
+Ḑurumā;10.1
+Kamphaeng Phet;-65.1
+Sihorā;-6.3
+Velampatti;53.7
+Bluefield;-48.1
+Lagoa do Ouro;44.7
+Auray;-35.6
+Nueva Santa Rosa;63.8
+State College;-26.5
+Red Hook;62.3
+Spresiano;1.5
+Falconara Marittima;-68.2
+Tādināda;84.6
+Rivne;58.6
+Divriği;60.0
+Ataléia;26.9
+Lehigh Acres;39.3
+Ich’ŏn;68.4
+Khalāri;-66.7
+Yambol;16.9
+Lohur;-82.1
+Chābahār;66.1
+Khundāwandpur;96.1
+Dashtigulho;58.5
+Senjān;64.8
+Kodaira;-95.3
+Pecica;-69.3
+Eastchester;13.3
+Brahmānandapuram;86.3
+Petare;-50.7
+Mayfield Heights;-32.2
+Changshu;45.4
+Luuq;-74.4
+Rupauli;-17.9
+Issoire;-65.8
+Aleg;-41.3
+Dongwang;38.3
+Takaoka;-23.6
+Tavira;44.5
+Chingola;15.8
+Sidlice;-41.1
+Marabut;5.1
+Sim;-17.9
+Terre Neuve;97.5
+Pedro Carbo;0.6
+Copertino;93.4
+Anjēhalli;30.2
+Xalqobod;-78.5
+Phillipsburg;13.5
+Toretsk;1.3
+Peddapalli;25.3
+Nakhon Sawan;31.8
+Waggaman;87.9
+Talata-Vohimena;56.4
+New Delhi;-74.1
+Ablu;-81.4
+Yakumo;-59.9
+Kahror Pakka;-44.7
+Kostinbrod;-20.1
+Arouca;84.7
+Kūstī;18.6
+Mineral’nyye Vody;-32.7
+Shāhjānpur;-74.9
+Ōra;-89.6
+Qorasuv;-28.4
+Quebec City;8.4
+Tsarahasina;59.3
+Strada;-18.8
+Lummen;-90.6
+Santa María Chiquimula;-95.7
+Bisaul;8.0
+Caen;-55.6
+Kelafo;9.8
+Patuakhāli;6.1
+Laredo;33.9
+Três Pontas;46.3
+Parimpūdi;-38.1
+Fu’an;-78.8
+Kocaeli;-74.7
+Moorestown;89.7
+Oppatavādi;-35.3
+Naxçıvan;-6.7
+Castenedolo;92.6
+Nahorkatiya;-93.3
+Šakiai;-9.7
+Miastko;-53.8
+Chākia;-74.9
+Al Qurayn;79.0
+Frouzins;31.2
+Fort Worth;70.8
+Leme;3.9
+Anjialava;-99.9
+Ettimadai;-95.8
+Kandukūr;-82.6
+Mauguio;74.2
+Pionerskiy;-97.8
+Were Īlu;87.4
+Tokatippa;54.1
+Ambohimanga;-4.8
+Mégara;-67.8
+Irati;-3.7
+Jedeïda;21.6
+Muli;-18.8
+Domodossola;63.2
+Burntwood;89.9
+Cutrofiano;33.5
+Peresecina;-65.9
+Tabocas do Brejo Velho;66.3
+Lakkireddipalle;-69.8
+Jima Abajo;-77.1
+Bobangui;7.1
+Saint-Avold;-52.4
+Lakhipur;-17.9
+Priverno;-16.3
+Huntersville;64.0
+Gusinje;43.3
+Shāhpur Chaumukhi;-28.2
+Bugasong;22.7
+Sartā;-55.4
+Auray;-53.4
+Coyaima;-20.3
+Chāndpur;-64.8
+Peabiru;26.9
+Sêrro;-3.0
+Sumpango;63.1
+Bijni;-87.9
+El Tambo;-41.3
+Chiari;78.3
+Naxçıvan;-4.0
+Pedregulho;75.8
+Nanning;-46.3
+Sovetskoe;69.5
+Sebastian;-48.6
+Tiruttangal;-1.1
+Douai;-26.0
+Scotts Valley;-40.9
+Horad Smalyavichy;7.0
+Umm Qaşr;-0.6
+Bree;-33.0
+Inza;-22.1
+Kodikkulam;36.3
+Sidi Jaber;54.2
+Manizales;78.6
+Şavşat;19.1
+Pakenham;74.9
+Hohoe;89.9
+Koidu;-68.1
+Pingliang;-30.7
+Capitán Bado;3.4
+Tobré;-97.7
+Chibia;-42.7
+Kujri;-2.4
+West Manchester;-15.3
+Mengibar;53.5
+Penalva;43.7
+Chipata;-91.3
+Yiyang;22.0
+Ijevan;-42.4
+Jambaló;-6.5
+Shoufeng;-42.3
+Kannapolis;-86.6
+Edwards;-26.2
+Pen-y-Bont ar Ogwr;-23.6
+Hekou;-94.3
+Schkeuditz;81.1
+Villa Celina;41.1
+Don Galo;-96.4
+Leso;-11.0
+Bessemer;-40.9
+Anah;-51.8
+Zacatecoluca;-65.3
+Belazao;99.2
+Ignalina;61.5
+Fara in Sabina;32.0
+Enköping;87.7
+Kimberley;-39.7
+Kūhbanān;-66.0
+Garden Acres;97.5
+Pintadas;1.9
+Berkovitsa;57.7
+Rechytsa;84.8
+Pinellas Park;-89.1
+Gadag;-74.3
+Santa Fe de Antioquia;19.8
+Yashan;40.5
+Deer Park;-95.1
+Valsequillo de Gran Canaria;94.2
+Sinsheim;-92.6
+Naqādah;-86.8
+Ingabu;38.3
+Namhkam;-45.2
+La Línea de la Concepción;5.5
+Mantes-la-Ville;7.6
+Amba Icharua;19.1
+Aflao;15.4
+Jiwachhpur;79.8
+Arnouville-lès-Gonesse;-96.6
+Lobos;25.8
+Īrānshahr;-50.9
+Shāhpur Chaumukhi;7.2
+Sīlaiyampatti;4.3
+Anniston;23.7
+Bochil;-93.7
+Mariupol;22.0
+Karmauli;-96.4
+El Viejo;76.9
+Pensilvania;-15.8
+Geldrop;-24.2
+Kajiado;33.4
+Taloda;-83.9
+Tanhaçu;80.1
+Umm al Qaywayn;-92.0
+Cabo Bojador;-66.8
+Plottier;-5.7
+Auriflama;-77.7
+Heumen;-15.4
+Neuhausen am Rheinfall;-60.4
+Funza;58.5
+Parapuã;-91.3
+Kosum Phisai;-37.9
+Imi n’Oulaoun;-87.6
+Starorybnoye;60.3
+Titao;42.3
+Kizlyar;95.3
+Whitley Bay;-65.5
+Přelouč;-93.9
+Oulad Khallouf;-0.7
+Ouyen;-4.4
+Plymouth;-90.2
+Caucete;-95.7
+Lubny;91.2
+Jāwalgeri;-41.4
+Miguelturra;-18.3
+Montalto di Castro;-71.4
+Sharbaqty;-53.2
+Boa Vista do Tupim;-43.8
+Kasukabe;-10.3
+Cuijk;-97.2
+Prizren;91.5
+Promissão;37.3
+Pyay;-67.2
+Santa María de Palautordera;63.6
+New London;-31.5
+Reykjavík;-78.8
+Bacup;1.6
+La Orotava;-76.3
+Rezé;71.4
+Redruth;-65.8
+San José Villanueva;19.2
+Shintō;-49.0
+Venado Tuerto;-21.0
+Vigonza;8.1
+Crewe;87.8
+Curridabat;97.7
+Pendekallu;-88.7
+Arpajon;-60.9
+Urucará;-78.7
+Kalinkavichy;87.2
+Sanski Most;63.6
+Čoka;-9.3
+Temperance;-17.2
+Lapinlahti;61.7
+La Reja;36.9
+Raydah;43.3
+Brüggen;6.6
+Ust’-Ordynskiy;-21.3
+Fuyuan;60.5
+Serra Dourada;19.5
+Arerāj;84.3
+Gabrovo;-70.6
+Daulatnagar;83.7
+Belén de Umbría;93.3
+Amarwāra;38.1
+Kelafo;-64.9
+Radford;-44.9
+Jora;-81.0
+Pliezhausen;85.4
+Arsenyev;-33.7
+Bulle;-30.5
+Lincang;76.1
+Osa;-41.2
+Beccles;85.3
+Sicasica;-19.1
+Erbach;37.1
+Quirinópolis;85.3
+Gölcük;10.7
+Baghlān;11.0
+Chorfa;-74.9
+Manakana;-8.9
+Remedios;-13.9
+Montenegro;1.7
+Čoka;20.3
+Beppu;-57.9
+Yicheng;85.8
+Assenede;34.1
+Miyazaki;-83.1
+Santa Catarina Pinula;50.9
+Ban Tha Pha;-82.3
+Minamisuita;-52.9
+Inza;13.1
+Salempur;34.1
+Akouda;-88.9
+Banigbé;-78.4
+Nariār;-10.0
+Ukiah;-14.3
+Samarkand;-52.4
+Numata;8.0
+Antanambao;32.2
+Cremlingen;-70.3
+Beharona;0.8
+Sidi Boushab;86.1
+Torrente;32.5
+Mbini;-39.7
+Banstead;73.2
+Oldham;69.9
+Māldah;-9.3
+Azle;63.9
+Kać;-45.2
+Berchem;41.7
+Villiers-le-Bel;9.8
+Police;-32.2
+Las Tablas;-68.8
+Montalto di Castro;-97.7
+Pushpattūr;67.9
+Ostroh;20.3
+Pradera;-55.9
+Linda;55.1
+Kenilworth;-97.1
+Seringueiras;21.0
+Pforzheim;73.1
+Porecatu;39.6
+Imito;-3.2
+Alcanena;95.2
+Kannamanāyakkanūr;83.7
+Beylikdüzü;59.6
+Montería;-69.5
+Chelsea;12.7
+Hawaiian Gardens;-15.4
+Tillaivilāgam;-18.0
+Canterbury;-59.4
+Ban Lueak;-31.2
+Forquilhinha;66.8
+Rishon LeẔiyyon;84.5
+Hazebrouck;-36.9
+Gadoon;-90.3
+Jinta;53.6
+Marly;-50.2
+Limay;-43.4
+Güimar;18.6
+Wencheng;-57.4
+Gaada;-41.6
+Padaivedu;11.4
+Befandriana Atsimo;-89.9
+Monett;49.6
+Sannai;48.2
+Mirzāpur;14.6
+Dubna;11.6
+Grayslake;97.9
+Redan;-22.3
+Edgewater;-89.0
+Lavínia;58.9
+Barkuhi;-38.4
+Mairena del Alcor;-47.9
+Andújar;-51.0
+Rehti;70.4
+Velikiy Ustyug;-59.7
+Yakymivka;-51.9
+Makó;-47.7
+El Ayote;37.8
+Sabbah;22.5
+Erechim;78.8
+Chèddra;-11.6
+Kalkar;-74.2
+Moose Jaw;95.9
+Bucksburn;-95.3
+Caripito;-27.1
+Pālghāt;35.7
+Copparo;82.4
+Myrtle Beach;-52.7
+Jedeïda;49.2
+Poldasht;93.2
+Le Puy-en-Velay;9.8
+Auchel;23.8
+Pasivedalajimma;87.6
+Niquinohomo;-59.8
+Guanare;40.2
+Montigny-en-Gohelle;7.4
+Kevelaer;-14.0
+Dire Dawa;-4.9
+Botuporã;-25.5
+Rosario de Lerma;85.1
+Diamou;-16.2
+Castrolibero;97.5
+Alcalde Díaz;-37.8
+Basoko;-76.5
+Bayt Lāhyā;13.0
+Sovicille;92.3
+Hattula;94.4
+Voerde;42.7
+Liaoyang;-71.9
+Gobindpur;-33.1
+Jitwārpur Nizāmat;60.6
+Ulchin;-28.1
+Bình Hòa;80.4
+Lathrop;-60.5
+Boscoreale;-17.3
+Tmassah;-16.5
+Porecatu;-10.5
+Jiménez;57.3
+Bouknadel;-62.5
+Micco;-2.4
+La Reja;17.0
+Dāchepalle;-56.6
+Açailandia;8.8
+Tsiroanomandidy;-53.8
+Bluefield;-11.3
+Alzey;-94.5
+Caripito;41.5
+Mirbāţ;-88.0
+Mae O;-66.6
+Montegranaro;-13.9
+Afonso Cláudio;-52.7
+Qazax;52.5
+Tinley Park;-26.1
+Kurort Steinbach-Hallenberg;-68.5
+Montpellier;12.6
+Ban Tha Pha;-4.3
+Uttamapālaiyam;-99.7
+Blagoevgrad;-87.4
+Wadhraf;-9.8
+Telaprolu;-40.9
+Hérouville-Saint-Clair;-90.6
+Pistoia;-47.3
+Frattaminore;57.5
+Shāhedshahr;52.0
+Dambai;28.9
+Worcester Park;-16.2
+Douar Lamrabih;2.2
+Coyaima;97.9
+Poniatowa;-43.3
+São Pedro da Aldeia;72.5
+Great Yarmouth;5.8
+Bemarivo;2.9
+Antsoha;29.9
+Worksop;-92.5
+Merseburg;-73.1
+Milovice;-10.8
+Narita;-94.1
+Andújar;10.7
+Isparta;41.7
+Naini Tal;-10.1
+Ipueiras;91.8
+Seixal;-98.9
+Marosangy;34.1
+Panamarattuppatti;-56.0
+Thérmi;97.2
+South Hadley;70.9
+Bariyārpur;46.2
+Bisaria;1.8
+Rādhanpur;-10.8
+Dol;-29.5
+Nobeoka;38.4
+Kirkel;-72.6
+Pouso Redondo;-74.6
+Kela Khera;-42.5
+Guruvāyūr;-25.6
+Cukai;56.0
+Mtwara;-47.3
+Sanjiaocheng;45.4
+Cambita Garabitos;-65.4
+Yakymivka;39.4
+Fasā;-42.6
+Huozhou;-44.1
+Kryvyi Rih;91.8
+Zinjibār;39.0
+Liman;-16.5
+San Giovanni in Persiceto;-56.5
+Zhailuo;14.7
+Ambararata;62.8
+Pendekallu;26.2
+Altamira do Maranhão;-57.0
+Bhāndāria;83.6
+Sagua la Grande;81.5
+Toulal;-36.7
+Chākdaha;99.7
+Bressanone;17.5
+Diedorf;7.4
+Ganapavaram;-29.5
+Diyadin;59.5
+Frei Inocêncio;65.2
+Hershey;-71.4
+Great Yarmouth;-96.3
+Karumāndi Chellipālaiyam;70.5
+Sacaba;-63.8
+Jefferson Valley-Yorktown;-9.4
+Nentón;-48.6
+Martinsicuro;30.0
+Petrila;19.8
+Huanghuajing;46.7
+Razkrižje;-72.2
+Foum Zguid;74.2
+Chkalovsk;72.4
+Prudhoe;98.6
+Bi’r al ‘Abd;59.7
+Douar Hammadi;-52.3
+Höhenkirchen-Siegertsbrunn;48.3
+Çorum;-56.2
+Imito;77.3
+Podalakūr;-71.3
+Tsiately;58.3
+Gaithersburg;99.1
+Amboanjo;-10.6
+Harrodsburg;-69.1
+Karumāndi Chellipālaiyam;-54.1
+Medellín;-29.4
+Arsenyev;60.0
+Narsimlāpet;-3.4
+Şabrātah;-55.7
+Carleton Place;-76.3
+Port Hope;86.3
+Karuppūr;-49.6
+Tanakkangulam;70.7
+Maracaibo;72.1
+Garrucha;23.4
+Zigong;-42.9
+Rongcheng;0.6
+Laghzawna;-72.4
+Vawkavysk;86.3
+Marysville;-61.8
+Taquari;-28.5
+Eastpointe;-2.5
+Āmta;-48.0
+Kakuma;66.0
+Farob;-98.3
+Kāmavarapukota;-25.3
+Haikoucun;-12.0
+Kambūr;-23.7
+Mennzel Bou Zelfa;66.0
+Ridgefield Park;-98.6
+Sabana de La Mar;37.8
+Tukuyu;48.4
+Chicomba;39.2
+Loria;-12.8
+Devendranagar;-80.0
+Eshtehārd;-31.2
+Plottier;87.8
+Ban Bung Kha;82.0
+Ammon;-95.3
+Koceljeva;18.1
+Rush;-7.3
+River Edge;-7.7
+Baotou;92.8
+Anuppampattu;-2.0
+Woonsocket;94.8
+Ijevan;-34.6
+Hanımçiftliği;19.3
+Podlehnik;-74.0
+Breuillet;-40.3
+Matanog;38.0
+Swieqi;-80.4
+Merzifon;-89.4
+Uusikaupunki;-5.5
+Lufkin;-11.3
+Machakos;45.4
+Barton upon Irwell;-77.4
+Añisoc;92.5
+Monterotondo;-76.1
+Penalva;54.3
+Difficult Run;-28.2
+South Hadley;24.5
+Chinna Mupparam;57.9
+Kon Tum;-34.8
+Sāho;8.7
+Quanzhang;-9.8
+Bignay;72.3
+Pamiers;50.4
+Bel-Air;34.5
+Ust’-Kamchatsk;-91.2
+Tsiroanomandidy;-38.2
+Limay;-22.9
+‘Ayn al ‘Arab;-25.4
+Rio de Contas;-34.7
+Villa Hayes;29.1
+Podalakūr;-8.9
+Tlalpujahua de Rayón;22.4
+Amatán;-77.6
+Bāgalkot;-24.8
+Kujri;-75.3
+Dodola;-12.3
+Qarabulaq;-64.4
+Gelemso;47.5
+Shimomura;26.8
+Companiganj;-94.4
+Pearl River;64.7
+Coyaima;88.0
+Great Driffield;14.9
+Vohitrindry;90.8
+Kamensk-Shakhtinskiy;15.0
+Kudachi;22.0
+Cremlingen;-75.3
+Şūfīān;93.9
+Giardini;69.0
+Nnewi;95.6
+Umm Qaşr;-25.9
+An Nhơn;49.7
+San Pédro Jocopilas;-92.8
+Gogogogo;-19.9
+Arboletes;89.6
+Beylikdüzü;-67.6
+Chiradzulu;-31.4
+Port Blair;-50.4
+Newark;-95.4
+Ebelo;-77.6
+Bound Brook;21.4
+Kalinkavichy;42.0
+Ampanety;-17.2
+Emmaus;58.9
+Jiaojiazhuang;23.8
+Zhongliao;-37.3
+Cecina;-90.3
+Bonoufla;89.6
+Thornbury;9.9
+Uchoa;-61.9
+Avsallar;-65.9
+Padmanābhapuram;-10.3
+Enurmino;-13.3
+Manatuto;-11.4
+Abhā;-19.7
+San Andrés de Sotavento;97.0
+Cockeysville;26.5
+Khutauna;10.7
+Bloomington;-70.8
+Tanglin;31.5
+El Paso de Robles;-95.6
+Fukuyoshi;-35.0
+Beltsville;92.1
+Hidrolândia;1.1
+Kalkar;-32.2
+Westmount;-57.2
+Heidenau;-43.9
+Nueva Ocotepeque;36.3
+Ozamiz City;38.7
+Monterotondo;-59.1
+Khānda;-95.8
+Kashgar;98.6
+San Antonio Huista;-1.8
+Suzuka;-68.0
+Ban Bo Haeo;-79.7
+Dnipro;-44.4
+Razkrižje;-29.0
+Rustampur;-60.5
+Araçuaí;-90.3
+Villars-sur-Glâne;-52.1
+Gualdo Tadino;-86.8
+Gualcince;-13.0
+Barra do Corda;58.6
+Pointe-à-Pitre;-48.3
+Shildon;36.3
+Venlo;-81.8
+Pirapetinga;-80.3
+Cantanhede;78.3
+Panjāb;-59.9
+Connersville;40.4
+Saratoga Springs;-25.4
+Petrovka;45.3
+McFarland;13.9
+Menemen;-82.8
+Montville;-80.3
+Ianapera;-93.8
+Piatykhatky;-55.6
+Villars-sur-Glâne;98.4
+Sironj;57.6
+Bryan;-92.9
+Vembārpatti;-93.1
+Tarko-Sale;43.0
+Borgerhout;-68.3
+Dulce Nombre de María;65.5
+Rava-Rus’ka;15.2
+Kafr Rūmā;-29.8
+Kalkar;-43.8
+Ampahimanga;16.2
+Pudozh;-84.4
+Baena;-0.5
+Pondūru;13.2
+Te Anau;60.6
+Balungao;-97.0
+Pietà;38.8
+Mississauga;-50.4
+Lloró;-61.1
+Tshilenge;29.5
+Sīlaiyampatti;-3.3
+Piripiri;41.0
+Narbonne;-13.9
+Carrollwood;51.7
+Chenalhó;90.2
+Mudki;-40.0
+Ambondrona;95.3
+Palmito;-94.1
+Jessore;-40.2
+Noda;43.1
+Telica;-99.4
+Xianxi;-35.6
+Kandanāti;-42.6
+Loboc;-38.5
+Hüllhorst;58.3
+Bar;41.6
+Neustadt bei Coburg;-8.9
+Pyatigorsk;14.6
+Sabana Iglesia;-92.1
+Tuburan;-97.8
+Kurshab;-20.8
+Iapu;73.8
+Te Anau;5.7
+Ban Chomphu Nuea;-52.0
+La Porte;35.2
+Zhongzhai;-7.2
+Fredrikstad;-32.8
+Diavatá;-4.0
+Pokrovka;-16.6
+Thonotosassa;4.9
+Shāhbāzpur;-29.1
+Cimarron Hills;-50.1
+Klerksdorp;-6.9
+Cambuslang;61.9
+Puerto Caimito;-98.0
+Monteprandone;73.4
+Merrill;6.6
+Vakhsh;-85.2
+Barton upon Irwell;-59.5
+Coldwater;-27.0
+Androy;45.2
+Park Hills;-62.9
+Osternienburg;5.3
+Eersel;-51.5
+Canaman;-6.5
+Oud-Beijerland;-88.3
+Dashtigulho;-37.2
+Iretama;-77.8
+Dagua;-97.6
+Luanda;-82.3
+Ploieşti;46.3
+‘Alīābād-e Katūl;2.1
+Tuensang;78.8
+Huozhou;-76.9
+Český Krumlov;21.1
+Zavrč;85.9
+San Prisco;-75.1
+Aveley;41.0
+Přelouč;79.1
+Pittsburg;10.5
+Gurmaila;-20.9
+Warren;47.0
+Jettihalli;-83.0
+Oued Amlil;80.3
+Tivaouane;63.2
+Ilmenau;2.2
+Kitakōriyamachō;-22.8
+New Hartford;-78.7
+Barnaul;-86.5
+Mirbāţ;88.4
+Pizarro;87.5
+Byron Bay;51.6
+Butha-Buthe;90.2
+Tiruvāduturai;-59.4
+Cuya;-73.5
+Manicaragua;-99.5
+Bahharet Oulad Ayyad;37.2
+Villa de Zaachila;-58.3
+Brockton;-74.8
+Douz;69.9
+Brahmānandapuram;59.7
+Hazel Dell;-52.2
+Labasa;-82.1
+Sardulgarh;-11.7
+Aš;58.2
+Wellington North;-97.6
+Jilib;5.5
+Karayılan;-92.4
+Cherniakhiv;15.1
+Gidan Idèr;97.3
+Sonqor;67.3
+Mariscal José Félix Estigarribia;92.6
+Bitonto;94.3
+Reggello;-17.9
+Fairmount;63.5
+Baraúna;-86.6
+Zhongshu;48.3
+Kamianets-Podilskyi;-80.9
+Yoshioka;-20.5
+Erechim;-17.9
+Lake Arbor;-51.3
+Jādopur Shukul;-65.6
+Anjanazana;29.5
+Castanet-Tolosan;49.1
+San José del Cabo;-59.7
+Ramona;36.1
+Guying;36.6
+Mahāgama;57.9
+Caldera;2.7
+Andriivka;-38.0
+Motomiya;86.9
+Nanto;34.7
+Southbridge;-27.8
+Ŭrtaowul;81.8
+Cabral;28.2
+Leixlip;85.5
+Coldwater;3.4
+Kaniv;4.0
+Ambararata;56.2
+Bressanone;59.2
+Khmelnytskyi;-54.2
+Warud;-31.2
+Dupax del Sur;-35.8
+Manvel;-1.8
+Neftekumsk;2.0
+Moers;14.6
+Monteprandone;-25.1
+Šakiai;-30.3
+Marsala;12.7
+Pequannock;22.0
+Qingyang;78.1
+Bucay;16.7
+Rapu-Rapu;86.4
+Mexicali;24.2
+Ouadhia;-0.4
+Des Plaines;-97.1
+Le Pont-de-Claix;-15.5
+Ocuilan de Arteaga;45.3
+Baalbek;5.7
+Neiafu;1.4
+Yankou;-76.9
+Westwood;-8.8
+Reykjavík;7.9
+Huldenberg;42.1
+Monte Sião;-97.5
+Umred;-13.3
+Kampli;-46.6
+Golungo Alto;-53.0
+Carlton Colville;-47.3
+Terra de Areia;-15.6
+Suffield;6.9
+West Haven;-67.1
+Ulft;-55.5
+Tobré;-3.3
+Jacaraci;-88.2
+Lidzbark Warmiński;29.0
+Asakura;-11.1
+Eumseong;25.7
+Haaksbergen;30.1
+Tikhoretsk;-25.6
+‘Adrā;-23.1
+Shimomura;-0.4
+Groß-Umstadt;-70.1
+Ambatoria;-39.4
+Erongarícuaro;-51.2
+Belén de Umbría;45.2
+Hazel Dell;15.7
+Daheba;91.3
+Pavullo nel Frignano;86.0
+Doñihue;28.4
+Dambai;-44.7
+Kabul;-70.9
+Ribeirão;-83.7
+Khunti Dhanaili;91.4
+Texcoco;-80.4
+San Juan Atitán;-74.8
+Diinsoor;-97.6
+Yakumo;12.1
+Kaunra;42.5
+Cambuslang;-51.7
+Caen;44.9
+Gawler;-19.3
+Porta Westfalica;-50.6
+Thiruvananthapuram;-67.1
+Cachoeira;0.4
+Guaramirim;-25.1
+Mahwah;-16.7
+Ibotirama;-15.4
+Khambhāt;39.0
+Ponnamarāvati;33.0
+Zumaia;75.9
+Marsala;9.0
+Grand Junction;-44.7
+Culion;-84.0
+Ciudad del Plata;9.3
+Stains;-12.9
+Tiaret;40.9
+Santa Cruz Balanyá;8.5
+Pedappai;43.4
+Belém de Maria;75.3
+Barranquilla;45.2
+Zigong;-68.4
+Villeneuve-lès-Maguelone;-48.6
+Reshuijie;-65.2
+Great Driffield;63.3
+Khirhar;-14.3
+Hacienda Heights;-13.6
+Pouso Redondo;73.4
+Mehsāri;24.7
+Police;2.2
+Marijampolė;97.6
+Sherpur;96.4
+Quảng Yên;81.4
+Had Dra;60.0
+Dabutou;23.4
+Nsukka;4.9
+Āvadi;-91.6
+Roseller Lim;88.5
+La Independencia;8.3
+Tiana;-49.0
+Busembatia;-13.4
+Korahia;7.2
+Shinozaki;-86.9
+Jangamguda;41.6
+Whitestown;-62.9
+Paterna;27.7
+Qishe;-66.6
+Ngong;45.7
+Vaasa;19.3
+Trent Hills;94.0
+Villerupt;14.1
+Ros Comáin;-6.5
+Vinanivao;-86.2
+Ghogardīha;-2.3
+Ettimadai;-0.3
+Friedrichshafen;85.3
+Hosakote;25.4
+Nārāyanpur;9.4
+Tamana;66.3
+Auxerre;57.0
+Estevan;10.5
+Pasvalys;26.2
+West Lafayette;-35.9
+Verkhniy Ufaley;-37.0
+Libertad;23.0
+Kırıkkale;-96.3
+Garoua Boulaï;-44.5
+Arcahaie;58.1
+Velūr;-15.4
+Caruaru;-11.9
+Gavirate;36.8
+Castries;8.0
+Ozamiz City;-84.2
+Jersey City;79.8
+Huehuetla;29.4
+Saint-Vith;-20.4
+Vejle;26.3
+San Rafael Petzal;45.8
+Ventspils;-94.0
+Sūknah;-87.5
+Las Lomitas;-20.9
+Calheta;-49.4
+Empoli;56.9
+Ermoúpoli;51.1
+Tobruk;69.4
+Curanilahue;80.1
+Castenedolo;-83.5
+Manglūr;71.0
+Kannamanāyakkanūr;36.3
+Zunheboto;-77.9
+L’Assomption;74.5
+Lālejīn;79.9
+Douar Imoukkane;88.2
+Chintalavādi;78.4
+Lakkampatti;-62.7
+Zacatecoluca;-40.0
+Caspe;-56.5
+Sicklerville;-16.1
+Belaya Glina;50.8
+State College;-44.8
+Lumberton;-72.4
+Elbeuf;-64.0
+Oulunsalo;-61.5
+Krapkowice;8.6
+Huanghuajing;44.6
+Tazarka;48.3
+Celje;-94.1
+Jönköping;-18.7
+São Luís Gonzaga do Maranhão;-68.6
+Ablu;-17.1
+Mbabane;-60.5
+Yarīm;-91.6
+Metro;21.8
+Coreaú;-20.9
+Eppelheim;-29.0
+Sainthia;43.8
+Perez;-45.7
+Paz de Ariporo;35.5
+Monte Belo;73.1
+Ad Darwa;37.6
+Höshööt;-67.2
+Cam Ranh;77.0
+Prachin Buri;74.6
+Zigong;22.2
+Alfredo Chaves;99.2
+Kimje;30.1
+Sokal;-7.8
+Balboa Heights;53.7
+Râmnicu Vâlcea;-34.5
+Narragansett;-52.6
+Cacimbinhas;-14.8
+Isny im Allgäu;-10.3
+Nový Bor;-94.9
+To‘raqo‘rg‘on;-66.0
+Raffadali;1.4
+Ban Wat Chan;43.5
+Rakovník;-13.3
+Škofja Loka;64.3
+Nanjō;90.2
+Maski;-83.5
+Pawāyan;-7.8
+Boucan Carré;-83.0
+Hannover;-88.6
+Zafarwal;-65.4
+Torbat-e Ḩeydarīyeh;38.7
+Samborondón;-91.2
+Allendale;73.4
+Sabana Grande;-78.5
+Chubbuck;-18.0
+Lhuentse;34.4
+Lupao;78.5
+Barnāla;-1.3
+Genk;-79.3
+Ljubljana;-36.1
+Unquillo;99.2
+Mqam at Tolba;9.4
+Locate di Triulzi;-19.2
+Kleppe;16.1
+Longreach;-25.2
+Harderwijk;-10.3
+Abū Qīr;-31.7
+Arlington;31.2
+Echt;-84.6
+Granollers;12.6
+Wavre;87.2
+Imizuchō;-33.0
+Oued Amlil;71.0
+Khundāwandpur;-78.9
+Sompeta;-25.7
+Phagwāra;59.1
+Diemen;-35.0
+Barquisimeto;-74.2
+Eyl;50.6
+Muscle Shoals;-56.6
+Palombara Sabina;-67.5
+Ruhengeri;-23.9
+Prachin Buri;-9.5
+Bad Münder am Deister;76.4
+Zhuolan;-63.5
+Avelgem;-8.7
+Mariscal José Félix Estigarribia;-12.4
+Sulejówek;15.6
+Wilkau-Haßlau;-42.4
+Araguaína;58.3
+Al Hāmah;-56.1
+Vero Beach South;37.3
+Majalengka;81.8
+Stony Point;95.4
+Kuzuculu;-42.1
+Muskegon;-99.1
+Nāgāwaram;-62.1
+Sedriano;-7.4
+Birigui;-65.8
+Nokha;47.4
+Grimstad;88.1
+Thorne;-31.3
+Saint-Ouen;32.1
+Cửa Lô;-44.7
+Vodiriana;55.6
+Gonghe;8.9
+Hulyaypole;68.0
+Cabanatuan City;36.3
+Port Orange;92.4
+Albury;-66.9
+Selydove;93.1
+Krasnokumskoye;-94.5
+So-Awa;85.6
+Sarafand;8.0
+Orbassano;-70.5
+Los Baños;-1.9
+Csongrád;3.0
+Rupahi;91.6
+Faetano;-83.5
+Nepālgañj;-75.4
+Drahichyn;-58.7
+Fermo;-36.6
+Park Forest;-44.4
+Täby;91.5
+Basavakalyān;-19.9
+White Horse;12.2
+Melena del Sur;36.2
+Haidarnagar;-76.2
+Premiá de Mar;84.4
+Tirumalaiyampālaiyam;74.3
+Birnin Kebbi;2.6
+Doesburg;28.7
+Paraguarí;-97.2
+Pua;19.4
+Telford;98.1
+Amuria;-81.7
+Lukovica;-85.0
+Kaniama;-48.8
+Simmerath;63.0
+Nova Viçosa;-99.3
+Baturité;4.7
+Nīkshahr;-1.3
+Tashkent;65.7
+Mocuba;89.4
+Fuying;21.8
+Tongyangdao;-69.6
+Pacatuba;9.1
+Putian;54.4
+Guantingzhan;-73.7
+Treuchtlingen;-47.5
+Menkerya;-84.0
+Wiang Sa;-57.5
+Mqam at Tolba;-14.4
+Astley;84.1
+Youwangjie;-56.5
+Jessore;17.2
+Maidstone;13.5
+Gulām;-8.2
+‘Alīābād-e Katūl;-50.9
+Craponne;-98.0
+Bāgalkot;-23.3
+Puerto Real;-64.8
+Annoeullin;60.7
+Marovandrika;-39.2
+Dunleary;-2.9
+Fenglu;-41.7
+Bardejov;-89.1
+Kilmarnock;13.9
+Livno;18.4
+Sharon;7.9
+Kleinblittersdorf;-23.3
+Los Llanos de Aridane;-23.3
+Bhaktapur;92.7
+Kastsyukovichy;-25.4
+Belén;-79.7
+Santa Úrsula;-68.8
+Miraíma;-32.8
+Monte Sião;59.1
+Lowes Island;8.5
+Grand Junction;-72.7
+Lake Hopatcong;25.5
+Mirzāpur;55.7
+Brookfield;12.0
+Mohács;7.4
+Elko;86.5
+Langwedel;26.8
+Monastir;43.7
+Arenys de Mar;-80.7
+Boumia;-65.1
+Anse à Galets;26.1
+Cusco;-2.9
+La Madeleine;-28.6
+Tiruvādi;-63.6
+Lagoa da Confusão;-72.8
+Cheadle;-52.9
+Jessore;67.1
+Colts Neck;87.7
+Capitán Mauricio José Troche;-17.6
+Matsudo;72.0
+Bakhtiyārpur;-59.1
+Podlehnik;43.6
+Tīrthahalli;-5.8
+Metpalli;-75.8
+Schleiz;75.2
+University of California-Davis;-1.4
+Unquillo;74.5
+Highlands Ranch;-36.5
+Oberhausen-Rheinhausen;-98.2
+Battambang;-67.0
+Goio-Erê;52.5
+Jaguaruna;6.2
+Alfredo Chaves;-49.1
+Zonhoven;-97.1
+Mastic;70.5
+Cárdenas;67.4
+Kazarman;-58.9
+Swakopmund;86.5
+Sherkot;-15.7
+Jaboticatubas;-27.0
+Kozmodemyansk;45.6
+Vilāchcheri;81.3
+San Juan Cotzal;35.4
+Las Tablas;47.5
+Pedro Carbo;0.9
+Cuango;-57.3
+Mwingi;89.2
+Monte di Procida;51.3
+Franklin;33.6
+Eqbālīyeh;-43.4
+Veldurti;-68.6
+Citlaltépec;-68.5
+Sabang;16.8
+Los Altos;-19.1
+Soma;-29.8
+Rehti;-39.9
+Barueri;-36.1
+Ban Nong Kula;-22.9
+Nāngal Township;69.5
+Caba;63.5
+Clive;-76.3
+Bandio;-99.0
+Dunaharaszti;-42.3
+Buluko;27.5
+Curvelo;-89.3
+Ocotlán de Morelos;94.8
+Turkaguda;15.6
+Narsimlāpet;-65.6
+San Antonio Huista;70.1
+Medinīpur;51.1
+Bitlis;-38.4
+Newberg;-26.9
+Baden-Baden;81.3
+Oststeinbek;-86.3
+Walcourt;53.5
+Murājpur;47.1
+Fyzabad;-15.8
+Tepechitlán;-25.6
+Sédhiou;-45.1
+Bryne;-91.8
+Náfplio;-70.9
+Oneida;16.1
+Bhārella;-65.1
+Sumpango;-53.1
+Nerviano;12.0
+Ōra;-27.4
+Douala;69.9
+Devakottai;36.5
+Volterra;60.0
+Francavilla Fontana;77.2
+Roeselare;-18.9
+Ruhengeri;97.4
+Deysbrook;-13.2
+Parapuã;-60.8
+Waalre;-9.0
+Timmendorfer Strand;27.2
+Torit;-41.6
+Mégara;-97.5
+Methil;68.6
+Rehti;26.6
+Mantes-la-Ville;30.2
+Bagnols-sur-Cèze;39.7
+Alto Paraná;59.9
+Sliema;-33.4
+Tyukalinsk;33.7
+Uusikaupunki;4.8
+Maple Shade;-12.8
+Osa;32.9
+Blooming Grove;7.2
+Mulakaledu;-79.7
+Kurort Steinbach-Hallenberg;98.1
+Talitay;30.9
+Muurame;74.5
+Campogalliano;-5.8
+Palmeiras de Goiás;60.9
+Bhilai;11.3
+Alvorada do Sul;89.6
+Naduvattam;-48.7
+Savage;64.1
+Andovoranto;34.2
+Nijgaon Parānpur;76.8
+Wustermark;44.4
+Dzhankoi;-56.7
+Bajala;-51.4
+Myitkyina;16.2
+Deogarh;14.2
+Myitkyina;-26.8
+Zemio;78.2
+Kārwār;-66.6
+Balkh;86.0
+Songcaozhen;-99.7
+Făgăraş;2.0
+Sāligrāma;-92.4
+Natividade do Carangola;81.0
+Derecik;-40.4
+Ianapera;-21.5
+Deogarh;-11.5
+Nallikodūr;-23.4
+Harnes;95.1
+Tikhoretsk;-35.6
+Sakon Nakhon;16.3
+Bormujos;99.6
+Tupã;98.4
+Gorantla;-76.2
+General Enrique Mosconi;41.4
+Táriba;95.7
+Sardinal;57.6
+Wencheng;79.4
+Okha;-95.6
+Evington;84.4
+Markacho;68.7
+Erdőkertes;-60.6
+Irvine;-50.0
+Farob;-94.8
+Anse à Galets;-28.2
+Siem Reap;-46.6
+Sétif;53.8
+Sande;30.6
+Corona;-66.9
+Los Hidalgos;34.0
+Tongyangdao;19.7
+Arbeláez;43.4
+Sumbha;18.1
+Playa Vicente;2.1
+Arzachena;-37.1
+Aïn Temouchent;71.9
+Pećinci;-56.9
+Daulatnagar;83.9
+Itororó;57.9
+Sidi Allal Tazi;-46.3
+Deogarh;76.0
+Plymouth;-98.3
+Pacatuba;-60.2
+Hochheim am Main;35.5
+Šabac;97.6
+Robertsville;-19.9
+Ekenäs;25.9
+Palo Alto;53.2
+Raisio;96.0
+Arese;18.0
+Managua;-86.2
+Măgurele;-60.4
+Karema;80.7
+Coreaú;-40.4
+Cuautitlán;77.8
+Andilamena;16.4
+Pailin;-69.2
+Lynbrook;6.2
+Tabuleiro do Norte;0.5
+Bububu;-50.8
+Baliuag;63.3
+Wągrowiec;59.4
+Hannō;-40.0
+Sinanpaşa;-99.4
+Ağstafa;-23.3
+Ocho Rios;53.9
+Sun City Center;-59.3
+Uppinangadi;-31.4
+Resen;14.1
+Waltershausen;-58.4
+Orangevale;85.0
+Tissaf;-4.1
+Tāmganj;-60.6
+Androy;52.5
+Panfilovka;-59.5
+Peñaflor;-92.1
+La Roche-sur-Foron;-54.7
+Sherobod;-95.8
+Cypress Gardens;16.2
+Sankt Pölten;3.9
+Rāikal;34.0
+Lake City;53.2
+New London;-91.5
+Kożuchów;22.8
+Hedongcun;61.8
+Chiryū;22.8
+May Pen;89.1
+Okene;-78.1
+Uryupinsk;42.4
+Māmidālapādu;40.7
+Kevelaer;40.1
+Potukonda;-3.7
+Rijkevorsel;-29.6
+Xalqobod;30.0
+Ban Mueang Nga;23.6
+Kameoka;-26.2
+Fellbach;-42.9
+Tanhaçu;64.7
+Bad Sassendorf;-47.0
+Levski;-32.8
+Ilmajoki;85.9
+Pidugurālla;-59.4
+Rongcheng;-7.7
+Xishancun;88.6
+Mvurwi;-59.6
+Samboan;-91.7
+Sarmīn;-63.4
+Leutkirch im Allgäu;67.6
+Aguazul;-31.3
+Barnaul;-10.0
+Souk Tlet El Gharb;-53.9
+Deptford;-45.4
+Chengxiang;37.2
+Kākarāti;-26.3
+Ban Nong Hoi;6.8
+Ventspils;-98.6
+Āb Pakhsh;0.4
+Leava;6.0
+Petlād;-84.7
+Daanbantayan;-82.3
+Gaurihar Khāliqnagar;27.0
+Pasaquina;-53.5
+Gulām;11.1
+Discovery Bay;-58.2
+Boulsa;-24.8
+Salaverry;62.8
+Sharm ash Shaykh;-79.5
+Başmakçı;-97.2
+James Island;-33.5
+Cárdenas;-70.5
+Barugo;72.0
+Tirschenreuth;75.6
+Bom Retiro do Sul;33.0
+Golub-Dobrzyń;96.6
+Gemona del Friuli;88.6
+Plandište;60.2
+Aranđelovac;81.2
+Annavāsal;4.6
+Laja;71.6
+Tepechitlán;14.4
+Matulji;94.5
+West Plains;71.6
+Yacopí;-98.8
+Baotou;-3.5
+Saint-Jean-de-la-Ruelle;-29.3
+Tiana;82.8
+Akron;-76.6
+Orimattila;8.7
+Zwolle;-63.7
+Tenāli;-55.5
+Harinākunda;-58.6
+Hazle;3.7
+Živinice;-91.0
+Pālkot;-26.6
+Nepi;-65.6
+Heckmondwike;19.0
+Isua;87.5
+Bugho;31.4
+Mbanza Kongo;92.1
+Quispamsis;98.8
+Diedorf;52.3
+Nueva Paz;-43.8
+Strzelce Opolskie;-22.1
+Aci Catena;87.9
+Mahates;84.3
+Jacundá;22.6
+Des Plaines;80.2
+Vakfıkebir;96.1
+Faratsiho;-96.0
+Shuozhou;13.4
+Waltrop;-96.8
+Yaojia;8.4
+Las Tablas;-15.5
+Usiacurí;58.1
+Sāmba;-23.3
+Vegachí;69.0
+Jerez de García Salinas;4.3
+Iława;-44.3
+Zvenyhorodka;71.0
+Šabac;-6.3
+Wilkau-Haßlau;-44.0
+Huanghuajing;-42.3
+Isla Ratón;-16.0
+Lichtervelde;10.8
+Rio Maria;40.7
+Naklo;-49.3
+Lansdowne;82.3
+Tsarasaotra;50.7
+Copiapó;-23.4
+Fukuoka;-1.7
+Cerklje na Gorenjskem;78.3
+Urucará;17.4
+Fraga;-69.7
+Zumpango;37.3
+Manucan;45.1
+Dibaya;-45.8
+Kāshmar;42.4
+Khujner;-37.0
+Plottier;-9.2
+Tillaivilāgam;-14.1
+General Pacheco;-28.0
+Fortaleza;1.6
+Dreux;-47.8
+Kondalāmpatti;-27.4
+Acajutla;52.9
+Nawalpur;70.2
+Datian;66.4
+Quartz Hill;-32.4
+Vijayapuri;-83.9
+Sítio do Quinto;46.8
+Peddapalle;29.7
+Diamou;-18.2
+Patancheruvu;-32.6
+Kusumha;98.8
+Halfeti;-83.5
+Banigbé;-39.6
+Jacala;-94.4
+Kostanjevica na Krki;-7.7
+Naklo;-83.2
+Rustampur;11.0
+Tashir;-3.7
+Santiago Papasquiaro;-6.9
+El Tortuguero;19.5
+Maple Valley;47.5
+Meltham;-57.3
+Rancho Santa Margarita;-63.3
+Cáqueza;4.8
+Kārkala;-38.2
+Kuwait City;-44.4
+James Island;-3.3
+Bucksburn;-33.2
+Azemmour;-33.7
+La Trinité;9.5
+Jesup;-40.8
+Arta;91.0
+Püspökladány;91.8
+Ituni;48.6
+Cerca la Source;-19.3
+Bisaria;-2.7
+Dzitbalché;-68.4
+Stony Brook University;-53.3
+Espinho;59.4
+Twickenham;-79.6
+Samborondón;-70.9
+Tallahassee;-96.0
+Guruvāyūr;-79.9
+Ridderkerk;-73.3
+Las Piñas City;91.9
+Clonmel;23.0
+Basilisa;-83.5
+Cabo Bojador;92.5
+Caraballeda;-47.3
+Sompeta;18.2
+Carrollwood;-61.6
+Lidzbark;85.0
+Coín;10.9
+Jinka;97.2
+North Decatur;84.6
+Ajaigarh;68.0
+Thung Sai;-33.6
+Ettaiyāpuram;34.0
+Al Badārī;54.9
+Arpajon;18.6
+Rumuruti;-89.9
+Calella;2.7
+Zorneding;-21.3
+Khat Azakane;0.5
+Laghzawna;-41.9
+Latakia;33.7
+Narsīpatnam;-1.0
+Kalabahi;-33.6
+Jabālyā;-64.8
+Sathiāla;69.1
+Araucária;22.4
+Daru;3.8
+Pulpí;77.6
+Pedda Nindrakolanu;95.3
+La Jagua de Ibirico;15.2
+Kāmalāpuram;-60.8
+Borgosatollo;81.3
+Talwāra;-38.8
+Morauna;94.4
+Beni Oulid;51.4
+La Estrella;-2.2
+Sergiyev Posad;-72.5
+Itō;-64.5
+Macas;-10.6
+Cetraro;-21.2
+Nanjian;35.6
+Tandag;15.2
+Reggio Emilia;7.6
+Korosten;31.7
+Pöytyä;75.4
+Jicheon;-2.0
+Namur;-23.4
+Kerap;-37.9
+Guiuan;-43.3
+Mingjian;84.1
+Aweil;-25.1
+Bender;26.9
+Aragarças;41.2
+Sorocaba;78.9
+Analamisampy;59.2
+Greasley;-53.6
+Càbras;75.4
+Las Piñas City;-79.6
+Mariakerke;-52.2
+Mahābād;-52.4
+Weiz;0.2
+L’Isle-d’Abeau;31.4
+Atalaia do Norte;5.2
+Ganthier;82.7
+Turvo;-40.4
+Suchanino;-62.2
+Cachoeira;-18.3
+Vlorë;77.7
+Formosa;97.7
+Missouri City;39.4
+Vinci;74.8
+Kautālam;-24.1
+Chilanga;-78.3
+Bisaria;7.3
+Mandi Bahauddin;31.1
+Manta;-59.8
+Los Hidalgos;0.7
+Yingzhou Linchang;-20.4
+Doña Remedios Trinidad;-35.3
+San Pedro Garza García;-24.5
+Airmadidi;67.4
+Almazora;78.7
+Talugtug;31.5
+Alzano Lombardo;86.9
+Mukdahan;-26.8
+Bourèm Guindou;-80.5
+Sabirabad;-72.6
+Beecher;-45.3
+Kaithal;-12.8
+Serravalle Pistoiese;-90.1
+Nazrēt;-20.5
+Villa Riva;22.2
+Shahritus;0.9
+Ilkley;11.5
+Hannō;19.2
+Zaouïa Aït Ishak;90.2
+Udaipur Bithwār;73.4
+Crixás;-75.7
+Megion;82.3
+San Juan de Dios;9.1
+Durbuy;56.6
+Pentecoste;59.6
+Shibuya;48.7
+Aguilar;14.2
+Grecia;-84.7
+Matsudo;32.8
+Ballston;8.0
+Steffisburg;-88.5
+Lake City;98.1
+Tam Kỳ;-1.7
+Selden;16.6
+Indramayu;-70.8
+Borås;66.6
+Atherstone;-98.4
+Cuautitlán;-14.4
+Zara;-87.3
+Sebastian;97.2
+Hausjärvi;-76.5
+Blegny;45.4
+Frankenberg;-34.7
+Ağsu;-6.0
+Poço Redondo;14.2
+Chumphon;88.2
+Gines;-16.3
+Garrucha;56.0
+Rowley Regis;58.5
+Tāsgaon;73.3
+Okinoshima;-51.9
+Ayirāpuram;-26.7
+Ammanford;95.7
+Shenfield;-31.0
+Kisvárda;44.0
+Capannori;-48.3
+Viera West;7.9
+Ruislip;67.2
+Inta;98.8
+Hoveyzeh;26.2
+Bandar-e Torkaman;-3.6
+Cuevas del Almanzora;72.6
+Oulad Khallouf;18.9
+Nieuwegein;-72.4
+Pinellas Park;-51.3
+Madgaon;-26.7
+Meyrin;-3.6
+Penafiel;-30.0
+Bronte;-2.7
+Palo;-42.9
+May Pen;46.6
+Efringen-Kirchen;-78.6
+Khénifra;28.6
+Soaserana;29.2
+Veldhoven;66.4
+Vawkavysk;-73.1
+Morsang-sur-Orge;20.3
+Guia Lopes da Laguna;53.2
+Castries;95.3
+Yambol;89.2
+Budd Lake;-82.2
+Sarreguemines;24.9
+Bogué;-51.5
+Coesfeld;71.7
+Linda;70.6
+Tshilenge;-9.0
+Springe;-52.0
+Titao;40.4
+Coreaú;-90.8
+Kazan;80.8
+Palmdale;72.1
+Santa Úrsula;14.3
+Tsivory;82.0
+Jiexiu;-29.9
+Vohitrafeno;31.3
+Bredasdorp;76.7
+Ponnamarāvati;80.1
+Pećinci;-8.3
+Dera Baba Nanak;19.8
+Rafelbuñol;-51.8
+Kalvārpatti;87.4
+Androy;66.8
+Beaver Falls;-22.9
+Curuzú Cuatiá;-10.9
+Mieres;-53.7
+Quintanar de la Orden;-11.6
+Amorebieta;59.1
+Rafḩā;38.3
+Àrvorezinha;-12.7
+Talavera;12.9
+Gines;22.4
+Trstenik;-7.2
+Aso;-22.9
+Patuakhāli;-85.2
+Baulia;-79.6
+Zeist;94.0
+Analapatsy;-25.1
+Barkuhi;-54.4
+Santee;94.1
+Toms River;82.8
+Ban Bo Haeo;-27.1
+Kuvshinovo;3.2
+Tapejara;-26.1
+Lapinlahti;46.9
+Minzhu;11.6
+Chaigoubu;-95.9
+Kodivalasa;53.4
+Rrëshen;69.3
+Inzá;-56.7
+Minzhu;25.5
+Nellikkuppam;-63.1
+Bainet;1.6
+Caimito;33.1
+Casale sul Sile;-4.8
+Miraíma;-25.9
+Noyon;78.1
+Mengibar;-72.3
+Rosario de Lerma;86.6
+Belle Glade;-42.9
+Pervomaysk;-65.2
+Eyl;-56.6
+Imperial Beach;-98.7
+Yaoundé;-28.9
+Santa Josefa;-54.7
+Carugate;-86.6
+Kunkalagunta;31.9
+Sorata;97.6
+Banigbé;69.0
+Guaymas;39.5
+Musile di Piave;-85.5
+Bishunpur Hakīmābād;81.8
+Binzhou;23.7
+Hingham;-39.2
+Afonso Cláudio;-4.7
+Karuppūr;-20.0
+Karuzi;-50.2
+El Ayote;62.4
+Tlemcen;-43.3
+Ampanety;38.4
+Villa Riva;-39.2
+Harrodsburg;82.3
+Ulstein;76.6
+Ndulo;78.1
+Maryport;-21.3
+Tanakallu;89.7
+Ban Na San;-41.7
+Adelaide River;52.4
+Giyon;-47.3
+Sātkhira;-24.0
+Morādābād;98.2
+Ḩaraḑ;-15.2
+Santa Fe de Antioquia;73.5
+Zhangzhengqiao;-51.0
+Beltsville;-42.8
+Dāchepalle;64.4
+Ad Darwa;78.0
+Guanare;-36.7
+Qiryat Yam;93.0
+Saskylakh;-8.6
+Motegi;-28.5
+Beylikdüzü;-47.0
+Ketti;-2.7
+Rochester;21.4
+Analapatsy;-62.6
+Villalonga;-30.2
+Chāndpur;43.6
+Melena del Sur;-1.5
+Tazarka;-67.1
+Tavira;81.4
+Oyón;-46.4
+Sankt Pölten;-82.6
+Vidin;5.8
+Katwijk;-70.9
+Port Harcourt;-32.7
+Guli;-80.9
+Bijaynagar;94.0
+El Haouaria;89.0
+Simão Dias;-25.7
+Jerez de García Salinas;87.0
+Rennes;86.2
+Sahatona-Tamboharivo;80.5
+Obikiik;-30.8
+Hita;71.9
+Colesville;-56.3
+Melitopol;50.4
+Troisdorf;-39.9
+Chalkāri;-86.3
+Linköping;58.4
+San Ġiljan;-70.9
+Betsiboka;-34.3
+Gudlūru;12.2
+Feldkirchen;92.3
+Magna;-83.1
+La Paz Centro;29.3
+Severodvinsk;-29.7
+Pirajuí;98.4
+Žetale;40.5
+San Antonio de las Vueltas;-78.5
+Grootegast;64.5
+Cervera;-2.1
+Zhänibek;65.1
+Sédhiou;-72.2
+Alor Setar;-9.9
+Deogarh;-17.8
+Sun City Center;80.0
+Amba Icharua;-89.4
+Sechura;-86.2
+Campagnano di Roma;87.2
+Hosakote;-88.0
+Tiruvāduturai;5.1
+Shorewood;-89.1
+Dorridge;33.2
+Atiquizaya;-1.5
+Hetton le Hole;17.7
+Yilong;17.7
+Amarillo;-20.6
+Nyandoma;31.8
+Vīraghattam;3.8
+Drøbak;-82.9
+Udaipur Bithwār;-38.3
+Rustampur;-3.2
+Lokhvytsya;-52.9
+Chandūr;-99.1
+Chorkŭh;3.5
+Manjuyod;-69.6
+Jambaló;28.0
+Quirihue;-51.6
+Grenade;-58.8
+Hengkou;51.5
+Târgu Secuiesc;54.0
+Boac;-59.1
+Cherakhera;70.6
+Pipra Latīf;7.1
+Schaafheim;19.3
+Fukushima;-55.9
+Hohen Neuendorf;-8.4
+Trittau;5.5
+Waspán;62.4
+Buguias;-50.6
+Windorah;-45.0
+Razkrižje;-60.9
+Maricá;50.7
+Saint-Ouen;-83.5
+Alhendín;-57.6
+Nawada;-12.5
+Quảng Ngãi;62.3
+Mattigiri;95.5
+Zhytomyr;63.9
+Albemarle;-33.3
+Haarlem;89.2
+Sāram;63.7
+Peddapalle;-86.0
+Tortona;-53.5
+Oak Creek;-13.9
+Kanajanahalli;-35.8
+Naranjos;-14.8
+Malibu;8.2
+Dakar;13.4
+Juba;-79.4
+Sanski Most;-57.6
+Baxiangshan;-0.1
+Kingston upon Hull;63.4
+Desnogorsk;-95.5
+Ma’erkang;24.2
+Stalybridge;-2.1
+Serrita;-44.7
+Três Coroas;-60.4
+Sergiyev Posad;-41.1
+Caspe;-33.0
+Ziyodin Shaharchasi;58.6
+Elwood;-54.0
+Jādopur Shukul;-80.0
+Monastyryshche;-35.3
+Mastic;23.2
+Çiftlikköy;-32.4
+Tadotsu;-23.4
+Kamyshin;-56.6
+Lesosibirsk;-95.0
+Český Krumlov;-39.2
+Depew;12.9
+Eslohe;9.8
+Ust’-Kamchatsk;17.8
+Tomé;55.9
+Harrisonville;2.9
+Boves;-71.9
+Mataguá;98.0
+Sokal;-78.4
+Bairnsdale;-65.3
+Ferreiros;-21.4
+Kittūr;-75.4
+Três Pontas;-94.2
+Lauriyā Nandangarh;0.2
+Gar;-13.9
+Cham;-39.5
+Bryan;25.5
+Kempten;-14.2
+Pichilemu;-18.1
+Bainbridge Island;-44.4
+Coreaú;19.8
+Melonguane;-31.8
+Thun;57.9
+Jangamguda;23.1
+Rāsak;-23.1
+Talatamaty;8.6
+Suifenhe;27.4
+Rush;76.0
+Puerto Quijarro;29.0
+White Bear Lake;76.9
+Dalanzadgad;88.5
+Hazel Dell;-65.5
+Anröchte;-92.1
+Pinjranwān;89.4
+Tepetlaoxtoc;-9.2
+Kusumha;-79.7
+Wallisellen;6.6
+Chandūr;79.1
+Millburn;41.7
+Roessleville;-90.0
+Devmaudaldal;-31.1
+Torbat-e Ḩeydarīyeh;88.7
+Kilmarnock;-40.4
+Shertallai;-48.2
+Acanceh;53.7
+Kamisato;-25.2
+Hoogeveen;-10.3
+Shatura;-79.4
+Sultanbeyli;-23.1
+La Porte;-11.9
+Olecko;-5.6
+So-Awa;-69.6
+Lendinara;-49.4
+Juban;50.9
+Yotsukaidō;-28.8
+Merksplas;-8.8
+Holiday;-69.9
+Adalpur;85.3
+Albstadt;73.0
+Twinsburg;46.1
+Kostanjevica na Krki;24.9
+Oschersleben;61.2
+Maroua;48.4
+Liman;8.1
+Tizi Nisly;-12.6
+Taufkirchen;-26.7
+Novobërdë;78.1
+Profondeville;-39.9
+Manantenina;-41.6
+Žiar nad Hronom;60.8
+Aragarças;-57.2
+Barud;44.8
+Monett;33.5
+Shidong;-37.9
+San Jacinto;40.8
+Curanilahue;-24.6
+Manglaur;86.9
+Great Baddow;99.5
+Ilafy;-19.3
+Bīkē;-29.3
+Guying;-67.4
+Forquilhinha;-28.4
+Vila Nova de Cerveira;99.7
+Kāshmar;45.1
+Mudki;-2.6
+Fukuyoshi;16.7
+Ruza;-21.3
+Barinas;-60.6
+Haslev;-43.1
+Wuustwezel;60.5
+Pālda;49.9
+Jiwachhpur;81.7
+Maţraḩ;-3.8
+Leinì;-25.0
+Sulahpet;-52.1
+Domkonda;-86.5
+Kurnool;3.3
+Udburu;92.8
+Potsdam;-20.6
+Kaluvāya;-30.5
+Torotoro;3.2
+Nikaweratiya;82.6
+Beni;52.2
+Capua;9.4
+Cerreto Guidi;-85.1
+Florida Ridge;-40.4
+Sancoale;-27.8
+Kokawa;39.2
+Lampang;46.2
+Kamisato;76.4
+Abaí;-10.0
+Ambatoria;-26.7
+Vegachí;-9.1
+Zhanggu;-81.5
+Odaiyakulam;-55.1
+Yacimiento Río Turbio;1.1
+Falagueira;63.7
+As Sallūm;-65.0
+Cabo Frio;-17.9
+Acarape;-7.5
+Kriftel;38.4
+Matawan;-30.5
+Coulsdon;97.9
+Pearl River;93.0
+Skarżysko-Kamienna;-93.8
+Buzău;-85.9
+Pillaiyārkuppam;91.0
+Zhosaly;98.4
+Jangipur;74.4
+Temsia;-19.4
+Yessey;-0.7
+Gioia del Colle;38.0
+Barkuhi;-39.5
+Memāri;-17.4
+Saint-Chamas;49.1
+Qaratog;39.9
+Arcoverde;-58.3
+Amatenango de la Frontera;-49.1
+Port St. Lucie;27.6
+Vellodu;-77.5
+Koratgi;-32.3
+Sukhodilsk;58.1
+Chalfont Saint Peter;65.5
+Camapuã;-10.2
+Mizumaki;-40.3
+Bebra;-49.3
+Ski;30.6
+Meyrin;72.9
+Bhangha;-52.0
+Pipra Naurangiā;-76.9
+Douar Echbanat;-73.0
+Povarovo;-86.2
+Hilter;5.8
+Hemsworth;-62.4
+Patnāgarh;-46.2
+Ilmajoki;-3.9
+Cherniakhiv;-84.8
+Belley;-99.6
+Zima;70.2
+Evansville;-86.6
+Half Moon Bay;19.5
+Cêrro Azul;85.4
+Nāgasamudram;-78.3
+Ta Khmau;55.1
+Cádiz;-31.5
+Guasavito;-80.5
+Dingras;-37.2
+Hulkoti;-95.8
+Piúma;86.6
+Chambéry;-14.6
+Capitão Enéas;-20.5
+Lebach;21.3
+Pinole;97.7
+Bethel Park;25.9
+Tieling;91.0
+Āvadi;-67.4
+Phillipsburg;-66.7
+Saint-Jean-de-la-Ruelle;-33.8
+Juquiá;56.2
+Masty;-68.4
+Iapu;95.4
+Quinchía;-9.2
+Al Mukallā;45.4
+Bagabag;78.0
+Khénifra;60.7
+Sainthia;28.0
+Poulton le Fylde;-27.4
+Pālkot;31.7
+Gooik;-43.6
+Raffadali;-19.6
+Brejo da Madre de Deus;-59.0
+Zerbst;20.9
+Hedongcun;9.6
+Arerāj;29.2
+Clearview;19.5
+Hyrum;31.6
+Falmouth;-96.6
+Sevlievo;86.4
+Pinole;-0.4
+Hazel Dell;40.5
+Sweden;89.8
+Poniatowa;73.1
+Jiaojiazhuang;-32.3
+Dharmkot;16.4
+Plymouth;-68.7
+Bni Drar;23.4
+Irvine;83.3
+Santiago de Baney;96.5
+Soavinandriana;22.9
+Momil;-60.7
+Altötting;33.6
+Ad Darwa;-69.1
+Uppinangadi;-30.4
+Kibaha;-67.7
+Melonguane;10.4
+Buurhakaba;60.7
+Masaki;-51.1
+Vlagtwedde;17.7
+Sale;13.4
+White Meadow Lake;-16.7
+Julianadorp;-36.9
+Oosterwolde;-47.3
+Alâattin;11.4
+Coronel;-60.8
+Bom Jesus do Itabapoana;-41.2
+Al Khārjah;-69.0
+Hardiya;72.5
+Hadagalli;1.7
+Paraguarí;95.3
+Gainza;-14.4
+Marlton;71.1
+Cabricán;-51.5
+Takerbouzt;11.0
+Clonmel;-14.8
+Aţ Ţūr;88.8
+Kontagora;-28.7
+Jādopur Shukul;10.7
+Jinka;-54.5
+São João;39.8
+Laja;-94.0
+Ptuj;25.8
+Bad Vilbel;49.7
+Vīraghattam;-58.8
+Azemmour;-62.2
+Isemi-Ile;5.3
+Hetton le Hole;16.2
+Xiaba;3.1
+Wānkāner;-82.2
+Dapi;-27.2
+Nanzhuangzhen;-78.0
+Lüchow;66.4
+Meghaul;87.7
+Binfield;-29.3
+Ixtapa Zihuatanejo;-31.9
+Kongolo;27.5
+Péda-Houéyogbé;66.4
+Três Lagoas;-43.4
+Apostolove;-78.7
+Ouadhia;53.1
+Hannō;-68.5
+Shepton Mallet;12.9
+Matsudo;-97.3
+Haywards Heath;-81.6
+Aïn el Mediour;0.6
+Dashtobod;68.3
+Hongfengcun;-74.2
+Gurmaila;-6.8
+Pedro Carbo;13.5
+Papeete;-73.1
+Morauna;-81.5
+Pudozh;42.2
+Oil City;-40.0
+Kierspe;-14.1
+Carás;13.0
+Vedène;-72.2
+Carolina;75.0
+Castenedolo;-50.0
+Koziatyn;-62.7
+Anosibe-Ifanja;55.4
+Lamrasla;28.6
+Jordan;34.2
+Shāhjānpur;-22.3
+Yuncos;14.7
+Maraú;-81.8
+Az Zāwīyah;91.3
+Blagoevgrad;36.9
+Saint-Chamas;8.9
+Fuchūchō;-35.7
+Gouda;93.2
+Xinshi;-54.3
+Ghaura;27.0
+Park Forest;-29.1
+Mehdya;-81.7
+Montes Altos;-21.3
+Baipingshan;-43.2
+Juiz de Fora;54.1
+Corzuela;-47.1
+Masanwa;-8.3
+Ispica;-55.3
+Fairfield Glade;-24.1
+Loudonville;-93.0
+Maidstone;-92.7
+Nueva Toltén;-13.6
+Rounia;-61.8
+Frattaminore;6.6
+Šumperk;80.0
+Mason;32.5
+Dandenong;-44.5
+La Independencia;-69.8
+Dano;79.1
+Zhosaly;34.2
+Tanglin;44.0
+Atalaia do Norte;46.1
+Erraguntla;68.3
+Visnagar;27.4
+Escaudain;-86.3
+Amdjarass;10.0
+Mirdoddi;-71.9
+Vanrhynsdorp;-11.6
+West Linn;-45.6
+San Isidro de Lules;72.0
+Borshchiv;18.9
+Gudūr;52.7
+Aduku;-7.6
+Ichinoseki;17.3
+Sabotsy;-29.4
+Pipra Latīf;66.4
+Patate;-84.1
+Testour;-98.7
+Dbarwa;61.7
+Brumunddal;-4.5
+Kilmarnock;49.8
+Belén;31.4
+Airway Heights;7.7
+Bisaul;-4.6
+Kārkala;45.0
+Grand Junction;66.3
+Coulsdon;-23.0
+Doña Remedios Trinidad;-15.9
+Nezahualcóyotl;96.2
+Huber Heights;91.0
+Woodland;-66.2
+Nong Khai;11.7
+Kambūr;66.7
+Lake Morton-Berrydale;68.0
+Orestiáda;-93.1
+Western Bicutan;3.3
+Podalakūr;-17.5
+Inza;79.2
+Cosquín;-91.9
+Agui;5.2
+Guli;-41.9
+Zuchwil;-27.6
+Tokār;-83.5
+Cerca la Source;12.9
+Paleng;5.2
+Santa Catalina;-19.3
+Rāni Sāgar;83.1
+Bastrop;0.1
+Newburyport;-53.3
+Quitilipi;80.8
+Bakhmut;4.7
+Luziânia;48.1
+Quảng Yên;-0.1
+Monesiglio;-79.2
+Zavrč;-54.1
+Sibi;35.5
+Stung Treng;-30.2
+Oroszlány;5.2
+Marka;-73.9
+Middleborough;47.8
+Bad Laer;28.1
+Chencha;36.8
+Şabrātah;-87.4
+Ipoh;37.0
+Yeonil;-41.8
+Mujuí dos Campos;42.9
+Lagoa do Ouro;11.9
+Iwanuma;-10.2
+Kakumiro;74.2
+Roncq;45.4
+Sosúa;-0.0
+Las Delicias;20.5
+Juanjuí;72.1
+Sīāhkal;57.7
+Muli;0.4
+Española;-46.9
+Tumkūr;-47.0
+Montbrison;74.0
+Barjora;-11.1
+Tuensang;98.3
+Aberbargoed;-54.0
+Shabestar;-97.5
+Santa Catarina Pinula;-70.0
+Gidha;-67.7
+Recreio;46.6
+Hancha;-39.8
+Tuta;-47.7
+Jaitwār;-38.7
+Julianadorp;-37.9
+Belle Glade;93.7
+Zaandam;-53.3
+Amborondra;-73.4
+Riehen;-59.4
+Bragadiru;19.3
+Mishan;-36.0
+Rehau;70.8
+Lézignan-Corbières;35.3
+Cannanore;-39.1
+Guanzhai;-50.6
+Kidapawan;-18.3
+Northolt;8.7
+Librazhd;51.7
+Yachimata;2.7
+Qovlar;18.5
+Qā’em Shahr;91.2
+Wendeburg;50.4
+Tagoloan;-74.6
+Kurugodu;17.8
+Ezhou;-81.5
+Rockport;-25.5
+Khmelnytskyi;-27.6
+Yara;26.0
+Belém de São Francisco;84.9
+Cape Girardeau;-33.6
+Lyskovo;37.2
+Rocha;-14.0
+Angelim;-73.5
+Pingyuanjie;47.4
+Rājbalhāi;-9.7
+Schilde;-86.8
+Kalakeri;76.2
+Nurmijärvi;-83.0
+Gargždai;-94.4
+Roda;8.1
+Cataguases;18.7
+San Francisco Zapotitlán;52.8
+Calinog;92.1
+Mai’Adua;36.4
+Maebara;88.0
+Denia;-76.5
+Tangier;17.3
+Trece Martires City;61.1
+Andahuaylas;77.1
+Singhāna;56.6
+Springville;-12.8
+Chimalhuacán;-40.7
+Hàng Trạm;65.3
+Marly-le-Roi;8.5
+Yby Yaú;72.8
+Lovrenc na Pohorju;-92.7
+Randers;-76.4
+Sosúa;-16.5
+Heydərabad;30.6
+Mehsāri;84.3
+Gallarate;0.8
+Hadagalli;-35.4
+Analaroa;76.4
+Mataguá;75.5
+Auray;-76.5
+La Resolana;-10.7
+Crevalcore;-87.5
+Sremski Karlovci;90.0
+Lerik;70.7
+Damulog;94.2
+Waggaman;54.4
+Stjørdalshalsen;-10.3
+Saint-Quentin;-24.4
+Kırşehir;-58.3
+Vīraghattam;62.7
+Nederland;84.2
+Araguaína;-1.9
+Sahatona-Tamboharivo;67.3
+Amānganj;98.4
+Oświęcim;-89.3
+Jelcz-Laskowice;85.1
+Iapu;-87.6
+Suwa;60.9
+Bee Cave;-42.5
+Villa Cañás;36.4
+Medan;37.4
+Quảng Yên;88.0
+Nueva Era;3.6
+Karuppūr;5.5
+Osternienburg;23.7
+Çorlu;-46.8
+Kabugao;-48.3
+Woodinville;-16.6
+Guaratinga;14.8
+Angelim;94.4
+Gusinje;-83.8
+Patos de Minas;-5.4
+Cockeysville;71.7
+Rolling Meadows;99.3
+Kallidaikurichi;-68.4
+Arma;56.7
+Nowrangapur;75.3
+Uppūr;-40.3
+Molo;-67.3
+Kōbe;71.1
+Bad Driburg;86.5
+Lake Hopatcong;-31.7
+Bara Malehra;61.6
+Bunkeflostrand;48.4
+Gornja Radgona;-26.7
+Yamanashi;81.6
+Sātkhira;-27.4
+Bosobolo;-0.4
+Kalmar;24.9
+Mountain View;27.5
+Tiztoutine;49.8
+Monte Compatri;-34.1
+Næstved;33.1
+Mainburg;-81.5
+Garlasco;31.2
+Ixtapaluca;91.6
+Westerville;-73.2
+Calderara di Reno;47.7
+Ixtapaluca;14.5
+Tamuín;52.0
+Amecameca de Juárez;-51.6
+Daying;-87.8
+Zhongtai;-13.6
+Tashtagol;10.9
+Bruchköbel;74.6
+Shibuya;40.3
+Lashkar Gāh;-85.4
+Ebetsu;82.3
+Malepur;-98.2
+Carrillos;43.2
+Ros Comáin;85.8
+Mahugaon;-65.4
+Mežica;34.8
+Shibuya;3.7
+Bangaon;-22.9
+São Pedro do Sul;77.0
+El Estor;9.2
+Zamora;-20.8
+General Pacheco;33.8
+Tuba City;64.8
+Cariacica;46.0
+Poiana Mare;-82.8
+Ponnamarāvati;-99.6
+Kakhovka;61.0
+Tornio;46.8
+Mascalucia;87.4
+Borj el Qoblé;-43.0
+Vista Alegre do Alto;-68.9
+Cainta;79.8
+Tapejara;-47.0
+Sāhpur;70.7
+Ipil;-41.6
+Abra de Ilog;-95.6
+Pacatuba;-9.9
+Roseto degli Abruzzi;81.4
+Santo Cristo;-41.3
+Heusweiler;-6.2
+Sidi Jaber;-3.4
+Matulji;37.5
+Temsia;-19.7
+Tomé;-2.7
+Àrvorezinha;20.8
+Pueblo Rico;-75.2
+Palos de la Frontera;91.2
+Bongouanou;-62.3
+El Menzel;61.1
+Borgaon;51.6
+Ringnod;37.2
+Ambahita;-59.8
+Chamblee;85.3
+Umm al Qaywayn;93.3
+Īrānshahr;-21.6
+Lampang;-49.8
+Porecatu;-37.8
+Huludao;3.8
+Yicheng;-1.7
+Anagni;90.8
+Lālejīn;88.8
+Ban Phe;-35.9
+Roeselare;47.0
+Calayan;24.2
+Diest;14.9
+Amos;54.5
+Suffield;-11.7
+San Gil;-31.6
+Palm Harbor;-61.1
+Karungu;70.2
+Hirrīyat Raznah;-45.0
+Shimogamo;-81.1
+Leyte;-27.1
+Dores de Campos;-15.9
+Nallikodūr;-6.0
+Morroa;-17.1
+Luuq;54.7
+Nattappettai;-55.3
+North Madison;-8.5
+Tehata;-87.0
+Echizen;-78.4
+Alakamisy-Ambohimaha;33.3
+Rotorua;-56.3
+Corona;-1.9
+Chaigoubu;-95.2
+Pocono;84.6
+Carapeguá;-82.1
+Woonsocket;-18.3
+Schöningen;59.8
+E’erguna;-82.3
+Ghafurov;-50.4
+Sayō;64.5
+Sarapul;-85.6
+Kasukabe;26.2
+Borgosatollo;92.5
+Montes Altos;-72.3
+Dasūya;68.4
+Dewsbury;-8.4
+Porangatu;18.9
+Gudiyāttam;-50.9
+Tirschenreuth;88.4
+Uryupinsk;6.1
+Belvādi;72.6
+Dakar;-65.2
+Matehuala;-97.7
+Ugento;62.9
+Belvedere Park;-7.9
+Binfield;-90.3
+San Jerónimo;-2.7
+Emden;53.4
+Floriano;95.6
+Villeparisis;22.2
+Bāgepalli;50.4
+Āsela;79.8
+Tāmganj;-70.9
+Dornakal;80.5
+Domodossola;-84.1
+Nāthdwāra;77.3
+Ispica;16.3
+Vijayapuri;-92.4
+Xuqiaocun;-30.2
+Kings Grant;-27.7
+Guadalupe;42.5
+Ajaigarh;-53.5
+Hujra Shah Muqim;64.5
+Saint-Genis-Laval;-72.1
+Kaukauna;-56.7
+Nawada;-25.4
+Soamanova;49.5
+San Pedro La Laguna;36.2
+Lufeng;-56.6
+Mugnano di Napoli;-44.6
+Sūknah;66.3
+Masdi;-26.3
+Mattigiri;-57.9
+Saint-Martin-Boulogne;79.8
+Paducah;-51.0
+Sesheke;60.2
+Piazza Armerina;-96.2
+Idrī;63.2
+Thaba-Tseka;41.4
+Għaxaq;-11.2
+Divinópolis;-66.5
+Ciudad Tecún Umán;-12.8
+Fyzabad;-3.2
+Padaivedu;19.9
+Kroonstad;48.3
+Āsela;77.3
+Pombal;6.0
+Domaa-Ahenkro;43.3
+Bailin;25.8
+Adygeysk;-63.0
+Borbon;-55.8
+Tieling;-52.4
+Wągrowiec;90.2
+Siddipet;14.3
+Studeničani;-41.5
+Had Dra;91.8
+Portes-lès-Valence;33.1
+Tomé;35.1
+Jabālyā;56.9
+Haddon;15.5
+Kaikalūr;-23.0
+Narbonne;-74.5
+Rugby;-26.5
+Siguiri;-63.5
+Thérmi;-62.2
+Ponte da Barca;73.2
+Rosamond;-78.7
+Souk et Tnine Jorf el Mellah;-59.6
+Ayirāpuram;-10.4
+Elverum;89.1
+Creutzwald;-3.7
+Naxçıvan;-32.5
+Hoogezand;18.0
+Gopālasamudram;37.7
+Cambita Garabitos;-23.2
+Taquarana;19.2
+Criciúma;86.2
+Teplice;-57.1
+San Jerónimo;-86.8
+Baishan;-73.7
+Girona;32.4
+Ventspils;-47.2
+Reddigūdem;49.0
+Qārā;-7.6
+Maibara;24.7
+Cislago;-32.9
+Jerez de la Frontera;-96.5
+Lakeland;-75.4
+Jandaíra;0.1
+Ban Bo Haeo;-15.8
+Turukhansk;32.8
+La Nucía;86.5
+Carletonville;-37.9
+Nilothi;36.4
+San Prisco;34.3
+Batac;67.1
+Zelenogradsk;-9.6
+Sremski Karlovci;-47.0
+Palestine;11.0
+White Horse;-86.5
+Jalgaon;-35.6
+Recke;-87.2
+Channelview;61.7
+Chiroqchi;-67.7
+Písek;-60.1
+Przeworsk;-82.4
+Lloró;-47.3
+Iesolo;-20.3
+Jājarm;-85.4
+Thaba-Tseka;-10.5
+Psychikó;-60.4
+Garlasco;-64.7
+Chaplynka;-43.5
+Lokwabe;-78.7
+Fastiv;98.4
+Al Qaryatayn;56.5
+Prudentópolis;-72.4
+Krynica;-54.6
+Temple City;26.8
+West Bromwich;0.3
+Chinameca;-88.9
+Cumanayagua;-31.9
+Hettstedt;-79.3
+Okpo;-39.3
+Dolný Kubín;20.2
+Rosario de Lerma;-67.6
+Maghāghah;95.5
+Stara Zagora;68.1
+Jānpur;-91.9
+Siktiāhi;-14.6
+Roeselare;-85.6
+Jaén;12.5
+Palos de la Frontera;33.0
+Caloocan City;-45.4
+Chilmil;34.3
+Kasangati;-17.5
+Narsīpatnam;94.5
+Araras;-21.4
+Bogovinje;32.9
+Chandera;-97.4
+Kuwana;95.7
+Bahía Honda;42.0
+Dhilwan;-18.7
+Bafoulabé;49.8
+Paithān Kawai;-52.6
+Puraini;-33.0
+Tiruvādi;91.2
+West Bromwich;-46.0
+Zandvoort;18.1
+Cabo Bojador;-78.2
+Baba I;65.2
+Devendranagar;-59.8
+Casa Branca;-28.6
+Saint-Félicien;-82.0
+Cambita Garabitos;65.6
+Cave;-63.0
+Kishi;35.0
+San Fructuoso de Bagés;41.6
+Santa Josefa;-22.6
+Phú Mỹ;14.6
+Kuala Terengganu;75.4
+Angeles City;47.0
+Lakhipur;97.8
+DeSoto;62.6
+Victor;-24.8
+Greencastle;-9.4
+Guiseley;93.1
+San Vito dei Normanni;91.9
+Rājbalhāi;-97.3
+Paarl;84.0
+Tema;14.5
+Bulgan;74.6
+Bad Windsheim;10.9
+Aranjuez;36.8
+Sanatoga;-15.8
+Dereli;-13.9
+Shūnan;18.8
+Changtoushang;86.8
+Avsallar;-60.0
+Carlosama;-5.8
+Bijai;-0.5
+Deoghar;-79.1
+Kānke;46.1
+Zhaitangcun;11.3
+Dollard-des-Ormeaux;13.7
+Tlaltetela;52.0
+Torbat-e Ḩeydarīyeh;-25.4
+Kerben;98.5
+Highlands Ranch;44.8
+Sāho;20.1
+Peabiru;-12.3
+Erlangen;37.1
+Liaocheng;-75.4
+Manjathala;-73.5
+Tabuleiro do Norte;41.2
+Žalec;-99.6
+Baba I;37.0
+Liquiçá;77.0
+Caazapá;-87.5
+Tarwāra;-79.7
+Bilozerka;-83.0
+Baalbek;24.0
+Vandalia;51.2
+Paso Canoas;98.5
+Ad Darwa;19.5
+Chongzuo;-19.8
+East Riverdale;-42.4
+San Pedro Carchá;-88.9
+Horseheads;4.3
+Akhaltsikhe;-42.8
+Scaggsville;-93.9
+Aguinaldo;74.8
+Rapu-Rapu;-86.5
+Ankazotsifantatra;-52.7
+Quảng Yên;-22.3
+Donzdorf;48.7
+Summerstrand;10.6
+Tokunoshima;33.7
+Pastos Bons;14.1
+Lendinara;73.1
+Bolbec;-41.9
+Tocina;-87.9
+Santuario;60.4
+Calayan;-92.3
+Malangas;74.6
+Ayirāpuram;94.5
+Beaverton;18.4
+Xiaoyi;58.5
+Iguig;93.8
+Tanhaçu;89.7
+Vawkavysk;53.7
+Mount Laurel;-15.1
+Nangavalli;-62.3
+Vilyuysk;-70.1
+Andriivka;-26.2
+Flossmoor;14.9
+Tissaf;-23.1
+Sungal;62.3
+Pâ;70.8
+Nowogard;92.7
+Uchoa;-52.5
+Bhadsara;27.4
+Talwāra;-28.1
+Waldorf;-89.0
+Cattolica;-38.3
+Neustadt bei Coburg;44.4
+Araban;55.8
+Zongdi;-56.8
+Upper Bicutan;78.8
+South Middleton;84.5
+Fiorano Modenese;84.2
+Chettipulam;-13.7
+Podalakūr;9.3
+Baiyan;39.8
+Paita;93.5
+Malanville;-74.8
+Kuznetsk;59.3
+Humpata;58.2
+Hulyaypole;60.3
+Gryazovets;-61.9
+Yaojia;70.8
+Acopiara;24.0
+Jefferson Valley-Yorktown;-30.6
+Saint-Jean-le-Blanc;53.3
+Radeče;-75.4
+Reggio Emilia;-33.7
+Ban Mae Kham Lang Wat;95.3
+Kurtalan;10.3
+Songcaozhen;-43.0
+Vettweiß;1.2
+Grave;3.6
+Portet-sur-Garonne;51.4
+Huaniu;4.0
+Kavieng;-20.5
+Hinda;-48.7
+Swieqi;30.6
+Luancheng;75.6
+Centennial;-1.8
+Jinka;-40.2
+Berwyn;8.8
+Batobato;-70.0
+Villacidro;19.1
+Kishkeneköl;-44.0
+Le Pont-de-Claix;-10.8
+Udburu;47.3
+Malimono;-33.8
+Arsenyev;89.1
+Camposampiero;-55.9
+Douar Souk L‘qolla;-83.3
+Alotau;-43.7
+Adra;47.4
+Yellayapālem;-66.7
+Gaizhou;42.4
+Brno;-63.2
+Senirkent;85.7
+Mizunami;-84.8
+Mios;-53.7
+Olathe;84.7
+Reserve;-39.0
+Fenoarivobe;36.1
+Narsimlāpet;-31.6
+Aringay;31.4
+Wülfrath;-55.1
+Leramatang;96.9
+Rāsak;23.3
+Corat;-52.8
+Żyrardów;-87.7
+Ōra;56.8
+Jora;54.2
+Kautālam;75.4
+Chaykovskiy;-3.2
+Drouin;-81.2
+Cueto;-27.1
+Chanderi;-69.4
+Votorantim;-39.3
+Kranjska Gora;58.0
+Nové Město nad Metují;-0.9
+Potrerillos;-61.2
+Oxon Hill;66.2
+Sirohi;-77.0
+Quan’ancun;75.5
+Las Piñas City;-52.2
+Hayange;-43.2
+Huguan Nongchang;-58.5
+Tsetserleg;-99.0
+Pailón;77.0
+Dabutou;41.5
+Tairan Camp;-53.4
+Tāmganj;27.0
+Bethany;-31.9
+Mungeli;-87.3
+Matoupu;-56.5
+Carbondale;-97.0
+Porangatu;-71.4
+Lehigh Acres;32.6
+Urubici;72.8
+Managua;-0.9
+Bjelovar;27.5
+Monte Belo;11.6
+Zvenigovo;-4.2
+Hayward;-19.9
+Pike Road;-78.3
+Coqueiral;-42.0
+Theodore;-80.5
+Kranjska Gora;46.8
+Espejo;-58.1
+West Bromwich;10.7
+Montbrison;-45.8
+Casandrino;36.3
+Genk;3.9
+Annoeullin;-33.3
+Marly;-34.8
+Mandza;-48.1
+Yby Yaú;69.2
+Sétif;89.9
+Taytay;-3.7
+Taloda;-61.3
+Vatolatsaka;94.5
+Tissa;89.4
+Evansville;43.4
+Tarui;57.4
+Golubovci;62.6
+Little Hulton;68.3
+Gorantla;-55.8
+Xinyaoshang;-89.5
+Joniškis;10.1
+Ivrea;-31.4
+Reggio Emilia;92.0
+Borja;57.2
+Lagoa Santa;89.2
+Deer Park;-40.0
+Wadowice;-66.9
+Mizunami;6.9
+Antônio Cardoso;57.8
+El Tabo;90.5
+El Retorno;-42.4
+Bittou;88.5
+Vatomandry;-17.0
+Mae O;98.8
+Bogotol;53.7
+Parapatti;31.7
+Kleppe;98.2
+Refahiye;44.5
+Zongdi;-24.8
+Yotsukaidō;14.1
+Festus;52.3
+Sagua la Grande;-59.3
+Pyt’-Yakh;82.3
+Don Galo;22.6
+Chong Nonsi;-67.0
+Peraiyūr;-36.5
+Quintanar de la Orden;-87.0
+Vanj;-12.4
+Mežica;84.4
+Chegūr;88.8
+Rehti;-34.2
+Atkarsk;24.7
+Estância;-43.5
+Dalachi;-57.4
+Montenegro;-34.1
+Coulsdon;45.3
+Vāniyambādi;-52.1
+Ghanpur;33.1
+Vedène;0.9
+Shibuya;-26.8
+Pasadena;-59.0
+Gamboma;19.9
+Bela Vista de Minas;-6.8
+Maurepas;24.7
+Kazarman;-99.3
+Viana;90.3
+Kočevje;-48.1
+Takhli;31.0
+Gyeongsan;-40.5
+Peabody;-23.7
+Stony Point;-23.6
+The Pinery;10.9
+Tabuk;-24.9
+Kusumha;-4.3
+Gwoza;-60.2
+Phalaborwa;60.0
+Erongarícuaro;-15.7
+Perivale;93.7
+Puebloviejo;78.5
+Birsinghpur;-6.5
+Calape;97.5
+Kleinblittersdorf;12.7
+Country Club Estates;-87.0
+Malème Hodar;-92.9
+Rājbalhāi;91.4
+Portes-lès-Valence;-4.9
+Douar Echbanat;-41.4
+Glenwood Springs;-99.1
+Kirchheim bei München;60.7
+Pintadas;23.6
+Ouando;-71.6
+Īrānshahr;35.0
+Fervedouro;38.3
+Leonding;20.6
+Ciego de Ávila;32.3
+Alquízar;99.4
+Suwāsra;-69.1
+Foum Zguid;35.7
+Midway;56.8
+Chambéry;4.9
+Gioia del Colle;96.6
+Nordhorn;-51.5
+Čoka;-19.7
+Independence;-37.7
+Natividad;-55.4
+Sherkot;43.5
+San Pédro Jocopilas;93.4
+Đà Lạt;-2.4
+Bhāsaula Dānāpur;51.5
+Lummen;-22.6
+Copertino;18.8
+Carouge;25.4
+Ālampur Gonpura;58.3
+Łobez;-45.6
+Erongarícuaro;-61.5
+Oliva;22.5
+Stralsund;-86.6
+Arta;30.9
+Tori-Bossito;-47.7
+Benemérito;-98.4
+Auxerre;20.7
+Veľké Kapušany;95.9
+Bocoio;68.0
+Orūmīyeh;-97.8
+Santos;33.0
+Kokawa;-54.9
+Caetano;-36.9
+Fancheng;-39.9
+Jhelum;35.7
+Sagua la Grande;-75.4
+Kostroma;98.7
+Stilfontein;39.1
+Bhojpur Kadīm;-78.7
+Taquarana;-86.5
+Ventania;-93.1
+Kaišiadorys;-47.0
+Monsefú;83.6
+Hennigsdorf;85.3
+Villars-sur-Glâne;-4.5
+Carpinteria;-78.6
+Mula;-60.6
+Sidi Boushab;0.4
+Kabuga;-34.0
+Bayur;3.4
+Parvatgiri;33.7
+Jalārpet;65.3
+Emboscada;-77.7
+Dhuliān;-91.9
+Uriangato;1.3
+Pichilemu;87.2
+Lobo;54.6
+Bittou;25.3
+Aināpur;-49.3
+Belogorsk;-45.7
+Fonte Boa;-67.1
+Samaipata;-69.8
+Aguazul;-51.7
+Coesfeld;-74.9
+Ishigaki;-67.5
+Aguinaldo;-35.5
+Khorramābād;71.1
+Cherakhera;-76.6
+Legnano;-98.4
+Maraú;14.9
+Dzhalka;72.7
+Morauna;-9.1
+Quiindy;49.4
+Hayward;38.5
+Amecameca de Juárez;32.9
+Thunder Bay;-34.7
+Bukachacha;-5.2
+Zvenyhorodka;-26.3
+Don Galo;-37.4
+Nový Bor;86.6
+Hānsa;59.9
+Jalkaura;71.5
+Kochgāwān;15.7
+Nam Định;-92.8
+Antarvedi;-81.7
+Xinyaoshang;-82.8
+Royan;71.5
+Surinam;73.6
+Saint-Colomban;9.2
+Ben N’Choud;-86.6
+San Fructuoso de Bagés;-4.7
+Xishancun;66.8
+Mikashevichy;-79.4
+Rosario de la Frontera;-15.0
+Doboj;98.5
+Caraballeda;-81.7
+Golmeh;-95.8
+Lubny;53.4
+Höhenkirchen-Siegertsbrunn;-28.4
+Detmold;44.4
+Ponders End;78.0
+Waspán;-70.9
+Lillerød;-31.5
+Dunn;-37.6
+Loeches;81.8
+Pedro Afonso;63.5
+Assenede;66.5
+Rrëshen;43.9
+Belazao;69.7
+Arvand Kenār;72.6
+Alamnagar;-40.2
+Igarapé;35.2
+Palangotu Adwār;80.3
+Quitandinha;78.9
+Oymyakon;-41.4
+Hole Narsipur;46.9
+Ixtapa Zihuatanejo;-24.1
+Mozzate;-44.5
+San Andrés Itzapa;-68.8
+Umurlu;23.3
+La Laguna;16.3
+White Plains;70.1
+Bruchhausen-Vilsen;10.6
+Raydah;83.3
+Hochdorf;24.2
+El Milia;-69.2
+Dayr al Balaḩ;-1.0
+Künzell;11.6
+Greenwich;-7.3
+Groton;-75.0
+Horta;-36.3
+Estância;62.8
+Marsaxlokk;26.1
+Montegrotto Terme;-75.9
+Boa Vista do Tupim;2.0
+Degeh Bur;-68.2
+Comandante Fontana;86.3
+Lerwick;64.5
+Perpignan;9.7
+Traversetolo;16.7
+Mildura;-71.6
+Sardoba;1.1
+Bela Vista de Minas;-62.8
+Prieto Diaz;-28.7
+Matanog;-30.5
+Cesário Lange;10.9
+Merthyr Tudful;51.5
+Agareb;-63.5
+Herbrechtingen;58.8
+Irvington;-18.6
+Boumia;-86.7
+Carolina;90.1
+Saratoga;-57.1
+Orlândia;11.2
+Toucheng;17.6
+Naduvalūr;56.8
+Goyty;-30.0
+La Chapelle-Saint-Luc;-84.2
+Surin;-29.6
+Queen Creek;79.2
+Nelkattumseval;77.5
+Kuldīga;-81.2
+Kolding;57.1
+Nanjō;-14.5
+Talant;-52.3
+Claxton Bay;-77.4
+Kurgan;64.2
+New Delhi;-35.9
+Katrīdih;67.0
+Iglino;12.6
+Chikmagalūr;49.1
+Rifle;34.1
+Menfi;47.7
+Bangaon;96.5
+Makati City;-49.8
+Vwawa;6.9
+Kochgāwān;-43.1
+Tân Phú;84.6
+Paris;-16.3
+Companiganj;64.5
+Balboa Heights;-4.8
+Udaipur Bithwār;58.3
+Kirchheim bei München;-54.5
+Mugnano di Napoli;-65.6
+Mogadishu;-71.1
+Sidi Ettiji;20.7
+Chitagá;-67.6
+Hoogeveen;41.7
+San Giorgio di Piano;83.2
+Obra;80.8
+Schwarzenbruck;-38.9
+Souk Tlet El Gharb;-66.2
+Redondela;-44.2
+Sāmba;97.3
+Chinameca;-91.8
+Campos Gerais;88.8
+Az Zāwīyah;-71.6
+Campbelltown;-41.5
+Arpaçay;-29.3
+Mogocha;-60.6
+Zreče;-88.2
+Makati City;-70.1
+Charxin;-32.2
+Jūraqān;16.3
+Landázuri;-67.3
+Wawarsing;-97.9
+Lajas;0.4
+Handwāra;-94.2
+Kūhbanān;-61.1
+Sint-Truiden;2.7
+Riolândia;-76.2
+Chamblee;-26.0
+Carovigno;60.3
+Cửa Lô;47.1
+Alzey;32.6
+Golāghāt;-91.9
+Rochester;-71.0
+Novi Banovci;-60.2
+Copertino;24.9
+Mount Laurel;-1.9
+Krems an der Donau;52.3
+Barnāon;76.7
+Tagum;-2.8
+Takua Pa;-98.9
+Santa María Huazolotitlán;-25.2
+Morādābād;64.8
+Mujikharf;-82.7
+Jelcz-Laskowice;-99.5
+Lobo;-52.2
+San Pédro Jocopilas;-86.1
+Veľké Kapušany;-76.6
+Colts Neck;-40.2
+Corciano;2.5
+Khāpdeh;-47.5
+Hochheim am Main;38.6
+Adelphi;-77.2
+Sarrebourg;98.0
+Debark’;25.5
+Qasigiannguit;-1.3
+Linlithgow;28.6
+Rahachow;42.0
+Diepenbeek;-84.9
+São Sebastião do Caí;11.4
+Chichiriviche;0.4
+Sharon;38.5
+Pāsighāt;-62.2
+Douar Hammadi;-2.3
+Porta Westfalica;-16.0
+Cárdenas;86.2
+Chapa de Mota;96.8
+La Florida;80.7
+Brzeg Dolny;-22.5
+Toboali;-5.6
+Changbang;-17.5
+Ponte San Pietro;-54.0
+Mashiki;-50.6
+Synelnykove;-99.2
+Quinapundan;44.2
+Bajiao;61.1
+Dipolog;2.5
+‘Alīābād-e Katūl;52.8
+Mikashevichy;49.1
+Lapseki;-27.6
+Hanamaki Onsen;-76.9
+Geldrop;77.9
+Fos-sur-Mer;-85.7
+L’Asile;-44.5
+Ahlaf;82.1
+Pionerskiy;-65.5
+Mānāmadurai;45.0
+West Plains;81.9
+Pasrāha;-36.8
+Baao;38.4
+Kalinagar;-59.0
+Bourg-en-Bresse;8.9
+Titao;-19.2
+Ban Mae Kham Lang Wat;69.7
+Azle;-80.8
+Ervália;42.2
+Titao;-46.8
+Gaoniang;86.9
+Piaseczno;-79.1
+Pattanam;38.9
+Devendranagar;-18.0
+Simeulu;61.7
+Giarre;93.1
+Essa;19.8
+Sant’Egidio alla Vibrata;-84.7
+Ribeirão Bonito;-97.4
+Cuevas del Almanzora;-38.5
+Tielt;-11.3
+Guanagazapa;-57.5
+Shenfield;-67.5
+Azcoitia;-18.8
+Pagqên;6.9
+Kyaukse;-75.6
+Montignoso;-22.5
+Kamen’-na-Obi;-52.1
+Geneseo;67.7
+Massapê;-69.2
+L’Assomption;-95.3
+Alto Paraná;68.2
+Žiar nad Hronom;-83.7
+Vardenis;-81.9
+Soron;75.7
+Memāri;-73.6
+Middleborough;76.2
+Agar;91.2
+Greencastle;-68.2
+Cannanore;24.7
+Perpignan;-82.2
+Ambon;4.6
+Frei Paulo;-99.3
+Fenglu;97.9
+Zumarraga;-81.4
+Mount Laurel;-41.2
+Fujiyoshida;38.7
+Yingkou;56.2
+T’q’ibuli;2.6
+Takeochō-takeo;99.5
+Khorramābād;-90.9
+Lora del Río;-63.2
+Bisaria;91.1
+Bekily;66.8
+Oelde;34.9
+Opera;72.9
+Shertallai;54.1
+Cukai;-14.8
+Pweto;48.2
+Esteio;-9.0
+Tirúa;-58.4
+Analaroa;56.0
+Sucha Beskidzka;-74.9
+Meaford;-64.5
+Āgiripalle;14.5
+Paldorak;-77.1
+Tirebolu;80.2
+Paz de Ariporo;-61.3
+Longyearbyen;31.1
+Mandialaza;-24.3
+Adjumani;81.5
+Cerklje na Gorenjskem;18.8
+Roeselare;-37.2
+Senirkent;37.3
+Velikiy Ustyug;96.3
+Kot Shamir;22.1
+Kitakōriyamachō;-42.9
+Male;-37.7
+Antônio Carlos;-99.7
+Lapua;-86.5
+Andhana;-28.0
+Petite Rivière de Nippes;48.3
+Bailin;10.3
+Vilnohirsk;33.1
+Aranjuez;94.5
+Longkeng;83.7
+Vendas Novas;59.4
+Dar El Kebdani;-56.5
+Žagubica;-71.3
+Kamifurano;58.3
+Sungal;-78.0
+Sítio do Quinto;31.0
+Shepparton;-98.6
+Lopez;-62.1
+Lynchburg;87.9
+Ribeirão do Pinhal;-0.6
+Stains;-5.6
+Country Club Estates;-51.5
+Aubange;27.8
+Arpajon;-53.3
+Simão Dias;30.7
+Rājbalhāi;66.9
+Landquart;-26.6
+Butare;-51.8
+Timahdit;-44.6
+Tatsunochō-tominaga;29.8
+Zandvoort;86.5
+Talavera;59.2
+Bad Driburg;-10.6
+Motta Sant’Anastasia;45.4
+San José de Gracia;-80.7
+Tonantins;-80.7
+Baubau;86.2
+Kabul;32.8
+Ribeirão do Pinhal;65.4
+Agoncillo;-74.6
+Baytūnyā;82.7
+Pórto Ráfti;-13.5
+Kārwār;16.2
+Queen Creek;-67.0
+Kamyshin;-32.0
+Plottier;-72.1
+Fangliao;62.1
+Parvatgiri;-27.5
+Rivera;96.8
+Wijk bij Duurstede;-71.8
+Kaduna;-40.4
+Apostolove;64.4
+Ouaouzgane;-53.1
+Paranhos;72.4
+Mäntsälä;51.0
+Nichelino;15.0
+Namhkam;-74.1
+New Bern;9.2
+Woodridge;-46.8
+Atlapadu;78.0
+Clemmons;17.4
+Mirabel;-34.9
+Lower Gwynedd;-20.1
+Indi;-70.9
+Khem Karan Saray;-66.9
+Belaur;16.4
+Des Moines;66.4
+Atkarsk;24.2
+Manatuto;96.2
+Pozos;-55.5
+Houston;57.7
+Alhandra;-22.0
+Menggala;-14.9
+Hlybokaye;-85.1
+Villajoyosa;74.6
+Gandikunta;39.1
+Scafati;15.4
+Struga;18.2
+Pesaro;38.9
+Cajati;64.3
+Santa Cruz Naranjo;94.1
+Raška;-11.8
+Singarāyakonda;-77.7
+Camposampiero;10.6
+Corleone;45.6
+Sidi Allal Tazi;87.6
+Chosica;-89.1
+Memāri;35.1
+Girau do Ponciano;-35.3
+Massa Lombarda;-27.9
+Vyksa;11.4
+Vadugappatti;-85.9
+Santa Cecília;3.0
+Kaeng Khoi;-46.3
+Verrières-le-Buisson;-59.8
+Aveley;-3.4
+Mādugula;11.7
+Santa Cruz Itundujia;-79.8
+Kibiito;47.9
+Acámbaro;-50.5
+Atescatempa;58.9
+Moengo;-91.5
+Bujaru;-65.2
+Miren;-41.5
+Srīvilliputtūr;41.2
+Afonso Bezerra;-12.7
+Sesvete;30.2
+Táriba;89.1
+Paso Canoas;98.2
+Shevington;-64.5
+Arerāj;-71.6
+Karlovac;59.0
+Pīlibhīt;-14.3
+Mandaguari;47.8
+Tanant;-69.3
+Nāmrup;38.3
+Guía de Isora;14.8
+Sonupur;35.8
+Mäntsälä;22.4
+Sungailiat;-55.9
+Rehoboth;29.3
+Dīnhāta;38.4
+Tiwi;59.3
+Lich;43.5
+Mankayan;24.6
+Padbury;-24.1
+Ambodimangavolo;-79.2
+Talas;88.4
+North Reading;-28.1
+Nalgonda;-46.7
+Dragash;-44.3
+Dodji-Bata;-48.3
+Torri di Quartesolo;7.0
+Tamana;-67.6
+Ridgewood;-33.6
+Kalyazin;-11.3
+Kiruna;95.7
+Remada;77.5
+Breukelen;24.4
+Kothia;-75.1
+Kraskovo;2.3
+Itapecerica da Serra;-44.2
+Coronel;69.7
+Nurkot;-87.0
+Masaka;-91.9
+Jarabacoa;-29.0
+Oldham;-77.2
+Franklin;-40.2
+Prabhāt Pattan;44.7
+Al Jaghbūb;61.4
+Billère;25.3
+Arteijo;-75.6
+Nordkirchen;33.7
+Barra do Corda;30.1
+Koekelare;-62.0
+Nuriston;-5.5
+Bopolu;10.0
+Montrouis;-81.8
+West Carson;-6.9
+Jirwa;7.8
+Oppatavādi;-88.0
+Gyapekurom;-48.4
+Kawamata;75.9
+Harsewinkel;39.3
+Pyt’-Yakh;27.5
+Gadag;9.1
+Juquiá;10.0
+Yovon;97.0
+Dar El Kebdani;85.0
+Kolding;0.1
+Tangerhütte;-82.5
+Morehead City;8.3
+Pottstown;-89.6
+Analamary;46.2
+Īṭahari̇̄;-5.6
+Chintalavādi;78.1
+Derry;-66.6
+Grevenbroich;85.2
+Weimar;86.0
+Rāmāreddi;90.4
+Petite Rivière de l’Artibonite;63.4
+Nagano;-46.0
+Amarillo;87.8
+Zumarraga;-20.8
+Şavşat;61.2
+Mallampalli;52.7
+Shatura;-50.2
+Talavera;51.0
+Akdağmadeni;46.9
+Passy;94.8
+Ansbach;-26.5
+Safājā;44.1
+Montivilliers;45.6
+Nūtakki;-79.9
+Īmani;-52.9
+Comarapa;-26.9
+Āb Pakhsh;3.2
+Dendulūru;-14.5
+Centennial;20.1
+Tiana;-70.3
+Irati;-87.5
+Colfontaine;81.8
+Lappersdorf;14.4
+Bitonto;10.6
+Las Parejas;-3.5
+Golungo Alto;2.4
+Oosterwolde;-59.6
+Whyalla;79.0
+Davangere;-30.5
+Maroua;-43.3
+Shimizuchō;-12.5
+Mattoon;6.1
+Seïada;-53.9
+Vitomarci;66.7
+La Puebla de Cazalla;-52.8
+Nāthpur;-93.7
+Walcourt;-3.3
+Telgte;-6.0
+Alcalá de Guadaira;99.5
+Poltava;15.1
+Gudiyāttam;-32.1
+Oldebroek;-89.7
+Miyako;-53.0
+Bagabag;41.3
+South Hadley;-2.9
+Mukilteo;63.0
+Sidi Allal Tazi;-45.9
+Mount Gambier;-6.0
+Bayabas;-29.9
+Anjialava;90.8
+Harbel;73.6
+Hollister;6.3
+Aţ Ţūr;79.3
+Fostoria;41.8
+Antarvedi;0.8
+Struga;75.3
+Castel Mella;-14.7
+Beccles;-86.5
+Rellivalasa;-3.4
+Wallingford;35.7
+Svitlodarsk;31.3
+Agourai;-18.7
+Westwood;-12.8
+Godomè;27.8
+Birao;-39.0
+Los Altos;14.9
+Lavagna;-96.0
+Balboa;-6.6
+Santa Ana de Yacuma;43.0
+Sāram;-88.6
+Espinho;-42.7
+Phetchaburi;12.7
+White Bear Lake;8.4
+Post Falls;94.7
+Picture Rocks;-88.1
+Scafati;82.6
+Palukudoddi;-8.6
+Arlington Heights;-84.7
+Oulad Khallouf;-38.4
+Coventry;-99.4
+San Felipe Jalapa de Díaz;-1.6
+Kushtia;-51.5
+Bhawānipatna;11.0
+Sancoale;-28.0
+Qaqortoq;23.1
+Quatro Barras;90.1
+Tekkāttūr;72.1
+Zuojiawu;-14.3
+Saint-Eustache;-17.4
+Namhkam;97.3
+Pādiyūr;90.2
+Imarichō-kō;-28.3
+Kostanjevica na Krki;47.5
+Bigadiç;-30.6
+Big Rapids;16.6
+Manizales;71.8
+Asfarvarīn;0.3
+San Juan del Cesar;12.3
+Matawan;80.5
+Gyomaendrőd;-96.4
+Tunduru;-46.1
+Donauwörth;30.9
+Phú Mỹ;73.5
+Yukon;53.1
+Avelgem;38.5
+Maardu;-6.3
+Amdjarass;-13.5
+Santa Rosa Jauregui;90.0
+Khromtaū;41.4
+Kolhāpur;-80.4
+Kirovsk;-90.7
+Libona;29.4
+Casma;-8.4
+Tirebolu;-9.4
+Coro;-54.6
+Alcala;31.2
+Barra do Ribeiro;22.1
+Giddalūr;85.7
+Stretford;-7.4
+Sétif;41.9
+Manizales;60.0
+Quakers Hill;-68.5
+Analapatsy;4.7
+Xinlizhuang;-70.3
+Ichenhausen;31.6
+Karambakkudi;-65.7
+Sihu;-29.0
+Aweil;74.1
+Hartsville;-83.3
+Los Llanos;34.1
+Sulejówek;-91.5
+Kōbe;90.2
+West Carson;-17.3
+Sai Kung Tuk;14.5
+Ramain;15.7
+Kosum Phisai;26.1
+Sabana Iglesia;-35.6
+Bad Wörishofen;-95.4
+Antalaha;-32.6
+Bacacay;11.5
+La Chapelle d’Armentières;73.2
+Macedonia;34.5
+Ouargaye;38.3
+Currumbin;-66.1
+Puebloviejo;-83.1
+Zduńska Wola;-94.6
+Osmaniye;-65.4
+Tikhoretsk;-78.7
+Ban Son Loi;-22.4
+Mohanpur Gaughāta;90.6
+Basavakalyān;-16.3
+San José del Fragua;39.2
+Oranjestad;50.3
+Tizi-n-Bechar;90.2
+East York;20.5
+Brilon;-80.9
+Nihtaur;-37.1
+Paterna;91.3
+Āvadi;68.3
+Kuznetsk;-64.0
+Montalbán;25.3
+Tinley Park;14.1
+Harsewinkel;-88.2
+Planaltina;-25.5
+Majiagoucha;-74.9
+Emmaus;-27.1
+Fukushima;65.9
+Huichang;1.3
+Pintadas;40.1
+Heroica Caborca;-32.4
+Cabral;41.0
+Mariakerke;-2.3
+Shlisselburg;35.9
+Lykóvrysi;22.9
+Corona;29.3
+Le Pont-de-Claix;-89.1
+Bangaon;92.9
+Hampton;38.7
+Gulkevichi;77.4
+Baishi Airikecun;61.3
+Corinto;27.1
+Farmersville;29.0
+Kanye;-85.5
+Pechora;-13.9
+Mulakalūru;-95.6
+San Valentino Torio;-6.9
+Melena del Sur;34.7
+Mujuí dos Campos;-87.1
+Tanguá;-36.7
+Promissão;66.7
+Kalajoki;-33.8
+Longbridge;-19.2
+Carolina;-81.0
+Tsivory;25.6
+Timimoun;-55.4
+Bagabag;85.2
+Fino Mornasco;-50.7
+Montesson;-9.4
+Tāzhakudi;63.6
+Aspen Hill;-15.8
+Stolac;-50.2
+Linda;87.8
+Sesimbra;-87.5
+Lapuyan;-39.7
+Tranovaho;55.5
+Sittingbourne;-30.3
+Libenge;85.7
+Kīlkottai;20.1
+Newman;34.1
+Tamlūk;96.5
+Agoncillo;62.7
+Bellaire;-5.3
+San Ignacio Cohuirimpo;-76.9
+Cabo Frio;-91.0
+Krzeszowice;-42.7
+Conneaut;-16.0
+Chillum;-34.9
+Swakopmund;-81.4
+Paola;9.5
+Porirua;77.3
+Encinitas;45.1
+Birao;-28.3
+Espejo;-69.0
+Amagasaki;-48.2
+Apartadó;15.0
+Arbeláez;-44.6
+Kaltenkirchen;23.8
+Püspökladány;98.6
+Teleneşti;22.7
+Basavakalyān;-77.8
+Luancheng;-95.4
+Yaoundé;-86.4
+Chāpra;23.4
+Avola;36.9
+Riolândia;-49.7
+El Arahal;-89.0
+Beni Oulid;52.9
+North Lynnwood;84.0
+Rimavská Sobota;32.9
+Khunti Dhanaili;18.2
+Borgaon;53.4
+Magway;64.1
+El Arahal;44.2
+Al Ḩā’ir;-30.1
+Cantanhede;-16.2
+Zaladanki;96.3
+Vyazemskiy;8.9
+Ayapango;61.0
+Urcos;-8.8
+Kostanjevica na Krki;61.4
+Follonica;-91.0
+Moldova Nouă;51.3
+St. Albert;46.3
+Busko-Zdrój;15.3
+Prainha;20.1
+Mayāng Imphāl;58.5
+Ungutūru;-2.0
+Sibi;-96.2
+Băicoi;6.3
+Orvault;61.0
+Daanbantayan;57.2
+Genk;-6.9
+Agar;-46.3
+Vohitrafeno;7.4
+Morsang-sur-Orge;-45.5
+Kazan;-23.9
+Clorinda;8.8
+Chiari;-2.2
+Anapoima;11.4
+Abū Qīr;-99.8
+Thinadhoo;45.2
+Goio-Erê;26.8
+Farāshband;-3.2
+Nosiarina;-78.5
+Parobé;-35.4
+Jose Abad Santos;87.9
+Buco Zau;-49.7
+Senjān;-40.3
+Kingston upon Hull;47.5
+Linton Hall;-15.8
+Jaraguá do Sul;-36.9
+Ribeirão do Pinhal;95.9
+Frontino;-49.6
+Araújos;93.1
+Vembārpatti;-69.1
+Chislehurst;99.1
+Rosamond;-76.9
+Sant Sadurní d’Anoia;-24.6
+Manglūr;20.2
+Viana do Castelo;-10.5
+Piriyāpatna;68.1
+Citong;94.5
+Arbon;-96.8
+Bījār;57.1
+Hire Vadvatti;-63.0
+Stretford;7.2
+Sokotindji;-16.1
+Tillaivilāgam;-93.1
+Imus;71.1
+McKinney;-57.5
+Espinho;9.3
+Qarabulaq;3.9
+Ich’ŏn;-0.1
+Fengyicun;99.4
+Montauban;30.0
+Caucete;62.9
+Masagua;37.8
+To‘raqo‘rg‘on;-27.9
+Stretford;-5.6
+Judenburg;-18.6
+Peer;12.7
+Nurmijärvi;-34.5
+Khat Azakane;-46.6
+Rosaryville;1.6
+Belén;27.0
+Kāndra;34.8
+Belvedere Park;79.4
+Oegstgeest;-29.2
+Razkrižje;-16.0
+Channelview;-43.1
+Ed Damer;33.1
+Nūtakki;-20.9
+Diinsoor;-54.8
+Hampton;-78.0
+Kuroishi;90.2
+Mvurwi;-75.6
+Talca;-96.1
+Čitluk;35.9
+Makurdi;9.7
+Gersthofen;74.3
+Enurmino;-22.6
+Kāshmar;-80.8
+Rānāpur;-20.4
+Ixhuatlán del Sureste;-95.0
+Uriangato;29.9
+Cassina de’ Pecchi;66.2
+Al Badrashayn;-77.8
+Alagappapuram;-94.6
+Chandauli;-46.4
+Kizlyar;-69.8
+Wang Saphung;-77.9
+Pipra Dewās;96.3
+Ribeirão;91.9
+Mugalivakkam;25.4
+Vakfıkebir;-23.9
+Wahiawa;52.8
+Ludvika;72.3
+Seia;-48.1
+Ouargaye;21.5
+Quillacollo;-31.2
+Baishan;-99.5
+Campechuela;7.4
+Dalanzadgad;64.1
+Kapadvanj;-86.7
+Anjialava;-69.6
+Villers-lès-Nancy;8.7
+Suwāsra;-85.2
+Papeete;-29.0
+Užice;-22.5
+Liévin;16.6
+Chicomba;-45.7
+Porto Alegre;-96.9
+Prescot;88.2
+Maidencreek;-25.8
+Tellicherry;-61.1
+Unquillo;-49.9
+Roccapiemonte;-33.0
+Bryan;70.8
+San Andrés Xecul;-93.4
+Nazilli;22.5
+Chīmalapādu;-82.4
+Tirat Karmel;76.6
+Fort Thomas;34.2
+Ruislip;-61.9
+Lauriyā Nandangarh;36.7
+Porirua;39.9
+Fulin;-11.7
+Sankt Wendel;-68.3
+Olivença;98.3
+Ganthier;22.0
+Pithampur;-38.1
+E’erguna;-71.3
+Cremlingen;36.7
+Rutherford;-97.3
+Qiryat Yam;-26.5
+Zawyat Sidi Ben Hamdoun;35.3
+Rendon;-44.7
+Sylvan Lake;82.1
+Paola;52.6
+Bétérou;51.4
+Singhāna;58.1
+Bruchhausen-Vilsen;-72.8
+Laungowāl;48.5
+Bollnäs;13.9
+Tilhar;-10.0
+Stockach;55.2
+Samborondón;88.8
+Enid;76.8
+Salihli;-26.8
+Whyalla;-4.6
+Belo;67.9
+Oleksandriia;28.7
+Aracataca;44.6
+Tuam;-37.1
+Suohe;-76.6
+Busesa;-26.0
+Licheng;-54.1
+Tmassah;-38.6
+Jovellanos;96.7
+Hrib-Loški Potok;91.5
+Toyono;-52.4
+Dondon;87.8
+Skhirate;-68.9
+Qianxi;-66.2
+Ulukışla;56.1
+Yacimiento Río Turbio;28.7
+San Sebastián Coatán;51.1
+Sahatsiho-Ambohimanjaka;-68.0
+Marlboro;-27.7
+Barabai;8.8
+Bluefield;-89.7
+Birobidzhan;-71.2
+Fujiyoshida;-29.8
+La Paz Centro;-43.9
+Lamesa;-86.8
+Bardejov;3.6
+Pointe-à-Pitre;0.7
+Port of Spain;-69.5
+Tomboutou;90.2
+Blue Springs;-54.2
+Sacaba;-70.7
+Kondaparti;-13.3
+Elwood;-84.0
+Kalamáta;-64.2
+Vicência;-91.9
+Beltinci;-49.1
+Mahmūda;98.5
+Içara;-50.1
+Tarui;-29.9
+Maitland;15.0
+Chandwā;29.2
+Tomboutou;-33.3
+Salto Grande;-75.7
+Qian’an;47.2
+Mahugaon;-79.9
+Niederkrüchten;76.8
+Harbel;12.9
+Villeneuve-lès-Avignon;-64.3
+Honggu;45.4
+Jagüey Grande;-8.4
+Morris;-45.3
+Rio de Mouro;17.3
+Sorocaba;-66.1
+Goianápolis;-37.5
+Villasanta;0.5
+Vich;54.5
+Villa Luzuriaga;-12.7
+Saint-Cyprien;-0.8
+Brierley Hill;-30.5
+Santander;-82.6
+Segrate;-65.1
+Gemona del Friuli;-70.7
+Waalre;-52.3
+Rumonge;-22.8
+Schkeuditz;-55.6
+Băicoi;-29.7
+Rothenburg ob der Tauber;-99.4
+Trabia;69.8
+Rāmāreddi;-97.0
+Pintadas;90.7
+Kika;-75.4
+Mégara;54.8
+Izola;16.5
+Carnaíba;-76.8
+Karavan;-63.0
+Genemuiden;-93.1
+Sardinal;-34.4
+Arerāj;-88.8
+Elko;-29.5
+Ciudad Guzmán;-80.3
+Ugento;69.4
+Ulft;48.3
+Svitlodarsk;-27.0
+Kuldīga;-40.7
+Marne;-33.5
+Chesapeake Ranch Estates;1.5
+Kempsey;-78.8
+Vincent;-94.0
+Murshidābād;-50.1
+Gori;42.2
+Aringay;-48.2
+Saymayl;-25.2
+Wadhraf;48.0
+Esquipulas;-10.3
+Summerstrand;-88.6
+Desnogorsk;98.7
+Corral de Bustos;41.0
+Tivaouane;-75.6
+White Meadow Lake;1.5
+Swift Current;4.9
+Rūdarpur;-54.0
+Ersekë;-55.5
+Groß-Umstadt;-16.7
+Bhangha;76.1
+Hollister;-60.4
+Bạc Liêu;-3.9
+Alessandria;69.2
+Peachtree Corners;97.0
+Kanyākulam;-55.1
+Pueblo Nuevo;22.3
+Campo do Meio;72.8
+Bayyavaram;47.9
+Laoac East;69.2
+Ajjampur;-75.7
+Sagunto;42.5
+Qaskeleng;-4.1
+Sint-Truiden;-77.8
+Don Galo;-17.7
+Tumaco;-98.4
+Diedorf;-85.9
+Vidin;47.1
+Anshan;-59.4
+Chiroqchi;6.9
+Apače;-85.2
+Musile di Piave;-65.4
+Ban Pa Sak;-26.0
+Agar;-3.2
+Arcos de la Frontera;0.8
+Daulatnagar;98.1
+Spresiano;-81.5
+Lamrasla;-42.8
+Jerez de la Frontera;99.5
+Glasgow;46.3
+Rafḩā;4.6
+Highlands Ranch;-12.0
+Tixkokob;-65.7
+Victorville;18.6
+Kać;89.0
+Ch’ŏngjin;-25.7
+Bafoulabé;85.2
+Araçuaí;87.8
+Natitingou;-12.7
+Aspe;94.0
+Yacimiento Río Turbio;54.8
+Zielona Góra;-74.2
+Sakai;1.1
+Gollalagunta;18.2
+Barrie;-24.6
+Guider;-95.9
+Pleven;37.2
+Oxon Hill;82.3
+Balch Springs;-99.8
+Caiguantun;-18.1
+Taganrog;82.8
+Coonoor;49.3
+Tarīn Kōṯ;67.5
+Karlovac;-76.5
+Nova Varoš;44.1
+Ixtapa;-65.7
+Bailleul;-93.5
+Heydərabad;54.7
+Southbridge;25.5
+Caçador;45.1
+Weiyuan;-83.7
+Selm;-46.1
+Hamminkeln;-89.8
+Talsint;48.0
+De Haan;-13.2
+Motta Sant’Anastasia;70.2
+Ben Zakkay;65.8
+Highlands Ranch;-55.8
+Jiaxing;-89.7
+Siguatepeque;19.1
+Manglaur;61.7
+Taylorville;-48.1
+Buluko;-46.1
+Pāpanāsam;64.5
+Ambinanitelo;43.0
+South Amboy;22.5
+Nakashunbetsu;-53.1
+Chapel Hill;20.5
+Lautaro;34.3
+Maroua;72.4
+Beni Abbès;-53.0
+Saubara;-64.1
+Mvurwi;95.0
+Harare;-57.8
+Déville-lès-Rouen;19.5
+Barrinha;-45.4
+Lanškroun;-19.6
+Lejanías;76.9
+Broughty Ferry;-48.6
+Kisara;-97.5
+Cottbus;-0.4
+Bad Vilbel;52.4
+Oklahoma City;13.5
+Rong Kwang;53.6
+Lagawe;25.0
+Woodstock;-85.3
+Keene;-92.4
+Ianantsony;-58.7
+Okondja;56.1
+Asakura;83.0
+Chumphon;-34.8
+Chārakunda;-79.6
+Cornélio Procópio;65.9
+Masdi;49.3
+Croissy-sur-Seine;11.8
+Ahlaf;-64.1
+Naduvalūr;-68.6
+Pórto Ráfti;-26.4
+Lummen;-74.0
+Mennecy;-24.9
+Natividade do Carangola;33.0
+Iradan;51.5
+Dingolfing;83.6
+Fervedouro;67.7
+Songyang;-96.0
+Maşyāf;-78.7
+Jericoacoara;80.7
+Talugtug;84.4
+Pedro Carbo;-25.1
+Grenchen;-18.4
+Anatolí;70.6
+Quitilipi;96.4
+Matías Romero;-77.1
+Anosibe-Ifanja;96.5
+Tivoli;-28.6
+Bakhor;-15.4
+Caçador;-60.8
+Terra Roxa d’Oeste;13.3
+Australia;26.2
+Teguise;-2.4
+Trancoso;-5.0
+Phú Mỹ;46.3
+Hemer;-28.9
+Lundazi;49.3
+Slobozhanske;-67.6
+Santiago Nonualco;88.1
+Zhongshu;42.8
+Motala;-73.4
+Daitōchō;-10.4
+Los Hidalgos;23.2
+Ballston;77.3
+Pedregulho;66.0
+Başmakçı;58.4
+Hopkins;-71.0
+San Pedro Garza García;-52.6
+Proletarsk;66.3
+Malaṅgawā;-78.9
+Heydərabad;-78.8
+Tsimafana;5.0
+Missão Velha;55.7
+La Orotava;-40.7
+Gennevilliers;-24.7
+Peñaflor;-7.7
+Maina;5.3
+Caraguatatuba;-21.1
+Reykjavík;-97.6
+Shtime;-12.8
+Puurs;-30.0
+Deogarh;-4.9
+Carovigno;-78.9
+Poiana Mare;-14.4
+Ferkessédougou;-19.5
+Castenedolo;-94.2
+Hochdorf;59.0
+Lins;-48.0
+Cintalapa de Figueroa;59.0
+Aznakayevo;-71.5
+Samaipata;61.8
+Chettipulam;68.3
+Nūtakki;-93.1
+Stallings;-34.3
+Emden;-87.0
+Kuchai Kot;-98.1
+Nova Varoš;-82.0
+Fairfield Glade;-39.0
+Lendinara;-76.8
+Sesvete;95.1
+Kerkrade;-86.2
+Tulagi;7.0
+Sidmouth;-50.4
+Nizhniy Tagil;-66.4
+Shankarampet;-20.7
+Kakraul;7.4
+Sidi Allal Tazi;-0.0
+Linda;-37.6
+Yangambi;-26.1
+Pineville;23.6
+Mukkūdal;91.4
+Moldova Nouă;38.3
+East York;69.2
+Houston;83.6
+Rūdarpur;75.7
+Vilyuysk;-63.6
+Peißenberg;-31.9
+Homewood;36.1
+El Retorno;41.1
+Montes Altos;44.3
+Kirkja;6.6
+Ixtapa;17.0
+Hardinxveld-Giessendam;94.6
+Krems an der Donau;-76.1
+Chaugāin;-63.8
+Ash Shūnah ash Shamālīyah;-41.3
+Wum;11.4
+Songkhla;-89.9
+Ylöjärvi;-12.4
+Hikone;-46.8
+El Puerto de Santa María;-82.8
+Bugasong;49.5
+Ambodiriana;-4.5
+Viersen;-8.7
+Zhanggu;65.6
+Capitola;21.4
+Des Plaines;-62.6
+Fyzabad;0.5
+Dabutou;-1.2
+Le Puy-en-Velay;20.7
+Brāhmanbāria;23.2
+Tashkent;65.2
+Pallāvaram;-48.7
+Santa Catalina;82.3
+Baravāt;40.8
+Cherry Hill Mall;-46.3
+Nizwá;-62.2
+Waggaman;48.7
+Vänersborg;-80.1
+Tiruvalanjuli;49.6
+Quetzaltenango;39.6
+Ouadhia;65.8
+Arriaga;-63.6
+Rockledge;-48.8
+Punta Arenas;3.3
+Ambon;93.2
+Verrières-le-Buisson;-37.4
+Giardini;-27.8
+Sarea Khās;16.9
+Migori;14.0
+Shuangluan;69.3
+Amarwāra;34.2
+Juiz de Fora;0.7
+Ambatoria;-77.6
+Barberton;32.3
+La Montañita;46.7
+Warzat;51.5
+Chākand;-54.0
+Agourai;-31.0
+Colombes;65.4
+Crestwood;-98.6
+Ratne;-65.0
+Hekou;68.8
+Cherakhera;50.0
+El Ghâzîyé;-62.6
+Unnāo;40.7
+Khāchrod;91.7
+Penafiel;18.4
+Târgu Secuiesc;17.6
+Antsinanantsena;41.0
+Baksan;-31.8
+Putian;86.8
+Mariupol;-32.3
+Jersey City;15.3
+Al Hāmah;-4.2
+Minna;-97.4
+Villa O’Higgins;58.8
+Safājā;-81.9
+Venustiano Carranza;90.8
+Paranatama;-75.6
+Botuporã;98.0
+Maski;90.1
+Senirkent;78.0
+Binzhou;-23.6
+San Gregorio de Nigua;25.6
+Pâ;97.5
+Sovicille;-54.0
+Naranjo;70.7
+Pleasant Hill;-14.6
+Siddipet;-44.5
+Cové;79.2
+Daying;20.4
+Omutninsk;-29.1
+Buco Zau;36.7
+Ambohimangakely;19.0
+Kita-ku;-99.2
+Farāshband;-39.8
+Elliot Lake;36.4
+Mundybash;37.9
+Limeira;27.4
+Berlaar;74.1
+Cuautitlán;50.2
+Swissvale;-32.9
+Ciempozuelos;92.7
+Kondrovo;-62.1
+San Antonio Sacatepéquez;39.2
+Audincourt;-57.0
+Sombrio;67.3
+Bodupāl;14.9
+Las Matas de Santa Cruz;-40.6
+Loimaa;19.0
+Las Matas de Santa Cruz;-94.5
+Gorantla;89.0
+Sohtha;-55.3
+Moldava nad Bodvou;-39.8
+Silivri;-60.5
+Sahuayo de Morelos;15.4
+Diest;41.3
+Castelo Branco;-89.0
+Asfarvarīn;-78.6
+Ottakkadai;-74.7
+Ica;45.7
+Had Dra;-3.9
+Port-Margot;21.2
+Enfield Lock;57.2
+West Glens Falls;-19.0
+Espera Feliz;27.1
+Surinam;68.0
+Lahnstein;-62.0
+Cherniakhiv;77.2
+Medan;-49.9
+Cuautitlán;-92.3
+Fécamp;-29.7
+Jwaneng;8.0
+Thorold;57.5
+Montalto di Castro;36.1
+Vinhedo;-75.1
+Hoyo de Manzanares;39.0
+Gig Harbor;99.4
+Shizhaobi;-69.4
+Nalgora;94.8
+Ấp Phú Hải;-87.3
+Worksop;-69.2
+Periyapōdu;-63.1
+Charter Oak;68.2
+Birobidzhan;90.8
+Kamisato;-62.4
+Nārāyangarh;-46.4
+Achhnera;-22.4
+Cislago;69.5
+Flixton;-75.4
+Bhuj;-34.5
+Hyrum;91.7
+Czechowice-Dziedzice;2.6
+Inveruno;51.3
+Ārān Bīdgol;18.2
+Chinnatadāgam;8.3
+Ampataka;10.4
+Sebt Labrikiyne;-13.4
+Pasivedalajimma;52.2
+Denison;66.0
+Gadda Madiral;-13.0
+Kīlrājakularāman;-11.4
+Majene;-33.2
+Rehti;-44.9
+Roxana;0.3
+Lower Burrell;64.1
+Kozmodemyansk;-26.8
+Sokal;35.7
+Tân Sơn;-79.6
+Farmersville;56.6
+Rosamond;-75.5
+Chirilagua;-21.8
+Petushki;-82.1
+Kafr Rūmā;43.9
+Sodo;6.4
+Uppalapādu;-14.5
+Luton;70.3
+Sainte-Anne-des-Plaines;42.5
+Pariaman;82.0
+Melbourne;56.2
+Āgiripalle;76.1
+Ledegem;50.0
+Bautzen;69.9
+Bernardino de Campos;-17.2
+Luofeng;-22.8
+Alamedin;-96.7
+Zumaia;-77.2
+Mariakerke;1.3
+Gaoya;16.2
+El Cacao;1.2
+Jordânia;-98.8
+Messina;83.5
+Wolfsburg;49.7
+Jhang City;41.7
+Tecali;-58.4
+Vadamugam Vellodu;68.7
+Pedappai;-42.8
+Baclayon;-35.3
+Grinnell;-46.1
+Stockton;-52.0
+Igaporã;-10.3
+Brčko;-99.2
+Ferozepore;97.2
+Corciano;-94.4
+Villa Cañás;-70.7
+Godhra;-0.8
+Walcourt;95.9
+Veruela;73.4
+Junqueirópolis;-19.4
+Jangipur;14.4
+Waverly;72.4
+Zhaitangcun;-54.1
+Trstenik;75.9
+Bāghīn;3.5
+Kannapolis;-8.3
+Loyalsock;-40.2
+Owando;-77.7
+La Mata;-73.5
+Iturama;11.6
+Yekāmbarakuppam;-31.4
+Bariārpur;82.5
+Satyavedu;-24.1
+Artondale;32.3
+Coesfeld;76.5
+Śrem;-65.8
+Kollegāl;9.0
+Cave;-28.5
+Park Forest;-31.7
+Sfântu-Gheorghe;21.5
+Quilengues;-65.9
+Remada;-11.6
+São Gonçalo do Pará;-38.7
+Ashington;-67.9
+Rivera;20.9
+Dupnitsa;5.6
+Panniyannūr;0.4
+Katra;-40.8
+El Menzel;-99.7
+Ichinoseki;-72.1
+Masagua;-81.7
+Arcos de Valdevez;-88.1
+Thun;-10.0
+Bakhtiyārpur;-6.8
+Marlboro;88.9
+Chumphon;35.1
+Vennesla;-92.3
+Oelsnitz;-45.8
+Benslimane;40.1
+Snezhnogorsk;-5.3
+Yeonil;-1.6
+Hacienda Heights;-79.1
+Beylikdüzü;13.7
+Braine-le-Comte;-49.7
+Vynohradiv;-52.5
+Gopichettipālaiyam;-2.2
+Chenalhó;-80.1
+Rosario de Lerma;71.6
+Kueneng;16.8
+San Benito;-83.7
+Peraiyūr;-53.1
+Peddapalli;-88.7
+Pokaran;-90.3
+Gubkin;-32.3
+Toretsk;99.4
+Mukumbura;-86.8
+Wegberg;78.8
+Tsing Yi Town;-36.0
+Siderno Marina;15.8
+Bela Vista;39.8
+Alamnagar;75.9
+Fatehpur Bāla;13.9
+Prokhladnyy;-66.3
+Khargāpur;36.5
+Sukhoy Log;42.1
+Potukonda;99.8
+Ramain;32.1
+Pedro Carbo;25.0
+Agía Varvára;-80.6
+Dharamshāla;-78.5
+Lagoa do Ouro;-47.8
+Bānk;-11.9
+Nokha;84.4
+Mālaimārpuram;-11.7
+Kampong Chhnang;-45.0
+Karmauli;24.2
+Pillaiyārkuppam;-16.9
+Villa Hayes;98.3
+Neosho;94.6
+Porsgrunn;-33.1
+Cambará;-58.5
+Dzuunmod;0.7
+St. Cloud;23.2
+Kożuchów;86.0
+Carlos Casares;3.4
+Borča;5.9
+Ţanţā;-56.8
+Kondaparti;55.6
+Madhepur;-65.1
+Cornate d’Adda;84.1
+Mougins;13.4
+Cochabamba;-25.3
+Casandrino;18.8
+Shāl;70.0
+Afyonkarahisar;95.1
+Iguig;-31.3
+São Roque;70.4
+Opochka;-17.7
+Pāvugada;7.5
+Crema;78.6
+Frankenberg;3.6
+Kuznetsk;32.7
+Paranhos;84.1
+Meadowbrook;-81.1
+Ust’-Ordynskiy;-38.6
+Bystrzyca Kłodzka;11.2
+Nīkshahr;-8.7
+Tangerhütte;91.2
+Quixelô;-87.0
+Moers;99.7
+Bijni;30.5
+Francisco Morato;-23.9
+Belle Glade;-99.1
+Saqqez;-94.4
+Merriam;-85.4
+Kārkala;36.7
+El Mirage;2.2
+Kūhbanān;-35.0
+Khunti Dhanaili;-42.4
+Rivera;-86.6
+Highlands Ranch;17.6
+Long Branch;-64.5
+Bela Vista de Minas;96.0
+Taperoá;0.6
+Hendījān;-77.5
+Schwarzenbek;19.0
+Mijas;93.2
+Crimmitschau;-6.3
+Marechal Floriano;48.0
+McKinleyville;17.1
+Merseburg;-45.7
+La Belleza;8.9
+Mandaguari;-67.9
+San Miguel de Papasquiaro;-12.4
+New Washington;8.4
+Sfântu-Gheorghe;-39.7
+Bignay;-51.0
+Kozmodemyansk;-2.5
+Koriyama;-39.1
+Sidi Ettiji;-65.6
+Market Harborough;-50.1
+Gaizhou;-96.7
+Bela Vista de Minas;-17.7
+Norzagaray;44.0
+São Sebastião da Grama;-36.0
+Dhanwāda;-54.6
+Sedaví;-6.1
+Novosibirsk;-58.0
+Dombarovskiy;28.3
+Venturosa;-42.9
+Jaqma;-95.9
+Senmanat;-3.9
+Kolappalūr;14.4
+Kalaa Srira;88.3
+Central Falls;10.7
+Sivaganga;-81.4
+Cornélio Procópio;-88.1
+Toulou;-80.0
+Cochabamba;-85.8
+Muri;-97.5
+Arcos de la Frontera;-97.4
+Kresek;55.3
+Steffisburg;-1.6
+Kita Chauhāttar;30.6
+Duvvūru;31.1
+Maḩmūd-e Rāqī;58.7
+Týrnavos;-18.3
+Achacachi;5.9
+Zamora;-27.2
+Nagykálló;-67.4
+Winder;-2.6
+Redland;-94.9
+Esquipulas;10.5
+Igny;-14.5
+Puente de Piedra;65.4
+Bhārella;-91.1
+Orly;53.4
+Hashimoto;-70.2
+Tiana;-48.7
+Bamba;-75.6
+Bijaynagar;-42.5
+Januário Cicco;-58.3
+Bjelovar;42.3
+Esfarāyen;-18.3
+San Francisco Zapotitlán;85.7
+Silva Jardim;34.0
+Denia;-45.2
+Gaada;-44.5
+South Amboy;66.2
+Malaimbandy;-23.2
+Palangarai;80.5
+Islamabad;21.9
+Māndleshwar;-71.0
+Chennimalai;49.7
+Pilón;-31.4
+French Valley;22.7
+Dingras;-97.4
+Jhundo;0.0
+Selibe Phikwe;-3.6
+Pervomaysk;-59.0
+El Socorro;86.5
+Linstead;-41.7
+Hacienda Heights;-85.7
+Baruun-Urt;-33.9
+Rosário do Sul;35.4
+Pinar del Río;-94.6
+Laredo;-42.3
+Panamarattuppatti;67.3
+Kampenhout;-61.4
+Oklahoma City;-17.9
+Sint-Truiden;40.1
+Marly-le-Roi;68.2
+Nepālgañj;82.2
+Niutuo;56.1
+Brus Laguna;-17.3
+Testour;4.0
+Kümmersbruck;-2.6
+Mukumbura;67.2
+Tissa;12.3
+Mahājerān-e Kamar;97.9
+Quảng Yên;-86.2
+Sidcup;-24.1
+São Pedro do Piauí;-91.9
+Port Alberni;-79.0
+Paso de los Libres;88.3
+Clearview;-40.2
+Ipueiras;-47.6
+Sherobod;-43.3
+Ulft;-91.0
+Ārān Bīdgol;-86.2
+Dubăsari;-97.6
+Alto Paraná;73.6
+Pākdasht;29.5
+Paita;-38.7
+Los Minas;33.7
+Tournefeuille;80.1
+Antanimora Atsinanana;15.8
+Bina;44.7
+Glazoué;-23.6
+Nagoya;8.0
+Sagunto;15.4
+Mennecy;73.2
+Ozark;77.9
+Domaa-Ahenkro;-72.1
+Florence-Graham;-30.9
+Vladivostok;-72.8
+Muskego;-21.0
+Raisio;67.6
+Tchitado;64.1
+Qincun;-44.8
+Masty;12.0
+Douar Jwalla;-68.9
+Hemsworth;-7.3
+Guanagazapa;41.3
+Belauncha;-93.8
+Nanmucun;80.6
+Mainburg;-41.7
+Soreang;-55.7
+Toulal;32.4
+Codó;6.6
+Masaki;-14.3
+Hennigsdorf;51.1
+Pipra Latīf;87.4
+Ḩaraḑ;63.9
+Mirnyy;-92.3
+Santa Maria Madalena;-40.2
+Gryazovets;36.4
+Plasencia;-63.5
+Ylöjärvi;-64.3
+Annemasse;-77.0
+Rayón;31.5
+Yantai;-39.3
+Rijkevorsel;-87.4
+Spresiano;-34.8
+Votorantim;-94.5
+Mirnyy;-79.7
+Toyooka;-63.6
+Prestwick;-99.0
+Park Hills;90.0
+Khorol;80.3
+Mairena del Alcor;52.3
+Berkovitsa;-74.5
+Novgorodskoye;98.2
+Groznyy;-7.6
+Natitingou;-74.1
+Hayward;-49.5
+Muri;-79.4
+Pokrovka;36.7
+Talatamaty;6.3
+Nansang;-39.5
+Bernalda;24.1
+Comalapa;-91.2
+Lapua;65.1
+Vitomarci;-75.1
+Severo-Kuril’sk;96.0
+Kurayoshi;-57.6
+Skarżysko-Kamienna;93.5
+Luuq;51.7
+Videm;68.7
+Lukaya;47.1
+Bailleul;-40.7
+Bømlo;-54.6
+North Lynnwood;-46.6
+Rush;-97.6
+Shinozaki;-59.2
+Hillsdale;88.9
+Néa Ionía;35.7
+Petare;-93.9
+Lerik;-46.7
+Plottier;-83.6
+Edwards;58.5
+Peabiru;44.4
+Belākoba;41.3
+Tarko-Sale;86.7
+Rafelbuñol;-44.4
+Arpaçay;69.7
+Lupao;73.4
+Lézignan-Corbières;-98.1
+As Salţ;-41.1
+Griffith;-66.9
+Igarapé;-35.3
+Chillum;0.1
+Mỹ Hòa;20.2
+Rogaška Slatina;-58.9
+Lüchow;59.5
+Westview;0.7
+Isulan;90.9
+Frouzins;15.7
+Las Delicias;72.7
+Katwijk;9.0
+Pyt’-Yakh;-66.9
+Meguro;-62.6
+Āgiripalle;-12.3
+Suō-Ōshima;-24.1
+La Porte;72.4
+Amuria;27.8
+La Independencia;90.0
+Çine;-60.1
+Baiheqiao;37.2
+Sitrah;94.6
+Pietà;48.5
+Fort Walton Beach;-87.2
+Pendleton;26.1
+Chamblee;-95.8
+Formia;-29.7
+Cuyotenango;84.6
+Campobello di Mazara;-88.0
+Al Ḩībah;89.4
+Arras;-83.5
+Diébougou;-46.1
+Corinto;-12.9
+Canatlán;-83.9
+Kameyama;-86.9
+Zhongzai;36.1
+Saint Helena Bay;85.4
+Capela do Alto;73.2
+Awjilah;-16.1
+Hazorasp;48.3
+Macedonia;0.1
+Lumberton;-86.8
+Bushey;94.1
+Baao;24.9
+Sedaví;35.7
+Cintalapa de Figueroa;-78.3
+Española;-6.7
+Ciénega de Flores;27.3
+Cahokia;-94.8
+Turbo;55.3
+Gotse Delchev;-28.9
+Valerik;-28.2
+Chōfugaoka;-71.2
+Sāram;11.8
+Tanakkangulam;-61.1
+Qarchak;77.1
+Floriano;33.6
+Sāmba;82.2
+Ninohe;-44.8
+Sonāmukhi;-84.8
+Hita;-37.2
+Hilter;-66.2
+Chumphon;10.3
+Pandua;95.4
+Cunday;-65.4
+Lauriyā Nandangarh;-41.5
+Hipparga;3.4
+Buved;45.4
+Valsequillo de Gran Canaria;-90.2
+Méru;-17.2
+Broadwater;-61.4
+Bir Ghbalou;2.4
+Birigui;-21.3
+Deer Park;83.3
+Dhusar Tikāpatti;65.8
+Heusweiler;-73.4
+Pariaman;54.2
+Hueyapan de Ocampo;69.6
+Linton Hall;-73.4
+Camocim de São Félix;4.9
+Río Cuarto;31.6
+Qasigiannguit;55.2
+Phnom Penh;67.7
+Montemorelos;5.8
+Spalding;-71.6
+Sannai;83.5
+Tomboutou;-84.3
+Kunsan;-68.0
+Suthālia;-48.1
+Estância;54.8
+Foumbot;51.0
+M’diq;-37.1
+Timmāpur;-5.6
+Diest;-98.2
+Suwon;-35.4
+Rurka Kalān;20.8
+Chencha;52.3
+Teluk Intan;75.8
+Kānp;50.8
+Kambar;21.7
+Echizen;46.9
+Emden;-73.8
+Kayunga;61.4
+Xinnongcun;-53.5
+Machida;-59.0
+Emden;-85.7
+Paducah;42.5
+Mundi;-95.8
+Hopa;-25.2
+Champasak;-83.1
+Meßstetten;-81.4
+Dospat;59.5
+Bordeaux;52.4
+Gardner;14.8
+Fara;-89.9
+Can-Avid;-21.4
+San Francisco del Rincón;-58.7
+Cattolica;-5.2
+Baraçlândia;-9.9
+Punjai Lakkāpuram;80.4
+Sante Bennūr;71.9
+Fukuyoshi;-46.0
+Basārh;57.2
+Wieluń;48.6
+Paithān Kawai;-20.7
+Pieve di Soligo;84.3
+Ciudadela;1.1
+Esmeralda;-15.4
+Amgachia;54.5
+São João da Boa Vista;95.0
+Colle Salvetti;-45.2
+Fonsorbes;-98.7
+Sibiti;53.3
+Hampton;-97.0
+Hatibanda;36.7
+Micco;7.6
+Borča;-27.7
+Elkridge;-58.0
+Sun City Center;-81.6
+Sabang;50.3
+Rogoźno;-31.7
+Tecamachalco;-7.8
+University of Virginia;-38.0
+La Huacana;23.0
+Kisara;35.8
+Pula;52.1
+Amboanjo;-16.4
+Vite;63.7
+Anjēhalli;-16.1
+Três Coroas;14.9
+Oldebroek;10.9
+Tarboro;89.9
+Taketoyo;21.4
+Lagoa Santa;20.1
+Ngaputaw;-73.5
+Montville;-49.2
+Sikeston;33.3
+Wenxicun;-44.7
+Le Chambon-Feugerolles;95.1
+Ambodisikidy;-74.0
+Kalmiuske;-20.7
+Shamsābād;82.0
+Oulad Amrane el Mekki;-47.1
+Jangamguda;99.2
+Hasanpur;84.1
+Gūlyam;23.9
+Mandaue City;59.7
+Biknūr;92.9
+Guelma;92.3
+Douz;-78.5
+Shibuya;-46.7
+Oak Grove;34.6
+Lavello;69.4
+Ban Tat;-86.0
+Kannapolis;-30.5
+Lier;-16.0
+Cotabato;72.1
+Coto de Caza;4.7
+Dornakal;27.5
+Al Miqdādīyah;-46.3
+Sonāda;-26.8
+Aracataca;-91.1
+Wolfsburg;-18.7
+Haddington;56.5
+Schöningen;10.9
+Várzea do Poço;79.8
+Mandza;-49.3
+Alcácer do Sal;87.8
+Vaterstetten;-95.8
+Tenosique;-97.0
+Los Blancos;84.4
+Jinchang;-98.9
+Balboa;61.9
+Kalvārpatti;-30.6
+Ballenstedt;48.7
+Sāhpur;-65.1
+Oneida;-29.2
+Lerwick;3.3
+Nísia Floresta;-32.7
+Belo;73.8
+Schübelbach;-39.1
+Gersthofen;35.3
+Tepetlaoxtoc;-3.5
+Ratne;-20.1
+Casiguran;-98.8
+Zandvoort;-8.2
+Río Negro;71.9
+Rodgau;7.9
+Virei;97.6
+Hongseong;48.5
+Patos de Minas;9.4
+Tomioka;-86.7
+Channelview;-14.5
+Raxaul;-7.6
+Bridgetown;48.2
+Pillaiyārkuppam;-91.4
+Pudtol;-52.9
+Serra Branca;-63.3
+Vandalia;-90.0
+Qianxi;-0.1
+Kastsyukovichy;74.8
+Mohlanapeng;71.1
+Sivaganga;83.9
+Erquelinnes;25.3
+Don Galo;85.0
+Kafr Shukr;-17.4
+Uppidamangalam;-69.9
+Cidelândia;-92.7
+Huité;-53.8
+Lohur;65.7
+Wijnegem;-23.4
+Shāl;-70.4
+Kirchberg;-86.6
+Kurobeshin;37.5
+Hendaye;38.4
+Hermantown;70.4
+Kottaiyūr;-39.9
+Valenzano;73.5
+Fort Walton Beach;96.4
+Porto Belo;-77.2
+Awfouss;-6.6
+Alamedin;99.8
+Rorschach;45.7
+Ati;-26.2
+Winchendon;-62.8
+Chīpurupalle;-74.9
+Recreio;83.5
+Golmeh;-17.2
+Welby;-33.9
+Telica;-56.9
+Jocotepec;79.8
+Ptuj;-32.1
+Sveta Trojica v Slovenskih Goricah;98.5
+Chābahār;-77.8
+Sartā;-48.5
+Kuvshinovo;-97.1
+Naklo;-6.7
+West Haven;-9.5
+Minglanilla;-10.4
+Whyalla;-15.6
+Zorneding;40.8
+Kirkwall;-52.4
+Burkburnett;-37.7
+Chandanais;-75.7
+Daet;44.0
+Sīlamalai;-13.8
+Tieling;34.2
+Marijampolė;-1.9
+Longreach;-9.6
+Miyako;24.9
+Törökszentmiklós;57.8
+Douz;14.5
+Mae Sai;14.6
+Yaroslavl;99.2
+El Viejo;69.9
+Atescatempa;85.1
+São João;0.0
+Montbéliard;-54.8
+Yuzhno-Sukhokumsk;79.5
+Tivaouane;-0.4
+Poulton le Fylde;-90.0
+Thame;-39.7
+Gallarate;-67.7
+Panfilovka;83.5
+Muskegon;-22.4
+Jawhar;49.7
+Pôrto Seguro;-87.6
+Bhāsaula Dānāpur;-5.5
+Gandikunta;81.5
+Red Hook;20.2
+Campagnano di Roma;89.9
+Vallejuelo;-60.8
+Thogadūru;-7.5
+Pidugurālla;14.9
+Ciudad Río Bravo;-15.7
+Garopaba;-66.9
+Skierniewice;-97.2
+Atalaia do Norte;88.4
+Attimarappatti;9.4
+Analamary;15.2
+Jandaíra;-17.5
+Caiguantun;-97.2
+Aso;-77.5
+Auria;46.9
+Bourg-en-Bresse;98.1
+Coulsdon;-60.5
+Nikaweratiya;86.4
+Mateus Leme;-57.9
+Birigui;1.5
+Anloga;45.5
+Oststeinbek;3.2
+Secunderābād;34.6
+Desaguadero;79.2
+Eagle;58.7
+Nanmucun;-28.8
+Barharwa Kalān;69.7
+Nerk’in Getashen;-10.3
+Denain;-19.9
+Sandvika;58.7
+Huozhou;83.3
+Fukuyoshi;53.0
+Humpata;32.1
+Villa Cañás;47.8
+Quakers Hill;51.0
+Ash Shuhadā’;72.3
+Bemarivo;73.3
+Mount Lebanon;97.7
+Nepi;51.1
+Soham;36.9
+Sāmba;-66.9
+Lappersdorf;78.4
+Amalāpuram;-26.3
+Miyazaki;-89.0
+Alagappapuram;69.0
+Ascensión;-16.4
+Maserada sul Piave;13.2
+Panniyannūr;17.4
+Discovery Bay;-89.7
+Zhongshu;-11.8
+Dzuunmod;38.7
+Bunnik;45.4
+Rāsipuram;-44.7
+Rumonge;48.1
+Myitkyina;8.6
+Bron;20.0
+Bradford West Gwillimbury;-14.9
+Kibaha;-47.1
+Fenglu;-92.5
+Soyaló;-6.0
+Plasencia;-2.5
+Texcaltitlán;-61.2
+Assis;-28.6
+Pinole;-25.2
+Los Lagos;53.3
+Teluk Intan;-75.7
+Hyrum;-80.6
+Nezahualcóyotl;-71.6
+Vittorio Veneto;-15.9
+Tipitapa;-81.5
+Sanjāt;-3.7
+Wiang Sa;-86.2
+İskenderun;-75.4
+Babylon;-13.7
+Curridabat;-9.1
+Cimarron Hills;85.2
+Peißenberg;-46.6
+Shankarpalli;-83.2
+Monterey;61.4
+Sonīpat;-0.9
+Vilanova del Camí;-14.3
+Eagle Point;-54.8
+Vālavandānkottai;4.6
+Visnagar;-50.9
+Bānk;-88.0
+Abovyan;-27.1
+Houbu;-99.0
+São Vicente Ferrer;-35.2
+Lučani;14.8
+St. Augustine;-63.4
+Muscle Shoals;14.7
+Shuizhai;86.4
+Akdağmadeni;5.7
+Ambara;98.1
+Grimstad;-64.8
+Behara;-71.1
+Belley;68.7
+Centenario;54.2
+Citlaltépec;-98.0
+Cangandala;40.0
+Ivanava;-76.8
+Gualdo Tadino;32.1
+Castelo Branco;72.3
+Bargas;25.0
+Culiacán;5.4
+Ouyen;20.6
+Kōshū;65.9
+Itapecerica da Serra;15.5
+Mandaguari;-12.8
+Math Lohiyār;-14.9
+Sonepur;-56.7
+Sala;50.4
+Weybridge;-93.7
+La Roche-sur-Foron;-79.4
+San Martin Texmelucan de Labastida;0.3
+Potsdam;-11.0
+Pineville;-88.9
+Wahiawa;-38.5
+Kalyān;-22.1
+Penza;-94.8
+Beohāri;39.2
+Milovice;-7.8
+Veľké Kapušany;-61.0
+Heliópolis;42.0
+Vanderbijlpark;-82.5
+Zumaia;-46.1
+Sindangan;-47.1
+Ōra;45.5
+Albertville;-23.5
+Hempfield;-98.5
+Ixtapaluca;79.7
+Los Minas;-46.6
+Velilla de San Antonio;38.6
+San Bonifacio;-29.6
+Uliastay;49.4
+Vyshhorod;79.4
+Værløse;-7.8
+Ladenburg;-78.3
+Parauli;-59.1
+Santa Marta de Tormes;75.1
+Xinnongcun;-37.7
+Hornsby Bend;11.4
+Tilāri;-43.0
+Martín Coronado;57.1
+Iganga;-2.7
+Kakumiro;-98.5
+Thanhlyin;35.6
+Pidugurālla;12.8
+Ixtapa;29.9
+Yankou;-21.0
+Baishaling;-38.4
+Banfora;-9.3
+Zhongtai;89.9
+Libertador General San Martín;-95.3
+Monticello Conte Otto;86.2
+Mangalagiri;-4.5
+Lagoa do Itaenga;57.3
+Tapejara;47.2
+Kāyankulam;19.0
+Kurāwar;9.5
+Bocaina;42.8
+Belém de Maria;-70.4
+Andranovory;-74.4
+Ciudad Tecún Umán;87.5
+Belvedere Park;-58.0
+Uttamapālaiyam;15.2
+Balsas;-33.2
+Tiverton;-18.7
+Chengannūr;91.3
+Galion;17.3
+Nangavalli;31.1
+Bni Drar;18.8
+Petropavlovsk-Kamchatskiy;40.9
+Senigallia;83.8
+Chansolme;-86.1
+Gersthofen;-81.7
+Pakenham;-13.9
+Groton;-20.2
+Artondale;79.2
+Musile di Piave;-17.2
+Sabinov;-97.8
+Baleno;46.2
+Mozdok;62.5
+Trece Martires City;61.5
+Biot;-36.8
+Oststeinbek;28.0
+Heliópolis;-4.1
+Ejura;7.2
+Hekou;84.3
+São José da Bela Vista;-53.4
+Gyumri;87.3
+Laghzawna;-56.2
+Attock Khurd;-22.6
+Guanagazapa;25.4
+Alotau;-95.3
+Caetano;-51.3
+Simmerath;-90.0
+Suwa;-84.6
+Jonuta;-65.6
+Seika;-75.0
+Leso;-56.4
+Castelo Branco;-19.1
+Puerto Limón;94.7
+Rong Kwang;32.6
+Giffoni Valle Piana;-15.1
+Sassari;30.4
+Ed Dâmoûr;-95.4
+Mableton;99.7
+Xingyi;-11.4
+Haka;91.1
+Sokotindji;-24.6
+Santa Catarina Ayotzingo;-71.3
+Sai Kung Tuk;31.9
+Sonsón;-71.3
+Ianantsony;13.9
+Villa Cañás;59.2
+Nivala;22.7
+Maple Shade;62.9
+Sharbaqty;41.2
+Hessisch Oldendorf;-87.8
+Akhty;53.2
+Mponela;-18.6
+Refahiye;52.5
+Kozmodemyansk;-54.3
+Boac;-4.7
+El Milia;15.1
+Fiano Romano;-77.8
+Bagabag;44.7
+Fagundes;-81.9
+Mae Sai;52.5
+Risalpur Cantonment;-42.9
+Dhuliān;-73.8
+Ferryhill;10.7
+Waspán;66.5
+Seia;73.8
+Gomparou;-38.2
+Bariadi;94.5
+Petare;94.1
+Antarvedi;-82.6
+Moorestown;-88.1
+Sahaswān;17.9
+Dumarao;-1.8
+Megion;84.4
+Kétou;63.8
+Mugnano di Napoli;24.8
+Pietà;-7.9
+Tripurāntakam;66.8
+Gaada;43.6
+Brighton;15.8
+Wavre;87.1
+Quirinópolis;61.4
+Birigui;-97.5
+Tanudan;88.0
+Mawu;-58.6
+Kaišiadorys;12.8
+Sainte-Julie;-39.1
+Hizan;69.6
+Shepperton;-3.3
+Gori;-43.9
+Friern Barnet;-64.9
+Höhr-Grenzhausen;-56.4
+Podlehnik;-31.3
+Jiannan;47.7
+Hohen Neuendorf;-22.6
+Hannover;-49.8
+Ankavandra;73.8
+Jacundá;58.5
+Padiāla;73.4
+Talwāra;43.2
+Franklin;97.2
+Vernon Hills;94.3
+Bintulu;36.0
+Bremerton;-31.2
+Arta;-53.7
+Zelenogradsk;-85.8
+Hyrum;-11.2
+Nabarūh;33.4
+Buford;-38.9
+El Ayote;94.6
+Wolfsburg;17.7
+Picayune;39.6
+Ungheni;29.2
+Monfort Heights;45.4
+Barud;3.1
+L’Assomption;-46.2
+Los Hidalgos;80.4
+Muskegon;5.2
+Lillerød;-44.1
+Zongdi;-7.6
+Raffadali;-39.7
+Lozovo;-88.3
+Shināş;28.7
+Raxaul;-68.7
+Colts Neck;90.3
+Manjuyod;3.9
+Sonepur;48.5
+Korosten;-12.2
+Chirpan;-69.7
+Lubin;-74.4
+Trece Martires City;-53.0
+Bellaire;60.3
+Oleksandriia;89.6
+Calverton;10.1
+Poltava;-13.7
+Rava-Rus’ka;71.5
+Afgooye;28.6
+Zhongzhai;83.9
+Los Ángeles;69.3
+Karak;-7.2
+Chalchihuitán;-13.1
+Empoli;41.9
+Ximeicun;45.1
+Miskolc;59.1
+Vernon Hills;95.5
+Oatlands;76.6
+Carlos Casares;63.6
+La Porte;68.7
+Buchholz in der Nordheide;-34.3
+Mandza;-13.1
+San Isidro de Lules;99.1
+Qaskeleng;59.0
+Bischofshofen;24.1
+Comrat;25.2
+Dandeli;85.2
+Drexel Hill;-34.9
+Puerto Caimito;71.6
+Shināş;-0.9
+Jangalapalle;30.8
+Koganei;-67.1
+Pôrto Seguro;69.1
+Matalam;70.0
+Tepetlaoxtoc;67.9
+Hanımçiftliği;-3.5
+Beppu;79.8
+San Pietro Vernotico;-68.8
+Petaling Jaya;72.6
+Tanhaçu;20.2
+Changbang;55.6
+Nyandoma;-15.2
+Tanga;57.9
+Bafanji;20.3
+Matsudo;32.3
+Höshööt;65.5
+Jeseník;-2.8
+Richmond Hill;-57.5
+Hokitika;3.2
+Ianantsony;-70.6
+Basantpur;79.5
+Ambodimotso Atsimo;92.6
+Neiafu;54.0
+Mocharim;13.7
+Barra do Corda;-48.1
+Marton;-71.0
+Sali;67.4
+Pakenham;-93.1
+Tarīm;1.3
+Mali;97.0
+Rio de Mouro;53.4
+Mali;-37.9
+Plottier;70.1
+Veinticinco de Mayo;96.7
+Sāsan;-57.3
+Piancó;7.6
+Chokwé;91.9
+Sogod;-76.6
+New Bern;5.0
+Fatehpur Sīkri;-28.0
+Motkūr;62.4
+Buguias;-42.6
+Pidugurālla;-56.0
+Charleville-Mézières;-68.2
+Kollegāl;25.0
+Dzhankoi;-87.6
+Saint-Avold;69.1
+Bekobod;-72.4
+Tsarahasina;17.4
+Rutherford;70.1
+Sandachō;71.4
+Port Blair;-3.9
+Okaya;34.1
+Dirusumarru;15.1
+Chiquimulilla;-52.6
+Bjelovar;-70.2
+Aberbargoed;26.4
+Belvedere Park;-1.8
+Fukuyoshi;-54.0
+Gyumri;-24.3
+Montagnana;90.2
+Santa María Chiquimula;88.9
+Sered’;4.5
+Tielt;-88.5
+Natividad;-66.9
+Tanmen;-37.9
+Monticello Conte Otto;-29.2
+Zakamensk;92.7
+Zunheboto;-82.0
+Sidi Bousber;-54.1
+Buddayyakota;-46.7
+Penzance;0.3
+Piazza Armerina;-25.9
+Aci Catena;-9.0
+Hickam Housing;66.4
+Sena Madureira;14.5
+Ampahimanga;-55.8
+Panamarattuppatti;-30.8
+Gros Islet;-33.6
+Fuente de Oro;31.3
+Shlisselburg;78.4
+Dhuliān;6.6
+Tumaco;-72.3
+Muli;60.6
+Kuala Terengganu;-39.9
+East York;9.7
+Karamay;-15.0
+Ch’ŏngjin;34.9
+Slateng Dua;31.1
+Jalalabad;89.3
+Hadagalli;-78.5
+Kannamangalam;37.3
+Alleroy;47.4
+Mirzāpur;-63.4
+Villa Sandino;-54.8
+Picayune;52.2
+Malacacheta;-31.8
+Esmeralda;-20.1
+Aalen;67.8
+Dillingen;-15.9
+Juban;64.0
+Ataléia;-64.3
+Whyalla;-28.2
+Milenaka;17.0
+La Resolana;98.6
+Center Point;-56.7
+Petaling Jaya;-57.7
+Orvault;17.9
+Olovyannaya;-5.1
+Keystone;-58.3
+Jiwachhpur;-31.5
+Rupenaguntla;12.0
+Nardò;38.5
+Pardés H̱anna Karkur;-62.0
+Jitotol;0.2
+Khathjari;17.1
+Garkha;29.3
+Nakashunbetsu;3.1
+Guáimaro;22.5
+Plainville;-57.9
+Yādavolu;69.6
+Tabant;96.9
+Claremont;-12.3
+Jettihalli;85.7
+Dronfield;-97.6
+Salempur;9.7
+Lake Butler;-46.7
+Tatsunochō-tominaga;-6.5
+Hanımçiftliği;55.8
+Marhaura;-55.5
+Maruim;-82.0
+Carolina Forest;29.1
+Táriba;87.4
+Lincang;-5.1
+Buritirama;84.9
+Sighişoara;60.3
+Houbu;36.5
+Songkhla;-54.2
+Santa Cecília;-60.0
+Ikaruga;18.6
+Saint-Pol-sur-Mer;-80.2
+Dasūya;-96.7
+Colonia del Sol;-54.5
+Thiruvananthapuram;39.2
+Poço Redondo;-8.5
+White Plains;72.6
+Pizarro;26.1
+Xonobod;-79.2
+Bandar Emām;61.2
+Volterra;-15.8
+Jhārsugra;45.4
+Brno;67.3
+Laeken;-4.6
+Remada;52.6
+Huozhou;54.5
+Baran;-76.7
+Oullins;-52.2
+Greenwich;-75.6
+Bella Vista;-51.0
+As Sulayyil;-42.8
+Kannānendal;13.1
+Winchendon;-81.2
+Aḑ Ḑab‘ah;-20.9
+Singhāna;-30.0
+Melbourne;-6.4
+Songo;75.1
+Seika;64.9
+Steyr;-42.3
+Analapatsy;11.5
+Pan’an;-80.7
+Fulin;86.7
+Talca;-59.7
+Pont Sondé;-96.7
+Acquaviva delle Fonti;-44.8
+Kleinblittersdorf;60.8
+Los Alcarrizos;2.5
+Almolonga;20.4
+Sfântu-Gheorghe;-73.3
+Aabenraa;12.1
+Baubau;-96.4
+Condé-sur-l’Escaut;97.5
+Woolwich;59.6
+Namīn;-39.4
+Uzun;-46.1
+Bekapaika;-78.6
+Valkeakoski;91.2
+General Rodríguez;96.3
+Iwakuni;-42.6
+Balha;-15.3
+Cheadle;-21.9
+Mirandiba;-20.8
+Lwakhakha;11.9
+Lučani;-47.9
+Tanque Verde;38.0
+Nanzhuang;-18.6
+Hoogeveen;66.3
+Halsūr;-63.7
+Farg‘ona;-29.5
+Rumia;-62.4
+Handwāra;76.5
+Poltava;-0.1
+Bad Sassendorf;-50.8
+Kajiado;-58.4
+Kānp;46.9
+Ambolidibe Atsinanana;6.2
+Zeewolde;-72.5
+Khem Karan Saray;16.5
+Kapadvanj;69.8
+Fort Walton Beach;66.8
+Bungoma;-30.4
+Banovići;87.3
+Toffo;69.3
+Girardota;-63.3
+Tashir;65.7
+Sainthia;-10.6
+Horizontina;98.2
+Monforte del Cid;85.2
+Randers;-57.7
+Bongouanou;30.1
+Mānullahpatti;39.0
+Nazca;-12.9
+Katrīdih;-34.2
+Araci;61.5
+Bernburg;-5.0
+Kuvshinovo;57.7
+Buddayyakota;-41.4
+Dalyoni Bolo;-95.4
+Aguadulce;-29.7
+Akdağmadeni;57.8
+Ebelo;-93.8
+Sankt Pölten;60.8
+Merkānam;83.6
+Sakri;-54.2
+Discovery Bay;-35.2
+Kharī;48.2
+Benslimane;-6.0
+Coreaú;33.8
+Chèddra;-71.5
+San Angelo;-49.0
+Telica;-54.2
+Hrebinka;88.0
+Stavropol;19.0
+Bamban;67.5
+Dandkhora;-84.5
+Zangāreddigūdem;-42.9
+Çine;93.3
+Nabarūh;26.4
+Bayyavaram;88.1
+Safājā;14.7
+Manicaragua;3.2
+Chiryū;73.7
+Hanamaki Onsen;-19.2
+Honchō;-44.2
+Xinlizhuang;-34.8
+Shuyangzha;-11.5
+Sandvika;71.2
+Caorle;-45.8
